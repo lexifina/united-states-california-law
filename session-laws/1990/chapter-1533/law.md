@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 1533 (SB 2455)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6405 is added to the Revenue and Taxation Code, to read: 6405. Notwithstanding Section 6246, the storage, use, or other consumption in this state of the first four hundred dollars ($400) of tangible personal property purchased in a foreign country by an individual from a retailer and personally hand carried into this state from the foreign country within any 30-day period is exempt from the use tax. This section shall not apply to property sent or shipped to this state. SEC. 2. Notwithstanding Section 2230 of the Revenue and Taxation Code, no appropriation is made by this act and the state shall not reimburse any local agency for any sales and use tax revenues lost by it under this act. SEC. 3. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2043.lob
