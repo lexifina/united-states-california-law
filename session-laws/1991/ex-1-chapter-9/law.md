@@ -1,0 +1,5 @@
+# Stats. 1991, 1 Ex. Sess., ch. 9 (AB 23)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6362.7 is added to the Revenue and Taxation Code, to read: 6362.7. There are exempted from the taxes imposed by this part, the gross receipts from the sale of, and the storage, use, or other consumption in this state, of tangible personal property which becomes an ingredient or component part of any newspaper or periodical that is distributed without charge and regularly issued at average intervals not exceeding three months, and any such newspaper or periodical. SEC. 2. Notwithstanding Section 2230 of the Revenue and Taxation Code, no appropriation is made by this act, and the state shall not reimburse any local agency for any sales and use tax revenues lost by it under this act. SEC. 3. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_151.lob
