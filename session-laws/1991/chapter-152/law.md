@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 152 (AB 282)
+
+The people of the State of California do enact as follows: SECTION 1. Section 45125.5 is added to the Education Code, to read: 45125.5. A school district or county office of education may request that a local law enforcement agency conduct an automated records check of a prospective noncertificated employee in order to ascertain whether the prospective noncertificated employee has a criminal record. If the local law enforcement agency agrees to provide that automated records check, the results therefrom shall be returned to the requesting district or county office of education within 72 hours of the written request. A local law enforcement agency may charge a fee to the requesting agency not to exceed the actual expense to the law enforcement agency. For purposes of this section, “prospective noncertificated employee” includes only those applicants whom the requesting school district intends to hire, at the time the automated records check is requested.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1231.lob
