@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 311 (SB 192)
+
+The people of the State of California do enact as follows: SECTION 1. Section 9561.5 is added to the Vehicle Code, to read: 9561.5. The department shall waive any penalties that may be due for late payment of registration renewal fees on a vehicle if all of the following criteria are met: (a) The vehicle is sold through a dealer conducting a wholesale motor vehicle auction as provided in subdivision (b) of Section 4456 and Article 5 (commencing with Section 6100) of Chapter 2 of Division 3. (b) Immediately prior to the sale the vehicle was registered as a leased vehicle. (c) Delivery of the vehicle to the dealer conducting the wholesale motor vehicle auction was not later than 25 days after the termination of the lease. (d) The date of termination of the lease and the date of delivery to the auction is reported on the application for registration, or application for transfer and registration, in a format that is acceptable to the department.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_786.lob
