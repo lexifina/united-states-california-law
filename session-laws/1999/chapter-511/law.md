@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 511 (SB 152)
+
+The people of the State of California do enact as follows:SECTION 1.Section 79.2 is added to the Military and Veterans Code, to read:79.2.(a) In addition to the secretary, the Governor shall appoint a Deputy Secretary of Veterans Homes, to serve at the pleasure of the secretary, who shall be responsible for the administration of all sites of the California veterans homes.(b) It is preferable that the deputy secretary is a medical doctor who holds a valid, unrevoked, and unsuspended license to practice medicine in this state, or is a professionally trained hospital administrator with (1) experience in managing a multihospital organization and (2) training or experience in the care of the elderly.(c) The role of the deputy secretary shall be to oversee and monitor all aspects of medical care that is being provided to men and women veterans who are residents in any California veterans home.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24871.lob
