@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 352 (AB 42)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1170.82 is added to the Penal Code, to read: 1170.82. Upon a conviction of a violation of Section 11352, 11360, 11379, or 11379.5 of the Health and Safety Code, the fact that the person who committed the offense knew, or reasonably should have known, that any of the following circumstances existed with regard to the person to whom he or she unlawfully sold, furnished, administered, or gave away a controlled substance, shall be a circumstance in aggravation of the crime in imposing a term pursuant to subdivision (b) of Section 1170: (a) The person was pregnant at the time of the selling, furnishing, administering, or giving away of the controlled substance. (b) The person had been previously convicted of a violent felony, as defined in subdivision (c) of Section 667.5. (c) The person was in psychological treatment for a mental disorder or for substance abuse at the time of the selling, furnishing, administering, or giving away of the controlled substance.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2577.lob
