@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 536 (SB 1291)
+
+The people of the State of California do enact as follows: SECTION 1. Section 13228 is added to the Water Code, to read: 13228. (a) Concerning any matter that may be submitted to a regional board by a person or entity that is subject to regulation by more than one regional board, the person or entity may submit the matter to one of those regional boards if both of the following requirements are met: (1) The person or entity submits a written request to all affected regional boards that one regional board be designated to regulate the matter. (2) All affected regional boards agree in writing to the designation. Unless the board of any affected regional board denies the request, the executive officer of a regional board may grant a request submitted pursuant to paragraph (1) on behalf of that board. (b) Notwithstanding subdivision (a), any regional board that is affected by a matter for which a designation is made in accordance with subdivision (a) may take enforcement action with regard to that matter.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2393.lob
