@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 558 (SB 2032)
+
+The people of the State of California do enact as follows: SECTION 1. Section 11580.04 is added to the Insurance Code, to read: 11580.04. Any additional insured endorsement issued by an admitted or nonadmitted insurer for the benefit of a public agency in connection with, collateral to, or affecting any construction contract to which the provisions of subdivision (b) of Section 2782 of the Civil Code apply, shall not provide any duty of indemnity coverage for the active negligence of the additional insured in any case where an agreement to indemnify the additional insured would be invalid under subdivision (b) of Section 2782 of the Civil Code. In any case where a claim or loss encompasses the negligence of the original insured and the active negligence of the additional insured that is not covered because of this section, the insurer’s obligation shall be limited to obligations permitted by this section. Any contract requirement that requires a promisor to procure insurance that is invalid under this section shall be invalid.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1805.lob
