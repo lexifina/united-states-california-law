@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 50 (SB 18)
+
+The people of the State of California do enact as follows: SECTION 1. Section 3564 of the Elections Code is amended to read: 3564. A ballot argument shall not be accepted under this article unless accompanied by the name, business or home address, and telephone number of each person submitting it, or, if submitted on behalf of an organization, the name, business address, and telephone number of the organization and of at least two of its principal officers. The name, business or home address, and telephone number of a contact person for each individual shall also be submitted. SEC. 2. Section 3566 of the Elections Code is amended to read: 3566. (a) No more than three signatures shall appear with any argument printed in the ballot pamphlet. In case any argument is signed by more than three persons the signatures of the first three shall be printed. (b) The Secretary of State shall provide, upon request, the name of, and a telephone number for, each signer of a ballot argument printed in the ballot pamphlet.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1628.lob
