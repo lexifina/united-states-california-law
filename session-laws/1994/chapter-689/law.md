@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 689 (AB 3033)
+
+The people of the State of California do enact as follows: SECTION 1. Section 26721 of the Government Code is amended to read: 26721. Except as provided in this article, the fee for serving or executing any process or notice required by law or the litigants to be served is twenty-four dollars ($24), and there shall be no additional fee for substitute service when substitute service is authorized. However, no fee shall be charged for serving an emergency protective order, protective order, or restraining order issued pursuant to Division 10 of the Family Code (the Domestic Violence Prevention Act) on a respondent who is in custody. In any case where property has been levied upon and, pursuant to the levy, a copy of the writ of execution and a notice of levy are required by statute to be served either personally or by mail upon the judgment debtor or other person, no fee shall be charged for that service.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2240.lob
