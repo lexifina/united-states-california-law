@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 300 (AB 2193)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5221 of the Business and Professions Code is amended to read: 5221. “Sign” refers to any card, cloth, paper, metal, painted or wooden sign of any character placed for outdoor advertising purposes on or to the ground or any tree, wall, bush, rock, fence, building, structure or thing, either privately or publicly owned, other than an advertising structure. “Sign” does not include any of the following: (a) Official notices issued by any court or public body or officer. (b) Notices posted by any public officer in performance of a public duty or by any person in giving any legal notice. (c) Directional warning or information signs or structures required by or authorized by law or by federal, state or county authority. (d) A sign erected near a city or county boundary that contains the name of that city or county and the names of, or any other information regarding, civic, fraternal, or religious organizations located within that city or county.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2059.lob
