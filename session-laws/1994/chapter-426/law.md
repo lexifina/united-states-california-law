@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 426 (AB 2800)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12828.5 is added to the Food and Agricultural Code, to read: 12828.5. (a) A registrant at any time may request that the registration of any of its economic poisons be voluntarily canceled. The request shall be in writing and shall include a waiver of the registrant’s right to a hearing on the cancellation. (b) The director shall mail a notice of cancellation of registration of the economic poison to the registrant. The notice shall specify the effective date of the cancellation. (c) The economic poison for which the registration is canceled may be sold and possessed as if the product’s registration was not renewed unless the director determines that protection of human health or the environment require otherwise, in which case the cancellation notice shall specify the conditions under which the product may be sold or possessed after cancellation of its registration.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2503.lob
