@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 630 (SB 1927)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1054.8 is added to the Penal Code, to read: 1054.8. (a) No prosecuting attorney, attorney for the defendant, or investigator for either the prosecution or the defendant shall interview, question, or speak to a victim or witness whose name has been disclosed by the opposing party pursuant to Section 1054.1 or 1054.3 without first clearly identifying himself or herself, identifying the full name of the agency by whom he or she is employed, and identifying whether he or she represents, or has been retained by, the prosecution or the defendant. If the interview takes place in person, the party shall also show the victim or witness a business card, official badge, or other form of official identification before commencing the interview or questioning. (b) Upon a showing that a person has failed to comply with this section, a court may issue any order authorized by Section 1054.5.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1731.lob
