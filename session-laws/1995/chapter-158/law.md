@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 158 (AB 891)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5006 is added to the Labor Code, to read: 5006. A determination of facts by the appeals board under this chapter has no collateral estoppel effect on a subsequent criminal prosecution and does not preclude litigation of those same facts in the criminal proceeding. SEC. 2. Section 5413 is added to the Labor Code, to read: 5413. A determination of facts by the appeals board under this chapter has no collateral estoppel effect on a subsequent criminal prosecution and does not preclude litigation of those same facts in the criminal proceeding. SEC. 3. Section 5816 is added to the Labor Code, to read: 5816. A determination of facts by the appeals board under this chapter has no collateral estoppel effect on a subsequent criminal prosecution and does not preclude litigation of those same facts in the criminal proceeding.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_941.lob
