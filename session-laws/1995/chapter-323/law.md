@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 323 (AB 1273)
+
+The people of the State of California do enact as follows: SECTION 1. Section 48200.5 is added to the Education Code, to read: 48200.5. Notwithstanding Section 48200, any resident of the City of Carson who is the parent or legal guardian of a person subject to compulsory education may enroll that person in either the school district in which the residency of the parent or guardian is located or in the Los Angeles Unified School District pursuant to the terms of an agreement permitting those transfers that is mutually adopted by the Compton Unified School District and the Los Angeles Unified School District. SEC. 2. The Legislature finds and declares that a general statute, within the meaning of Section 16 of Article IV of the California Constitution, cannot be made applicable to the unique problems within the City of Carson that this act is intended to remedy, and that, therefor, this special statute is necessary.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_777.lob
