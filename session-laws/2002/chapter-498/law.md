@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 498 (SB 284)
+
+The people of the State of California do enact as follows:SECTION 1.Section 17255 is added to the Education Code, to read:17255.The Energy Resources Conservation and Development Commission shall, in consultation with the State Department of Education and the Division of the State Architect and the Office of Public School Construction within the Department of General Services, recommend best design practices that include energy efficiency measures for all new public schools. The practices and measures shall have as a goal incorporating energy efficiency design and technologies that would provide the greatest amount of energy efficiency savings within a cost recapture period of seven years. The commission may additionally recommend best design practices and measures that would be cost-effective taking into consideration life-cycle costs. The recommendations shall be reported to the Governor and the Legislature by October 1, 2003.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23398.lob
