@@ -1,0 +1,5 @@
+# Stats. 1992, 1 Ex. Sess., ch. 23 (AB 57)
+
+The people of the State of California do enact as follows: SECTION 1. Section 17208.2 is added to the Revenue and Taxation Code, to read: 17208.2. For taxable years beginning on or after January 1, 1992, in addition to the losses specified in Section 17207, the provisions of that section shall apply to any loss sustained as a result of the earthquakes that occurred in the County of San Bernardino in June and July of 1992 or any other related casualty. SEC. 2. Section 24347.8 is added to the Revenue and Taxation Code, to read: 24347.8. For income years beginning on or after January 1, 1992, in addition to the losses specified in Section 24347.5, the provisions of that section shall apply to any loss sustained as a result of the earthquakes that occurred in the County of San Bernardino in June and July of 1992 or any other related casualty. SEC. 3. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1533.lob
