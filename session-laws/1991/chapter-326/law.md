@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 326 (AB 1164)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19621 of the Business and Professions Code is amended to read: 19621. (a) Not more than 5 percent of the Fair and Exposition Fund may be used during the 1991–92, 1992–93, 1993–94, or 1994–95 fiscal years to augment the budget of the Department of Food and Agriculture to provide services to fairs and to implement Sections 19627, 19627.1, and 19627.2. (b) The Director of Food and Agriculture shall annually project the available revenues from this source and submit a recommendation to the Governor for the additional staff and contracts necessary to carry out those sections. (c) This section shall become inoperative on July 1, 1995, and, as of January 1, 1996, is repealed, unless a later enacted statute, which becomes effective on or before January 1, 1995, deletes or extends the date on which it becomes inoperative and is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1059.lob
