@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 162 (SB 2061)
+
+The people of the State of California do enact as follows: SECTION 1. Section 7.5 is added to the Penal Code, to read: 7.5. Whenever any offense is described in this code, the Uniform Controlled Substances Act (Division 10 (commencing with Section 11000) of the Health and Safety Code), or the Welfare and Institutions Code, as criminal conduct and as a violation of a specified code section or a particular provision of a code section, in the case of any ambiguity or conflict in interpretation, the code section or particular provision of the code section shall take precedence over the descriptive language. The descriptive language shall be deemed as being offered only for ease of reference unless it is otherwise clearly apparent from the context that the descriptive language is intended to narrow the application of the referenced code section or particular provision of the code section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2197.lob
