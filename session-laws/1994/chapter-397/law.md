@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 397 (AB 2805)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5006.5 is added to the Vehicle Code, to read: 5006.5. (a) The department may issue, for a fee determined by the department to be sufficient to reimburse the department for actual costs incurred pursuant to this section, distinctive license plates for motor vehicles owned or leased by an officer or a designated employee of a foreign organization recognized by the United States pursuant to the Taiwan Relations Act (22 U.S.C. Sec. 3301 et seq.) when the department is otherwise satisfied that the issuance of the license plates is in order. (b) The distinctive license plates shall be designed by the department and shall contain the words “Foreign Organization.” (c) The department shall establish procedures for both of the following: (1) To verify the eligibility of an applicant for plates issued pursuant to this section. (2) To authorize a recognized foreign organization to apply on behalf of its officers for plates issued pursuant to this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2532.lob
