@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 575 (AB 1163)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of five hundred thousand dollars ($500,000) is hereby appropriated from the General Fund to the California Arts Council for local assistance to be allocated to the City of Sacramento for the purposes of assisting the city in the planning and development of a California Unity Center in Sacramento.The City of Sacramento may only receive funding pursuant to this section in an amount equal to matching funds that the city demonstrates that it has obtained from another source on a dollar-for-dollar basis.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order that funds may be appropriated to facilitate the planning and development of a California Unity Center in Sacramento at the earliest possible time, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24807.lob
