@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 52 (AB 461)
+
+The people of the State of California do enact as follows: SECTION 1. Section 836.1 is added to the Penal Code, to read: 836.1. When a person commits an assault or battery against the person of a firefighter, emergency medical technician, or mobile intensive care paramedic while that person is on duty engaged in the performance of his or her duties in violation of subdivision (b) of Section 241 or subdivision (b) of Section 243, a peace officer may, without a warrant, arrest the person who commits the assault or battery: (a) Whenever the peace officer has reasonable cause to believe that the person to be arrested has committed the assault or battery, although the assault or battery was not committed in the peace officer’s presence. (b) Whenever the peace officer has reasonable cause to believe that the person to be arrested has committed the assault or battery, whether or not the assault or battery has in fact been committed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1047.lob
