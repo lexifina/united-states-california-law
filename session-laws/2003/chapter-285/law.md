@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 285 (AB 1212)
+
+The people of the State of California do enact as follows:SECTION 1.Section 30607.7 is added to the Public Resources Code, to read:30607.7.(a) A coastal development permit for sand replenishment requires the project applicant to provide onsite monitoring and supervision during the implementation of the permit.(b) A permit subject to subdivision (a) may not be issued until the project applicant provides the issuing agency with a plan for onsite monitoring and supervision during the implementation of the permit.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22012.lob
