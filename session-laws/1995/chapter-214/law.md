@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 214 (AB 1917)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5024 of the Food and Agricultural Code is amended to read: 5024. (a) The secretary or the commissioner shall, during the maintenance of any quarantine established by the secretary pursuant to Article 1 (commencing with Section 5301) of Chapter 5, inspect any plant or thing that is, or is liable to be, infested or infected by, or which might act as a carrier of, any pest. The person who conducts the inspection shall not permit any of those plants or things to pass over the quarantine line during the quarantine, except pursuant to a certificate of inspection and release that is signed by that person. (b) Whenever the commissioner finds that a plant or thing does not, and will not, present a threat to the state, the commissioner may recommend to the secretary the waiver of, and the secretary may waive, the inspection and certification requirements specified in subdivision (a).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_885.lob
