@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 1027 (AB 2334)
+
+The people of the State of California do enact as follows:SECTION 1.Section 24200.6 is added to the Business and Professions Code, to read:24200.6.The department may revoke or suspend any license if the licensee or the agent or employee of the licensee violates any provision of Section 11364.7 of the Health and Safety Code. For purposes of this provision, a licensee, or the agent or employee of the licensee, is deemed to have knowledge that the item or items delivered, furnished, transferred, or possessed will be used to plant, propagate, cultivate, grow, harvest, compound, convert, produce, process, prepare, test, analyze, pack, repack, store, contain, conceal, inject, ingest, inhale, or otherwise introduce into the human body a controlled substance, if the department or any other state or local law enforcement agency notifies the licensee in writing that the items, individually or in combination, are commonly sold or marketed for that purpose.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22871.lob
