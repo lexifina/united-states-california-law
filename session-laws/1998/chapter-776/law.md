@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 776 (SB 1535)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1024 of the Government Code is amended to read: 1024. Any person who holds any office or employment under the state or any county, city, district or other political or governmental unit of the state and who has taken any oath described in Section 1023 is relieved of ineligibility to office or employment if he or she petitions any superior court for leave to renounce all promises or obligations assumed by him or her under that oath, and renounces all those promises or obligations before a judge of that court. Any other person who has taken or hereafter takes any such oath may at any time be relieved of ineligibility by petitioning any superior court and renouncing all such promises or obligations in like manner. SEC. 2. Section 1025 of the Government Code is repealed. SEC. 3. Chapter 9 (commencing with Section 540) of Title 13 of Part 1 of the Penal Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1585.lob
