@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 88 (SB 1326)
+
+The people of the State of California do enact as follows: SECTION 1. Section 655 of the Vehicle Code is amended to read: 655. (a) A “truck tractor” is a motor vehicle designed and used primarily for drawing other vehicles and not so constructed as to carry a load, other than a part of the weight of the vehicle and the load so drawn. As used in this section, “load” does not include items carried on the truck tractor in conjunction with the operation of the vehicle if the load carrying space for these items does not exceed 34 square feet. (b) Notwithstanding subdivision (a), a truck tractor, operated by a motor carrier whose owner is licensed by the Department of the California Highway Patrol to transport explosives pursuant to Division 14 (commencing with Section 31600), may be equipped with a cargo container used exclusively for the transportation of explosives or munitions-related security material, as specified by the United States Department of Defense.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2840.lob
