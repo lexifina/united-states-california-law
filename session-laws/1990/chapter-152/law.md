@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 152 (AB 3180)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5782.18 of the Public Resources Code is repealed. SEC. 2. Section 5782.18 is added to the Public Resources Code, to read: 5782.18. The board may provide, by ordinance or resolution, that each of its members may receive an amount, not to exceed one hundred dollars ($100) per day for each attendance at a meeting of the board. For purposes of this section, a meeting of the board includes, but is not limited to, closed sessions of the board, board field trips, district public hearings, or meetings of a committee of the board. The maximum compensation allowable to a board member on any given day shall be one hundred dollars ($100). No board member shall receive more than five hundred dollars ($500) compensation under this section in any one calendar month. A board member may elect to waive the compensation.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3423.lob
