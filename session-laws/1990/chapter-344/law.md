@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 344 (AB 3285)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10365.5 is added to the Public Contract Code, to read: 10365.5. (a) No person, firm, or subsidiary thereof who has been awarded a consulting services contract may submit a bid for, nor be awarded a contract for, the provision of services, procurement of goods or supplies, or any other related action which is required, suggested, or otherwise deemed appropriate in the end product of the consulting services contract. (b) Subdivision (a) shall not apply to any person, firm, or subsidiary thereof who is awarded a subcontract of a consulting services contract which amounts to no more than 10 percent of the total monetary value of the consulting services contract is exempt from this section. (c) Subdivisions (a) and (b) shall not apply to consulting services contracts subject to Chapter 10 (commencing with Section 4525) of Division 5 of Title 1 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3231.lob
