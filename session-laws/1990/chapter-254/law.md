@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 254 (AB 2897)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25350.51 of the Government Code is amended to read: 25350.51. The board may, by ordinance or resolution, delegate to the purchasing agent or other appropriate county official, subject to any rules and regulations as it may impose, the following authority: (a) To lease real property for use by the county for a term not to exceed three years and for a rental not to exceed two thousand five hundred dollars ($2,500) per month. (b) To amend real property leases for improvements or alterations, or both, with a total cost not to exceed two thousand five hundred dollars ($2,500) provided that the amendment does not extend the term of the lease and that no more than two amendments, not to exceed two thousand five hundred dollars ($2,500) each, are made within a 12-month period. Notice of intention to consummate the lease shall be posted in a public place for five working days prior to consummation of the lease.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3321.lob
