@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 165 (AB 294)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1768.8 of the Welfare and Institutions Code is amended to read: 1768.8. (a) An assault or battery by any person confined in an institution under the jurisdiction of the Department of the Youth Authority upon the person of any individual who is not confined therein shall be punishable by a fine not exceeding two thousand dollars ($2,000), or by imprisonment in the county jail not exceeding one year, or by both a fine and imprisonment. (b) An assault by any person confined in an institution under the jurisdiction of the Department of the Youth Authority upon the person of any individual who is not confined therein, with a deadly weapon or instrument, or by any means of force likely to produce great bodily injury, is a felony punishable by imprisonment in the state prison for two, four, or six years.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1261.lob
