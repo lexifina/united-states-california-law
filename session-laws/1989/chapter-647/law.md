@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 647 (AB 1227)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The Department of Corrections shall conduct a study to document the impact of new prisons upon the school facilities of the public school system in the area of the new prisons, including, but not limited to, the number of correctional officers and other employees of the department who are employed at or near those new prisons, the number of schoolaged children of those employees, and the amount of capital expenditure, if any, that was necessary to meet the school facilities needs resulting from the new prison. The study shall address, for this purpose, two locations, selected by the department, where a new prison has been activated since 1984. In conducting the study, the department shall request data on school facilities conditions, and other relevant information, from school districts whose pupil population was affected by the new prison. (b) The department shall submit the study described in subdivision (a) to the Legislature no later than July 1, 1991.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1032.lob
