@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 365 (AB 2820)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1684 is added to the Business and Professions Code, to read: 1684. In addition to other acts constituting unprofessional conduct under this chapter, it is unprofessional conduct for a person licensed under this chapter to perform, or hold himself or herself out as able to perform, professional services beyond the scope of his or her license and field or fields of competence as established by his or her education, experience, training, or any combination thereof. This includes, but is not limited to, the use of any instrument or device in a manner that is not in accordance with the customary standards and practices of the dental profession. This section shall not apply to research conducted by accredited dental schools or colleges, or to research conducted pursuant to an investigational device exemption issued by the United States Food and Drug Administration.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2564.lob
