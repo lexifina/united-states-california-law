@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 192 (AB 263)
+
+The people of the State of California do enact as follows:SECTION 1.Section 130021 is added to the Health and Safety Code to read:130021.(a) All regulatory submissions to the California Building Standards Commission made by the office pursuant to this article and Article 9 (commencing with Section 130050) shall be deemed to be emergency regulations and shall be adopted as such. (b) This article shall remain in effect only until January 1, 2001, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2001, deletes or extends that date.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order that regulations relating to seismic safety in hospitals take effect at the earliest possible time, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25187.lob
