@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 505 (AB 1357)
+
+The people of the State of California do enact as follows:SECTION 1.(a) The Legislature finds and declares that the Baldwin Hills area of Los Angeles, while currently used primarily as an active oil production area, has unique geographical and natural characteristics that offer the potential for the development of a world class urban park as oil production in the area declines or is consolidated.(b) (1) The Secretary of the Resources Agency, in conjunction with the Director of Parks and Recreation, not later than November 1, 2000, shall conduct a study of the feasibility and desirability of expanding the Kenneth Hahn State Recreation Area to include all, or a substantial portion, of the Baldwin Hills area of the County of Los Angeles in order to provide for the creation of a major urban park to serve the entire Los Angeles area.(2) The study required to be prepared pursuant to paragraph (1) shall be incorporated into any master plan that is prepared for the expansion of the Kenneth Hahn State Recreation Area.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24877.lob
