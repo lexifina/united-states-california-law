@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 499 (AB 1222)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5626.3 is added to the Public Resources Code, to read:5626.3.Notwithstanding Sections 5625 and 5626, the County of Los Angeles may convert to a use not authorized under those provisions not more than 9.67 acres of parkland in El Cariso Park, if the county complies with the Public Park Preservation Act of 1971 (Chapter 2.5 (commencing with Section 5400)), and submits to the department a copy of all documents evidencing the county’s interest in the substitute parkland required under the act.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to ensure that Mission College may expand in a timely manner to accommodate projected growth in student enrollment, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20725.lob
