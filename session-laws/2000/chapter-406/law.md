@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 406 (AB 1966)
+
+The people of the State of California do enact as follows:SECTION 1.Section 75.5 of the Revenue and Taxation Code is amended to read:75.5.“Property” means and includes manufactured homes subject to taxation under Part 13 (commencing with Section 5800) and real property, other than the following:(a) Fixtures that are normally valued as a separate appraisal unit from a structure.(b) Newly created taxable possessory interests, established by month-to-month agreements in publicly owned real property, having a full cash value of fifty thousand dollars ($50,000) or less.SEC. 2.Notwithstanding Section 2229 of the Revenue and Taxation Code, no appropriation is made by this act and the state shall not reimburse any local agency for any property tax revenues lost by it pursuant to this act.SEC. 3.This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23815.lob
