@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 714 (SB 1417)
+
+The people of the State of California do enact as follows: SECTION 1. Chapter 5 (commencing with Section 13731) of Title 5 of Part 4 of the Penal Code is repealed. SEC. 2. Notwithstanding Section 17610 of the Government Code, if the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code. If the statewide cost of the claim for reimbursement does not exceed one million dollars ($1,000,000), reimbursement shall be made from the State Mandates Claims Fund. Notwithstanding Section 17580 of the Government Code, unless otherwise specified in this act, the provisions of this act shall become operative on the same date that the act takes effect pursuant to the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_965.lob
