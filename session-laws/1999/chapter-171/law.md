@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 171 (SB 545)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1748.9 is added to the Civil Code, to read:1748.9.(a) A credit card issuer that extends credit to a cardholder through the use of a preprinted check or draft shall disclose on the front of an attachment that is affixed by perforation or other means to the preprinted check or draft, in clear and conspicuous language, all of the following information:(1) That “use of the attached check or draft will constitute a charge against your credit account.”(2) The annual percentage rate and the calculation of finance charges, as required by Section 226.16 of Regulation Z of the Code of Federal Regulations, associated with the use of the attached check or draft.(3) Whether the finance charges are triggered immediately upon the use of the check or draft.SEC. 2.This act shall become operative on July 1, 2000.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25208.lob
