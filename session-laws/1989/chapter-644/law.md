@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 644 (AB 726)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19533.5 is added to the Business and Professions Code, to read: 19533.5. Notwithstanding Section 19533, the board may authorize an association licensed to conduct a quarter horse meeting to include Appaloosa races and Arabian races with the consent of the quarter horse horsemen’s organization contracting with the association with respect to the conduct of the racing meeting. SEC. 2. Section 19571 of the Business and Professions Code is amended to read: 19571. No horserace authorized by the board, except the last scheduled race of any racing day, may be commenced after midnight. SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order that this act may apply during this racing season, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1035.lob
