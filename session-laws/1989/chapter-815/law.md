@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 815 (AB 1011)
+
+The people of the State of California do enact as follows: SECTION 1. Section 409.9 is added to the Code of Civil Procedure, to read: 409.9. (a) Any person who has entered into a contract to transfer an interest in real property shall, upon receipt of a notice of the pendency of an action concerning that real property, notify all prospective transferees of the receipt of that notice. (b) The notice required by subdivision (a) shall be given by mailing by certified mail, return receipt requested, or personal delivery, a copy of the notice of the pendency of an action within three days after receipt of the notice. (c) No transfer subject to this section shall be invalidated solely because of the failure of any person to comply with its provisions. However, any person who willfully or negligently violates or fails to perform the duty prescribed by this section shall be liable in the amount of actual damages suffered by a transferee.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_864.lob
