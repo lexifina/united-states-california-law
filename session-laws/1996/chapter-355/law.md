@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 355 (SB 1734)
+
+The people of the State of California do enact as follows: SECTION 1. Section 903.2 of the Welfare and Institutions Code is amended to read: 903.2. (a) The juvenile court may require that the father, mother, spouse, or other person liable for the support of a minor, the estate of that person, and the estate of the minor shall be liable for the cost to the county of the probation supervision, home supervision, or electronic surveillance of the minor, pursuant to the order of the juvenile court, by the probation officer. The liability of these persons (in this article called relatives) and estates shall be a joint and several liability. (b) Liability shall be imposed on a person pursuant to this section only if he or she has the financial ability to pay. In evaluating a family’s financial ability to pay under this section, the county shall take into consideration the family income, the necessary obligations of the family, and the number of persons dependent upon this income.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_2008.lob
