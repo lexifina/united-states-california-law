@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 470 (AB 1979)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1871.2 of the Insurance Code is amended to read:1871.2.(a) Any insurer who, in connection with any insurance contract or provision of contract described in Section 108, prints, reproduces, or furnishes a form to any person upon which that person gives notice to the insurer or makes claim against it by reason of accident, injury, death, or other noticed or claimed loss, or on a rider attached thereto, shall cause to be printed or displayed in comparative prominence with other content the statement: “Any person who knowingly presents false or fraudulent claim for the payment of a loss is guilty of a crime and may be subject to fines and confinement in state prison.” This statement shall be preceded by the words: “For your protection California law requires the following to appear on this form” or other explanatory words of similar meaning.(b) This section is not applicable to a contract of reinsurance as defined in Section 620.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23751.lob
