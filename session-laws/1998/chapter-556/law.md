@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 556 (SB 1948)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12921.15 is added to the Insurance Code, to read: 12921.15. On or before July 1, 1999, the commissioner shall prepare a written report, to be made available by the department to interested individuals upon written request, that details complaint and enforcement information on individual insurers in accordance with guidelines established under paragraph (5) of subdivision (a) of Section 12921.1. The report shall be made available by mail through the department’s consumer toll-free telephone number and through the department’s Internet website and transmitted via electronic mail if the individual has the ability to obtain the report in this manner. No complaint information shall be included in the report required by this section that has not been provided to the insurer in accordance with subdivision (c) of Section 12921.1.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1805.lob
