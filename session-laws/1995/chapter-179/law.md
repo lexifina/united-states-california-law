@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 179 (SB 1082)
+
+The people of the State of California do enact as follows: SECTION 1. Section 96.25 is added to the Revenue and Taxation Code, to read: 96.25. Notwithstanding any other provision of law, the property tax apportionment factors applied in allocating property tax revenues in the County of Plumas for each fiscal year through the 1993–94 fiscal year shall be deemed correct. However, commencing with the 1994–95 fiscal year, property tax apportionment factors applied in allocating property tax revenue in the County of Plumas shall be determined on the basis of apportionment factors for prior fiscal years that have been corrected or adjusted as would be required in the absence of the preceding sentence. SEC. 2. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the uniquely severe fiscal difficulties being suffered by certain local agencies in the County of Plumas.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_920.lob
