@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 323 (AB 1685)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10006 is added to the Penal Code, to read: 10006. (a) The Department of the Youth Authority and local juvenile halls and camps are prohibited from allowing a minor detained in any institution or facility under their respective jurisdiction to view a videotape or movie shown by the institution or facility that contains harmful matter, as specified in Chapter 7.6 (commencing with Section 313) of Title 9 of Part 1. (b) The Department of Corrections, the Department of the Youth Authority, county juvenile halls and camps, and local adult detention facilities may promulgate regulations regarding the showing of videotapes and movies at any institution or facility under their respective jurisdiction in order to provide for the reasonable security of the institution or facility in which a minor or adult is confined and for the reasonable protection of the public consistent with Section 2600.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2606.lob
