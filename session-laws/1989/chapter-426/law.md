@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 426 (AB 1287)
+
+The people of the State of California do enact as follows: SECTION 1. It is the intent of the Legislature that this act not impact employer contribution rates. SEC. 2. Section 21339.1 is added to the Government Code, to read: 21339.1. A member who elected to receive optional settlement 2 or optional settlement 3, involving life contingency of the beneficiary, and whose designated beneficiary was his or her spouse, may, if his or her spouse predeceases the member, elect to have, as of the date of election, the allowance which would be payable had the member not elected to receive an optional settlement involving a life contingency of the beneficiary, payable for the remainder of his or her lifetime. The election shall be made within 12 months following the spouse’s death. If a member who has retired prior to January 1, 1990, elects this section on or after January 1, 1990, his or her new allowance shall be subject to an actuarial reduction. This section shall not apply to a member whose spouse died prior to January 1, 1990.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1252.lob
