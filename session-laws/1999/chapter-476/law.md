@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 476 (SB 965)
+
+The people of the State of California do enact as follows:SECTION 1.Section 35021.2 is added to the Education Code, to read:35021.2.(a) When a school district or county office of education pursuant to Section 11105.3 of the Penal Code requests from the Department of Justice records involving criminal offenses committed by a prospective volunteer, the school district or county office of education may request that the Department of Justice provide subsequent arrest notification service pursuant to Section 11105.2 of the Penal Code. The Department of Justice shall comply with a request made pursuant to this section.(b) This section also applies to a person, firm, association, partnership, or corporation offering or conducting private school instruction on the elementary or high school level that requests, pursuant to Section 11105.3 of the Penal Code, records involving criminal offenses committed by a prospective volunteer.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24904.lob
