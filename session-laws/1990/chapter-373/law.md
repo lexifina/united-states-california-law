@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 373 (SB 2155)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5313.5 of the Public Utilities Code is amended to read: 5313.5. Whenever the commission, after hearing, finds that any person or corporation is operating as a household goods carrier without a valid permit, or is holding itself out as such a carrier without a valid permit in contravention of Section 5314.5, the commission may impose a fine of not more than five thousand dollars ($5,000) for each violation. The commission may assess the person or corporation an amount sufficient to cover the reasonable expense of investigation incurred by the commission. The commission may also assess interest on any fine or assessment imposed, to commence on the day the payment of the fine or assessment becomes delinquent. All fines, assessments, and interest collected shall be deposited at least once each month in the General Fund.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3202.lob
