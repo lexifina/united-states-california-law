@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 94 (AB 2337)
+
+The people of the State of California do enact as follows:SECTION 1.Section 50078.1 of the Government Code is amended to read:50078.1.As used in this article:(a) “Legislative body” means the board of directors, trustees, governors, or any other governing body of a local agency specified in subdivision (b).(b) “Local agency” means any city, county, or city and county, whether general law or chartered, or special district, including a county service area created pursuant to the County Service Area Law, Chapter 2.2 (commencing with Section 25210.1) of Part 2 of Division 2 of Title 3.(c) “Fire suppression” includes firefighting and fire prevention, including, but not limited to, vegetation removal or management undertaken, in whole or in part, for the reduction of a fire hazard.(d)The provisions of this section are severable. If any provision of this section or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21125.lob
