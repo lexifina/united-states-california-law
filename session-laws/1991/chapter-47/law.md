@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 47 (AB 1339)
+
+The people of the State of California do enact as follows: SECTION 1. Section 7149.7 is added to the Fish and Game Code, to read: 7149.7. Notwithstanding Section 7145, the director may designate not more than two days, which may or may not be consecutive, in each year as free sportfishing days during which residents and nonresidents may, without having a sportfishing license and without the payment of any fee, exercise the privileges of a holder of a sportfishing license, subject to all of the limitations, restrictions, conditions, laws, rules, and regulations applicable to the holder of a sportfishing license. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to allow free fishing days to be established in time for the primary fishing seasons of 1991, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1335.lob
