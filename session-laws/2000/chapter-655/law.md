@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 655 (SB 1433)
+
+The people of the State of California do enact as follows:SECTION 1.Section 99400.7 of the Public Utilities Code is amended to read:99400.7.Notwithstanding Sections 99232, 99268.3, and 99405, cities within the County of San Diego may file a claim under this article with the transportation planning agency to provide commuter ferry service on San Diego Bay for the purpose of serving peak period commute trips for pedestrians and bicycles. The commuter ferry service may be located anywhere on San Diego Bay, but shall be consistent with the regional transportation plan, shall serve employment centers and high volume activity centers, and may be provided by contract with operators, private entities operating under a franchise or license, or nonprofit corporations organized pursuant to Division 2 (commencing with Section 5000) of Title 1 of the Corporations Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23567.lob
