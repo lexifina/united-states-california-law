@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 192 (AB 135)
+
+The people of the State of California do enact as follows: SECTION 1. Section 556.4 is added to the Penal Code, to read: 556.4. For purposes of this article, information that appears on any sign, picture, transparency, advertisement, or mechanical device such as, but not limited to, the following, may be used as evidence to establish the fact, and may create an inference, that a person or entity is responsible for the posting of the sign, picture, transparency, advertisement, or mechanical device: (a) The name, telephone number, address, or other identifying information regarding the real estate broker, real estate brokerage firm, real estate agent, or other person associated with the firm. (b) The name, telephone number, address, or other identifying information of the owner or lessee of property used for a commercial activity or event. (c) The name, telephone number, address, or other identifying information of the sponsor or promoter of a sporting event, concert, theatrical performance, or similar activity or event.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2167.lob
