@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 227 (AB 3423)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6552 of the Elections Code is amended to read: 6552. (a) The following fees for filing declarations of candidacy shall be paid to the Secretary of State by each candidate: (1) Two percent of the first-year salary for the office of United States Senator or for any state office. The fee prescribed in this subdivision does not apply to the office of State Senator, Assemblyman, member of the Board of Equalization, or justice of the court of appeal. (2) One percent of the first-year salary for the office of Representative in Congress, member of the Board of Equalization, or justice of the court of appeal. (3) One percent of the first-year salary for the office of State Senator or Assemblyman. (b) For purposes of this section, “salary” means the annual salary for the office as of the first day on which a candidate may circulate petitions in lieu of filing fees pursuant to Section 6555.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3348.lob
