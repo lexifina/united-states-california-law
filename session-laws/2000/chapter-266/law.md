@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 266 (AB 1814)
+
+The people of the State of California do enact as follows:SECTION 1.The Judicial Council shall adopt a rule of court to specifically allow the mother of a breast-fed child to postpone jury duty for a period of up to one year, providing that all steps should be taken to eliminate the need for the mother to physically appear in court to make this request, and providing that at the end of the one-year period, jury duty may be further postponed upon written request by the mother of a breast-fed child.SEC. 2.Section 210.5 is added to the Code of Civil Procedure, to read:210.5.The Judicial Council shall adopt a standardized jury summons for use, with appropriate modifications, around the state, that is understandable and has consumer appeal. The standardized jury summons shall include a specific reference to the rules for breast-feeding mothers. The use of the standardized jury summons shall be voluntary, unless otherwise prescribed by the rules of court.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23955.lob
