@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 289 (AB 2894)
+
+The people of the State of California do enact as follows: SECTION 1. Section 854.1 of the Financial Code is amended to read: 854.1. Notwithstanding Section 10145 of the Business and Professions Code or any other provision of law, but subject to the limitations of Section 854, benefits accruing from the placement in a non-interest bearing account of a commercial bank (including a national banking association) of funds received by a real estate broker who collects payments or provides services in connection with a loan secured by a lien on real property under subdivision (d) of Section 10131 or Section 10131.1 of the Business and Professions Code shall inure to the broker, unless otherwise agreed in writing by the broker and the lender or note owner on the loan. A borrower shall receive at least two percent simple interest per annum on impound account payments covered by Section 2954.8 of the Civil Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2640.lob
