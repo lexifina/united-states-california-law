@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 953 (AB 479)
+
+The people of the State of California do enact as follows: SECTION 1. Section 120267 is added to the Public Utilities Code, to read: 120267. (a) The board may, by ordinance, regulate vehicle safety and driver qualifications for passenger jitney service operating between cities and between a city and unincorporated portions of San Diego County within the area of its jurisdiction. (b) The board shall levy the fees necessary to recover the full cost of regulating these services. (c) For purposes of this section, the term “passenger jitney service” includes every corporation or person engaged as a common carrier, for compensation, in the ownership, control, operation, or management of a passenger transportation service by motor vehicles of not more than 15 passenger capacity, excluding the driver, which operate between fixed termini and over a regular route and generally on short, nonscheduled, headways.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2622.lob
