@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 127 (AB 808)
+
+The people of the State of California do enact as follows: SECTION 1. Section 90407 is added to the Education Code, to read: 90407. (a) Commencing July 1, 1992, the trustees shall succeed to the powers, duties, and functions of the Department of Food and Agriculture with respect to a Dairy Products Technology Center at California Polytechnic State University, San Luis Obispo, which was authorized by Section 2 of Chapter 1514 of the Statutes of 1986. (b) No funds appropriated by any act from the General Fund for expenditure during any fiscal year on behalf of the Dairy Products Technology Center may be encumbered unless and until the trustees determine that at least two hundred thousand dollars ($200,000), or an amount equal to the General Fund appropriation, whichever is greater, has been received from nonstate sources by California Polytechnic State University, San Luis Obispo, for the operation of the Dairy Products Technology Center for that fiscal year.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1256.lob
