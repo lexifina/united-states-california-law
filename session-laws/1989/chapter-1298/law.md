@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 1298 (SB 849)
+
+The people of the State of California do enact as follows: SECTION 1. Section 94310.5 is added to the Education Code, to read: 94310.5. A nonaccredited institution shall not issue, confer, or award an academic or honorary degree pursuant to Section 94310.2 or 94310.3 if the institution allows more than 20 percent of the credit towards a degree to be life or work experience credit. SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs which may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, changes the definition of a crime or infraction, changes the penalty for a crime or infraction, or eliminates a crime or infraction. Notwithstanding Section 17580 of the Government Code, unless otherwise specified in this act, the provisions of this act shall become operative on the same date that the act takes effect pursuant to the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_381.lob
