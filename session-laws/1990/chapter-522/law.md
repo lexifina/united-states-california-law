@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 522 (SB 665)
+
+The people of the State of California do enact as follows: SECTION 1. Section 51267 is added to the Education Code, to read: 51267. The State Department of Education, in consultation with the School/Law Enforcement Partnership and the Office of Criminal Justice Planning, shall develop, or contract for the development of, a comprehensive resource guide to gang violence prevention curricula and programs. This resource guide will be developed as part of an electronic bulletin board system complete with the guide, an index, and instructions on how to access the data, and will include and maintain a statewide gang prevention calendar of events. The guide shall be made available to school districts and county offices of education on or before June 30, 1991. SEC. 2. This bill will be implemented to the extent that funds are available to the Office of Criminal Justice Planning for this purpose.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3053.lob
