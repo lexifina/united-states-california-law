@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 120 (SB 1442)
+
+The people of the State of California do enact as follows: SECTION 1. Section 13511.5 of the Penal Code is amended to read: 13511.5. Each applicant for admission to a basic course of training certified by the Commission on Peace Officer Standards and Training that includes the carrying and use of firearms, as prescribed by subdivision (a) of Section 832 and subdivision (a) of Section 832.3, who is not sponsored by a local or other law enforcement agency, or is not a peace officer employed by a state or local agency, department, or district, shall be required to submit written certification from the Department of Justice pursuant to Sections 11122, 11123, and 11124 that the applicant has no criminal history background which would disqualify him or her, pursuant to Section 12021 or 12021.1 of this code, or Section 8100 or 8103 of the Welfare and Institutions Code, from owning, possessing, or having under his or her control a firearm.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2239.lob
