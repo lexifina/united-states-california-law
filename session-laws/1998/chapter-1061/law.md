@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 1061 (AB 2197)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1209.5 is added to the Penal Code, to read: 1209.5. Notwithstanding any other provision of law, any person convicted of an infraction may, upon a showing that payment of the total fine would pose a hardship on the defendant or his or her family, be sentenced to perform community service in lieu of the total fine that would otherwise be imposed. The defendant shall perform community service at the hourly rate applicable to community service work performed by criminal defendants. For purposes of this section, the term “total fine” means the base fine and all assessments, penalties, and additional moneys to be paid by the defendant. For purposes of this section, the hourly rate applicable to community service work by criminal defendants shall be determined by dividing the total fine by the number of hours of community service ordered by the court to be performed in lieu of the total fine.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1300.lob
