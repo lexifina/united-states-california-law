@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 175 (AB 1158)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5551.1 of the Business and Professions Code, as amended by Section 1 of Chapter 321 of the Statutes of 1988, is amended to read: 5551.1. Individuals licensed as architects in jurisdictions other than California may be granted reciprocal licensure by the board upon satisfaction of the board’s requirements for licensure. SEC. 2. Section 5551.1 of the Business and Professions Code, as added by Section 2 of Chapter 321 of the Statutes of 1988, is repealed. SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order that California law may be changed so it does not adversely affect new residents of this state applying for licensure as architects, it is necessary that this act go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1503.lob
