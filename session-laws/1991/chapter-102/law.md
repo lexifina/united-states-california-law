@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 102 (SB 361)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1346.4 is added to the Health and Safety Code, to read: 1346.4. (a) The Legislature finds and declares all of the following: (1) That millions of Californians are insured under health care service plans regulated by the Knox-Keene Health Care Service Plan Act of 1975, and that more Californians each year are insuring themselves under these health plans. (2) That greater awareness of the rights and protections afforded by the Knox-Keene Health Care Service Plan Act of 1975 will further the act’s goal of providing access to quality health care. (3) That the public, Knox-Keene providers, and those seeking to form health care service plans under the act will benefit from having the text of the act available to them, affording a greater understanding of what the act does and making it easier for providers to comply with its provisions. (b) The commissioner shall annually publish this chapter and make it available for sale to the public.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1280.lob
