@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 968 (SB 243)
+
+The people of the State of California do enact as follows: SECTION 1. Section 35537 is added to the Education Code, to read: 35537. Notwithstanding Section 35534, where a petition for reorganization and change of boundaries of one or more school districts involves a transfer of territory and the territory is uninhabited land and all districts involved consent to the transfer of territory, the effective date of the reorganization relating to the formation of a community facilities district and all matters relating to the authorization of a special tax pursuant to Chapter 2.5 (commencing with Section 53311) of Part 1 of Division 2 of Title 5 of the Government Code, as well as bonds and the sale thereof, shall be the date agreed upon by the respective school districts, which, in any event, shall be no earlier than the date of the last resolution approved by a school district governing board pursuant to paragraph (1) of subdivision (b) of Section 35709.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1946.lob
