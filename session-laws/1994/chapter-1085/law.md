@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 1085 (SB 1465)
+
+The people of the State of California do enact as follows: SECTION 1. Section 933.06 is added to the Penal Code, to read: 933.06. (a) Notwithstanding Sections 916 and 940, in a county having a population of 20,000 or less, a final report may be adopted and submitted pursuant to Section 933 with the concurrence of a least 10 grand jurors if all of the following conditions are met: (1) The grand jury consisting of 19 persons has been impaneled pursuant to law, and the membership is reduced from 19 to fewer than 12. (2) The vacancies have not been filled pursuant to Section 908.1 within 30 days from the time that the clerk of the superior court is given written notice that the vacancy has occurred. (3) A final report has not been submitted by the grand jury pursuant to Section 933. (b) Notwithstanding Section 933, no responsible officers, agencies, or departments shall be required to comment on a final report submitted pursuant to this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1845.lob
