@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 529 (AB 2049)
+
+The people of the State of California do enact as follows: SECTION 1. Section 861.1 of the Code of Civil Procedure is amended to read: 861.1. The summons shall be directed to “all persons interested in the matter of [specifying the matter],” and shall contain a notice to all persons interested in the matter that they may contest the legality or validity of the matter by appearing and filing a written answer to the complaint not later than the date specified in the summons, which date shall be 10 or more days after the completion of publication of the summons. The summons shall provide a detailed summary of the matter the public agency or other person seeks to validate. The summons shall also state that persons who contest the legality or validity of the matter will not be subject to punitive action, such as wage garnishment or seizure of their real or personal property. Except as otherwise specified in this section the summons shall be in the form prescribed in Section 412.20.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1832.lob
