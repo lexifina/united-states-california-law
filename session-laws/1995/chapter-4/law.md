@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 4 (SB 178)
+
+The people of the State of California do enact as follows: SECTION 1. Section 91521.3 of the Government Code is amended to read: 91521.3. Authorities shall not be authorized to undertake projects through the issuance of bonds on or after January 1, 1999, unless a later enacted statute, which is enacted before January 1, 1999, deletes or extends that date. This section does not apply to issuance of bonds to refund any bonds issued prior to January 1, 1999. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order for planned industrial developments to occur that are critical to maintain the stability of the California economy and to provide needed revenues to local governments to provide basic public services, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1095.lob
