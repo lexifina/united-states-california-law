@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 326 (SB 2199)
+
+The people of the State of California do enact as follows: SECTION 1. Section 2081 of the Insurance Code is amended to read: 2081. Whenever a clause is inserted, or rider attached, affecting the standard form liability of the insurer for loss or damage by fire occasioned either directly or indirectly by hurricane, volcanic action or other disturbance of nature, the clause or rider shall be printed in red ink in type larger than small pica and at the head of the policy there shall be printed in red ink and in large bold-faced type the words, “This policy contains limitations of liability not permitted in the California standard form.” Nothing in this section exempts an insurer from, or permits an insurer to limit, its liability or obligation under a fire insurance policy or earthquake policy or endorsement to cover the losses from a fire that is caused by, or follows, an earthquake.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3249.lob
