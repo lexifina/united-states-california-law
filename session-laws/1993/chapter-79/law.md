@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 79 (SB 128)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25100.1 of the Corporations Code is repealed. SEC. 2. Notwithstanding the repeal of Section 25100.1 of the Corporations Code, it is the express intent of the Legislature that a national securities exchange or interdealer quotation system seeking certification from the Commissioner of Corporations under subdivision (o) of Section 25100 of the Corporations Code adopt corporate governance listing standards or criteria, including voting rights listing standards or criteria, consistent with the standards or criteria adopted by previously certified entities and in addition to the requirements set forth in subdivision (o) of Section 25100. The Legislature also intends, notwithstanding the repeal of Section 25100.1, that previously certified entities under subdivision (o) of Section 25100 routinely review the quantitative and the qualitative listing, delisting, and maintenance standards or criteria to enhance investor protection.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1347.lob
