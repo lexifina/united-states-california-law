@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 91 (AB 2883)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19542 of the Revenue and Taxation Code is amended to read: 19542. Except as otherwise provided in this article and as required to administer subdivision (b) of Section 19005, it is a misdemeanor for the Franchise Tax Board or any member thereof, or any deputy, agent, clerk, or other officer or employee of the state (including its political subdivisions), or any former officer or employee or other individual, who in the course of his or her employment or duty has or had access to returns, reports, or documents required to be filed under this part, to disclose or make known in any manner information as to the amount of income or any particulars (including the business affairs of a bank or corporation) set forth or disclosed therein. SEC. 2. The Legislature finds and declares that the amendment to Section 19542 of the Revenue and Taxation Code made by this act does not constitute a change in, but is declaratory of, existing law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2837.lob
