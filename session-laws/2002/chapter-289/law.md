@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 289 (SB 1746)
+
+The people of the State of California do enact as follows:SECTION 1.It is the intent of the Legislature in enacting this act to assure that all qualified Californians are eligible to participate as a board member of a pension fund. To deny elected officials the opportunity to serve simply because of potential incompatibility could result in the loss of valuable expertise and public experience. It is the intent of the Legislature that each nominee for a position as a member of a retirement board be evaluated on the basis of his or her individual qualifications. It is also the intent of the Legislature that pension funds routinely monitor issues where questions regarding incompatibility may be present and that funds should seek appropriate legal counsel on these matters, which would cure any potential clash between the two offices as implied by the doctrine of incompatibility of public offices.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23606.lob
