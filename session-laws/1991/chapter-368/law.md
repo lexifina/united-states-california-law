@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 368 (AB 1608)
+
+The people of the State of California do enact as follows: SECTION 1. Section 3260.1 is added to the Civil Code, to read: 3260.1. (a) This section is applicable with respect to all contracts entered into on or after January 1, 1992, relating to the construction of any private work of improvement. (b) Except as otherwise agreed in writing, the owner shall pay to the contractor, within 30 days following receipt of a demand for payment in accordance with the contract, any progress payment due thereunder as to which there is no good faith dispute between the parties. In the event of a dispute between the owner and the contractor, the owner may withhold from the progress payment an amount not to exceed 150 percent of the disputed amount. If any amount is wrongfully withheld in violation of this subdivision, the contractor shall be entitled to the penalty specified in subdivision (f) of Section 3260. (c) Nothing in this section shall be deemed to supersede any requirement of Section 3260 respecting the withholding of retention proceeds.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1017.lob
