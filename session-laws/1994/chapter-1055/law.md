@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 1055 (AB 3246)
+
+The people of the State of California do enact as follows: SECTION 1. Section 731.2 is added to the Welfare and Institutions Code, to read: 731.2. (a) The Department of the Youth Authority and Fresno County may enter into a partnership for the establishment and maintenance of a pilot program juvenile boot camp similar to the program described in Section 731.6, but developed primarily by the county with the Department of the Youth Authority and the county sharing the costs equally, except as specified in subdivision (b). (b) Under the partnership, the Department of the Youth Authority shall bear all the costs of retrofitting a facility, which is to be provided by the county at county expense. (c) The implementation of this pilot program shall be contingent upon the appropriation of funds to the Department of the Youth Authority for the pilot program in either the Budget Act of 1996 or subsequent legislation.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1875.lob
