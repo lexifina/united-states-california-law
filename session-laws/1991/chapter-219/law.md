@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 219 (AB 289)
+
+The people of the State of California do enact as follows: SECTION 1. Section 22354.5 is added to the Vehicle Code, to read: 22354.5. (a) Whenever the Department of Transportation determines, upon the basis of an engineering and traffic survey, to increase or decrease the existing speed limit on a particular portion of a state highway pursuant to Section 22354, it shall, prior to increasing or decreasing that speed limit, consult with, and take into consideration the recommendations of, the Department of the California Highway Patrol. (b) The city council or board of supervisors of a city or county through which any portion of a state highway subject to subdivision (a) extends may conduct a public hearing on the proposed increase or decrease at a convenient location as near as possible to that portion of state highway. The Department of Transportation shall take into consideration the results of the public hearing in determining whether to increase or decrease the speed limit.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1166.lob
