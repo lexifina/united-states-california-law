@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 696 (SB 1323)
+
+The people of the State of California do enact as follows: SECTION 1. Section 33216 of the Public Resources Code is amended to read: 33216. This division shall This division shall become inoperative on July 1, 1995, and, as of January 1, 1996, is repealed, unless a later enacted statute, which becomes effective on or before January 1, 1996, deletes or extends the dates on which it becomes inoperative and is repealed. SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the Legislature finds and declares that there are savings as well as costs in this act which, in the aggregate, do not result in additional net costs. Notwithstanding Section 17580 of the Government Code, unless otherwise specified in this act, the provisions of this act shall become operative on the same date that the act takes effect pursuant to the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_983.lob
