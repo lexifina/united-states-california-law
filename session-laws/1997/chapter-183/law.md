@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 183 (AB 1372)
+
+The people of the State of California do enact as follows: SECTION 1. Section 273 of the Code of Civil Procedure is amended to read: 273. (a) The report of the official reporter, or official reporter pro tempore, of any court, duly appointed and sworn, when transcribed and certified as being a correct transcript of the testimony and proceedings in the case, is prima facie evidence of that testimony and proceedings. (b) The report of the official reporter, or official reporter pro tempore, of any court, duly appointed and sworn, when prepared as a rough draft transcript, shall not be certified and cannot be used, cited, or transcribed as the official certified transcript of the proceedings. A rough draft transcript shall not be cited or used in any way or at any time to rebut or contradict the official certified transcript of the proceedings as provided by the official reporter or official reporter pro tempore. The production of a rough draft transcript shall not be required.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_913.lob
