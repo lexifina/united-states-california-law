@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 381 (SB 1088)
+
+The people of the State of California do enact as follows:SECTION 1.Section 11521.2 of the Insurance Code is amended to read:11521.2.(a) The reserve required by the table of commensurate values for each annuity contract issued must be invested in investments specified in Sections 1170 through 1182 except that a certificate holder may invest in securities listed and traded on the New York Stock Exchange, the American Stock Exchange or regional stock exchanges or the National Market System of the Nasdaq Stock Market or successors to such exchanges or market having the same qualifications, to the extent of the lesser of net worth (assets over liabilities and reserves) of the certificate holder or 50 percent of these general investments. This section does not permit investment in options or commodity exchanges.(b) The certificate holder may invest in other investments as permitted by and subject to the written consent of the commissioner.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20841.lob
