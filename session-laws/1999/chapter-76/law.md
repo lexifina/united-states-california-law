@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 76 (SB 688)
+
+The people of the State of California do enact as follows:SECTION 1.Section 10754.1 is added to the Revenue and Taxation Code, to read:10754.1.For purposes of applying paragraph (1) of subdivision (b) of Section 10754, the vehicle license fees, due in 1998 on or before December 31 of that year for a vehicle subject to the International Registration Program as described in Section 8052 of the Vehicle Code, are deemed to have had a final due date in the 1999 calendar year. It is the intent of the Legislature that this section be implemented to apply the 25 percent offset specified in paragraph (1) of subdivision (a) of Section 10754 to the vehicle license fees described in the preceding sentence. The department shall apply the amount of each vehicle license fee reduction resulting from this section against the amount of vehicle license fees due and payable on the part of the relevant registrant in 1999.SEC. 2.This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25303.lob
