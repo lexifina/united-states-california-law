@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 50 (AB 1228)
+
+The people of the State of California do enact as follows:SECTION 1.Section 65850.3 is added to the Government Code, to read:65850.3.Any ordinance adopted by the legislative body of a city or county that regulates amateur radio station antenna structures shall allow those structures to be erected at heights and dimensions sufficient to accommodate amateur radio service communications, shall not preclude amateur radio service communications, shall reasonably accommodate amateur radio service communications, and shall constitute the minimum practicable regulation to accomplish the city’s or county’s legitimate purpose.It is the intent of the Legislature in adding this section to the Government Code, to codify in state law the provisions of Section 97.15 of Title 47 of the Code of Federal Regulations, which expresses the Federal Communications Commission’s limited preemption of local regulations governing amateur radio station facilities.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22241.lob
