@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 328 (AB 1973)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10171.4 of the Business and Professions Code is amended to read: 10171.4. Any licensee who applies for renewal of his or her license under Section 10461, or for reinstatement of his or her license under Section 10161.5 or 10463, shall, if the previous active license issued to him or her was issued four or more years prior to his or her application for renewal or reinstatement, present evidence of compliance with this article. If no such qualifying evidence is presented, the commissioner may issue a temporary license for a period of 90 days. If the applicant presents evidence within 90 days of compliance with this article and is otherwise qualified, the commissioner shall issue a regular license without additional fee. It shall expire four years from the date which would otherwise have been applicable if a temporary license under this section had not been issued. SEC. 2. Section 10171.6 of the Business and Professions Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1057.lob
