@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 692 (SB 1970)
+
+The people of the State of California do enact as follows:SECTION 1.Item 8910-001-001 is added to Section 2.00 of the Budget Act of 1992, to read: 8910-001-001--For support of Office of Administrative Law ............................................... 2,554,000 Schedule: (a) 10--Regulatory Oversight .......... 2,754,000 (b) Reimbursements .................... -200,000 SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:This act augments the Budget Act of 1992 to provide necessary funding for the Office of Administrative Law for the 1992–93 fiscal year, in continuation of existing programs. It is imperative that this appropriation be available for expenditure as soon as possible. It is, therefore, necessary that this act go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2911.lob
