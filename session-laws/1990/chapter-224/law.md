@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 224 (AB 3761)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6500 of the Government Code is amended to read: 6500. As used in this article, “public agency” includes, but is not limited to, the federal government or any federal department or agency, this state, another state or any state department or agency, a county, county board of education, county superintendent of schools, city, public corporation, public district, or regional transportation commission of this state or another state. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: Local governmental entities need immediate clarification of their authority to enter into joint powers agreements, which affect numerous public services and projects. It is necessary, therefore, that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3351.lob
