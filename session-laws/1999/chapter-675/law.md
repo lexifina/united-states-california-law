@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 675 (SB 934)
+
+The people of the State of California do enact as follows:SECTION 1.Section 23701y is added to the Revenue and Taxation Code, to read:23701y.A credit union as defined in Section 14002 of the Financial Code. In addition, those credit unions are exempt from all other taxes and licenses, state, county, and municipal, imposed upon those credit unions, except taxes upon their real property, local utility user taxes, sales and use taxes, state energy resources surcharges, state emergency telephone users surcharges, unrelated business income taxes pursuant to Section 23731, motor vehicle and other vehicle registration license fees, and any other tax or license fee imposed by the state upon vehicles, motor vehicles, or the operation thereof.SEC. 2.This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24709.lob
