@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 315 (AB 2037)
+
+The people of the State of California do enact as follows:SECTION 1.Section 9201 of the Public Contract Code is amended to read:9201.(a) A public entity shall have full authority to compromise or otherwise settle any claim relating to a contract at any time.(b) The public entity shall include provisions in a public works contract for timely notification of the contractor of the receipt of any third-party claim, relating to the contract.(c) The public entity shall be entitled to recover its reasonable costs incurred in providing the notification required by subdivision (b).SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because a local agency or school district has the authority to levy service charges, fees, or assessments sufficient to pay for the program or level of service mandated by this act, within the meaning of Section 17556 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23580.lob
