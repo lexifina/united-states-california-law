@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 114 (AB 1757)
+
+The people of the State of California do enact as follows: SECTION 1. Section 703.5 of the Evidence Code is amended to read: 703.5. No person presiding at any judicial or quasi-judicial proceeding, and no arbitrator or mediator, shall be competent to testify in any subsequent civil proceeding as to any statement, conduct, decision, or ruling occurring at or in conjunction with the prior proceeding, except as to a statement or conduct that could (a) give rise to civil or criminal contempt, (b) constitute a crime, (c) be the subject of investigation by the State Bar or Commission on Judicial Performance, or (d) give rise to disqualification proceedings under paragraph (1) or (6) of subdivision (a) of Section 170.1 of the Code of Civil Procedure. However, this section shall not apply to a mediator with regard to any mediation under Chapter 11 (commencing with Section 3155) of Part 2 of Division 8 of the Family Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1312.lob
