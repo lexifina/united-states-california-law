@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 69 (AB 2294)
+
+The people of the State of California do enact as follows: SECTION 1. Notwithstanding Article 4 (commencing with Section 29080) of Chapter 1 of Division 3 of Title 3 of the Government Code, the board of supervisors of each county shall begin public hearings on the final county budget for the 1989–90 fiscal year on or before September 18, 1989, and shall complete these hearings and adopt the final budget on or before October 2, 1989. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to provide the board of supervisors of each county with more time to consider and adopt a final budget for the 1989–90 fiscal year, it is necessary that this act go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1609.lob
