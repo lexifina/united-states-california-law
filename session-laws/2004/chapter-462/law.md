@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 462 (SB 431)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of two million three hundred thousand dollars ($2,300,000) is hereby appropriated from the Federal Trust Fund to the State Department of Health Services for the purpose of implementing bioterrorism preparedness measures by state and local jurisdictions.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to best enhance California’s preparedness for, and response to, the threat of bioterrorism, and make funds appropriated for that purpose under this act available at the earliest time possible, thereby facilitating the orderly and timely administration of state government, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20762.lob
