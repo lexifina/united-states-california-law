@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 166 (AB 332)
+
+The people of the State of California do enact as follows:SECTION 1.Section 31013.5 is added to the Water Code, to read:31013.5.(a) Notwithstanding any other provision of law, the Mammoth Community Water District may acquire property and construct, maintain, operate, sell, and lease facilities, including, but not limited to, wells, plants, and pipes for the distribution of heated water or steam, that are necessary to develop, extract, and distribute geothermal water resources in order to provide space heating for buildings and other facilities within the boundaries of the district.(b) The district may finance the acquisition of property and the construction of facilities under this section by utilizing the same financing methods that are available to the district under this division to finance water facilities.(c) The powers granted by other provisions of this division may be exercised by the district in connection with the authority granted to the district under this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25213.lob
