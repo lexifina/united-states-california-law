@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 7 (SB 51)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6 of Chapter 609 of the Statutes of 1993 is amended to read: Sec. 6. Section 3 of this act affects an initiative statute and shall become effective only when submitted to, and approved by, the voters pursuant to subdivision (c) of Section 10 of Article II of the California Constitution. SEC. 2. Notwithstanding any other law, Section 3 of Chapter 609 of the Statutes of 1993 shall be submitted by the Secretary of State to the voters at the June 7, 1994, primary election pursuant to subdivision (c) of Section 10 of Article II of the California Constitution. SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to correct a section reference made by Section 6 of Chapter 609 of the Statutes of 1993, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2921.lob
