@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 171 (AB 1796)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1463.17 is added to the Penal Code, to read: 1463.17. (a) In a county of the 19th class, notwithstanding any other provision of this chapter, of the moneys deposited with the county treasurer pursuant to Section 1463, fifty dollars ($50) for each conviction of a violation of Section 23103, 23104, 23152, or 23153 of the Vehicle Code shall be deposited in a special account to be used exclusively to pay the cost incurred by the county or a city or special district within the county, with approval of the board of supervisors, for performing analysis of blood, breath, or urine for alcohol content or for the presence of drugs, or for services related to the testing. (b) The application of this section shall not reduce the county’s remittance to the state specified in paragraph (2) of subdivision (b) of Section 77201 of, and paragraph (2) of subdivision (b) of, Section 77201.1 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2188.lob
