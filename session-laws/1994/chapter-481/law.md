@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 481 (AB 3305)
+
+The people of the State of California do enact as follows: SECTION 1. Section 17147.7 is added to the Revenue and Taxation Code, to read: 17147.7. (a) Gross income does not include any income which is received as a reward from a crime hotline that is authorized by any governmental entity. (b) For the purposes of this section, “crime hotline” means any method of direct communication established by a government agency or a private, nonprofit organization exempt from taxation under Section 23701d for the purpose of permitting individuals to report criminal activity to that agency or organization, or any other designated government agency. (c) This section shall not apply to an employee of an agency or organization establishing or operating a crime hotline or to an employee of an organization that has contributed to the reward described in subdivision (a). SEC. 2. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2448.lob
