@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 79 (AB 2219)
+
+The people of the State of California do enact as follows: SECTION 1. Section 27311 of the Elections Code is repealed. SEC. 2. Section 27312 of the Elections Code is amended to read: 27312. In addition to the material contained in Section 27310, the following shall appear on ballots at all recall elections, except at a landowner voting district recall election: (a) The names of the candidates nominated to succeed the officer sought to be recalled shall appear under each recall question. (b) Following each list of candidates, the ballot shall provide one blank line with a voting space to the right of it for the voter to write in a name not printed on the ballot. SEC. 3. Section 27316.1 of the Elections Code is repealed. SEC. 4. Article 4 (commencing with Section 27330) of Division 16 of the Elections Code is repealed. SEC. 5. The heading of Article 5 (commencing with Section 27340) of Division 16 of the Elections Code is amended and renumbered to read: 4. Recall Elections SEC. 6. Section 27340 of the Elections Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2849.lob
