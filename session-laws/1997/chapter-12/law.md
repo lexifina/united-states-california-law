@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 12 (SB 69)
+
+The people of the State of California do enact as follows: SECTION 1. Notwithstanding Section 68085 of the Government Code, the Controller may not make the next quarterly trial court funding apportionment after the enactment of this measure to any county until that county has certified to the Controller the total amount of compensation, if any, paid by the county to superior court judges, municipal court judges, and subordinate judicial officers. A county shall be deemed to have complied with this section if it sends to the Controller a copy of the reports submitted to the Judicial Council pursuant to Section 68113 of the Government Code. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to provide adequate state trial court funding for the 1996–97 fiscal year, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1084.lob
