@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 58 (SB 1318)
+
+The people of the State of California do enact as follows: SECTION 1. (a) A charter school operating under a charter approved before June 1, 1997, by the county board of education of a county of the first class to serve at-risk pupils, may operate until June 30, 1999. (b) This act shall not be construed to authorize a county board of education to grant, or to prohibit a county board of education from granting, a charter that has not been denied by a school district. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to ensure the continued delivery of educational services to pupils served by county community schools, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1038.lob
