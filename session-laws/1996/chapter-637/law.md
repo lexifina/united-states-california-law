@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 637 (AB 444)
+
+The people of the State of California do enact as follows: SECTION 1. Section 84752 is added to the Education Code, to read: 84752. (a) No community college district shall receive full-time equivalent student (FTES) funding for activities that are fully funded through another source. The Board of Governors of the California Community Colleges shall adopt regulations to implement this subdivision. (b) The State Auditor shall report to the Legislature by January 1, 2000, on the status of each community college district’s compliance with this section. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to terminate, at the earliest possible time, duplicate full-time equivalent student (FTES) funding for activities that are funded through another source, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1726.lob
