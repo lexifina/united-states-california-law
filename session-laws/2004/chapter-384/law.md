@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 384 (SB 1490)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6140 of the Business and Professions Code is amended to read:6140.(a) The board shall fix the annual membership fee for active members at a sum not exceeding three hundred ten dollars ($310).(b) The annual membership fee for active members is payable on or before the first day of February of each year. If the board finds it appropriate and feasible, it may provide by rule for payment of fees on an installment basis with interest, by credit card, or other means, and may charge members choosing any alternative method of payment an additional fee to defray costs incurred by that election.(c) This section shall remain in effect only until January 1, 2006, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2006, deletes or extends that date.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20838.lob
