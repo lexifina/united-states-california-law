@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 690 (SB 509)
+
+The people of the State of California do enact as follows: SECTION 1. Section 33105.6 is added to the Public Resources Code, to read: 33105.6. The recreational trail corridor for the Rim of the Valley Trail shall include the Santa Clarita Woodlands portion of the Santa Susana Mountains. The executive director of the conservancy shall file a map with the Secretary of State by March 1, 1990, showing the revised trail corridor boundary including the Santa Clarita Woodlands. The boundaries of the addition to the trail corridor shall substantially conform to the boundaries of the Santa Clarita Woodlands depicted in the map included in the Preliminary Study of Possible Parkland Acquisition in the Santa Susana Mountains (March 1, 1989) by the Department of Parks and Recreation. Nothing in this section shall be interpreted to inhibit the development of facilities necessary for the protection of public health and safety.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_989.lob
