@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 166 (AB 2253)
+
+The people of the State of California do enact as follows: SECTION 1. Section 27556 of the Streets and Highways Code is amended to read: 27556. Except for the necessity to finance its interim system of buses and ferries, as described in Section 27551, or the necessity to finance capital improvements or modifications relating to seismic safety of the bridge, the district shall not issue general obligation bonds, revenue bonds, or any other form of long-term indebtedness. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to enable the Golden Gate Bridge, Highway and Transportation District to raise the revenue needed to complete seismic safety improvements on the Golden Gate Bridge necessitated by the 1989 Loma Prieta earthquake, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2742.lob
