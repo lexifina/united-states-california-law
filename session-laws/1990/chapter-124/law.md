@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 124 (AB 2772)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25503.23 is added to the Business and Professions Code, to read: 25503.23. Notwithstanding any other provision of this chapter, a beer manufacturer or winegrower may purchase advertising space and time from, or on behalf of, an on-sale retail licensee who is the owner of a stadium with a seating capacity in excess of 3,000 seats during the use of the stadium for an annual water ski show. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to authorize a beer manufacturer or winegrower to purchase advertising space from the owner of a specified stadium during the summer of 1990, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3451.lob
