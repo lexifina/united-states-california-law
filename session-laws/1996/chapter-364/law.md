@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 364 (AB 1004)
+
+The people of the State of California do enact as follows: SECTION 1. Section 53227 of the Government Code is amended to read: 53227. (a) An employee of a local agency may not be sworn into office as an elected or appointed member of the legislative body of that local agency unless he or she resigns as an employee. If the employee does not resign, the employment shall automatically terminate upon his or her being sworn into office. (b) For any individual who is an employee of a local agency and an elected or appointed member of that local agency’s legislative body prior to January 1, 1996, this section shall apply when he or she is reelected or reappointed, on or after January 1, 1996, as a member of the local agency’s legislative body. (c) This section does not apply to any volunteer firefighter who does not receive a salary, or where the salary the volunteer firefighter would otherwise receive is applied directly by the local agency toward the purchase of disability, life, health, or similar insurance coverage.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1999.lob
