@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 880 (SB 2546)
+
+The people of the State of California do enact as follows: SECTION 1. Section 9250.15 is added to the Vehicle Code, to read: 9250.15. In addition to any other fees, the department shall, for each original, renewal, and supplemental application for apportioned registration pursuant to Article 4 (commencing with Section 8050) of Chapter 4, collect an administrative service fee of one dollar ($1). The money collected by the department pursuant to this section, less the department’s administrative costs in collecting and transmitting the money, shall be available, upon appropriation, to the department for payment to the association acting as the repository for the International Registration Plan pursuant to Article 3 (commencing with Section 8000) of Chapter 4. Funds provided to the association under this section shall be used exclusively for the administration and support of reciprocity activities under the International Registration Plan.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2695.lob
