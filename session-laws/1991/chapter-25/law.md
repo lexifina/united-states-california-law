@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 25 (SB 75)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of seven million two hundred sixty-three thousand dollars ($7,263,000) is hereby appropriated from the General Fund to the Secretary of State in augmentation of category (c) of Item 0890-001-001 of Section 2 of Chapter 467 of the Statutes of 1990, for allocation in accordance with the following schedule: (a) Three million two hundred forty thousand dollars ($3,240,000) for the principal pamphlet. (b) Four million twenty-three thousand dollars ($4,023,000) for the supplemental pamphlet. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order that the Secretary of State may satisfy contractual obligations with the State Printing Plant concerning payment for services rendered during the 1990–91 fiscal year, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1357.lob
