@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 470 (AB 2431)
+
+The people of the State of California do enact as follows: SECTION 1. Section 17742.9 is added to the Education Code, to read: 17742.9. (a) Notwithstanding any other provision of law, a school district that complies with the requirements of subdivision (b) may replace a portable classroom, as defined in Section 17742.5, that has been leased or owned by the district for 20 years or more, with a permanent building if the resulting area of new building construction is no greater than the area that would be authorized under this chapter for the lease or purchase of a portable classroom. (b) A school district that utilizes subdivision (a) shall fund its expenses incurred thereby through the issuance of general obligation bonds by the district or by the issuance of bonds pursuant to the Mello-Roos Community Facilities Act of 1982 (Chapter 2.5 (commencing with Section 53311) of Part 1 of Division 2 of Title 5 of the Government Code) or by any other financing mechanism that does not encumber the school district’s general fund.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1893.lob
