@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 64 (AB 379)
+
+The people of the State of California do enact as follows:SECTION 1.Section 62000.8 of the Education Code is repealed.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because this act implements a federal law or regulation and results only in costs mandated by the federal government, within the meaning of Section 17556 of the Government Code.SEC. 3.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to make state laws relating to pupils with exceptional needs conform to federal law, thereby ensuring that educational agencies that comply with state laws are also in compliance with current federal laws, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24967.lob
