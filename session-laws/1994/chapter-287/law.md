@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 287 (AB 2811)
+
+The people of the State of California do enact as follows: SECTION 1. Section 11000.7 of the Government Code is amended to read: 11000.7. Notwithstanding any other provision of law, every state agency shall establish the license periods and renewal dates for all licenses issued by the agencies in the manner as best to distribute the renewal work of all agencies throughout each year and permit the most efficient and economical use of personnel and equipment. To the extent practicable, provision shall be made for the proration or other adjustment of fees in the manner that no person shall be required to pay a greater or lesser fee than he or she would have been required to pay if the change in license periods or renewal dates had not occurred. Nothing in this section shall authorize any state agency to vary the period of any license which is issued other than as authorized by law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2642.lob
