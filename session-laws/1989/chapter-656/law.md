@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 656 (SB 789)
+
+The people of the State of California do enact as follows: SECTION 1. Section 434.5 is added to the Government Code, to read: 434.5. (a) No person, private entity, or governmental agency shall adopt rules, regulations, or ordinances, or enter into any agreement or covenant, which prevents any person or private entity which would otherwise have the legal right to display a Flag of the United States on private property from exercising that right, unless it is used as, or in conjunction with, an advertising display. (b) As used in this section, “legal right” means the freedom of use and enjoyment generally exercised by owners and occupiers of land. (c) Nothing in this section shall be construed to prevent a city, county, or city and county from imposing reasonable restrictions as to the time, place, and manner of placement or display of a Flag of the United States when necessary for the preservation of the public’s health, safety, or order. However, no restrictions solely to promote aesthetic considerations may be imposed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1023.lob
