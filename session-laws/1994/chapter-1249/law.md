@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 1249 (AB 2240)
+
+The people of the State of California do enact as follows: SECTION 1. Section 13825 is added to the Penal Code, to read: 13825. The State Graffiti Clearinghouse is hereby created in the Office of Criminal Justice Planning. The State Graffiti Clearinghouse shall do all of the following, subject to federal funding: (a) Assess and estimate the present costs to state and local agencies for graffiti abatement. (b) Award grants to state and local agencies that have demonstrated implementation of effective graffiti reduction and abatement programs. (c) Receive and disburse funds to effectuate the purposes of the clearinghouse. SEC. 2. It is the intent of the Legislature to create an entity that will improve graffiti removal efforts through programs financed by grants from private foundations, donations from individual citizens, and contributions from federal agencies that believe their graffiti removal efforts will be enhanced by a voluntary contribution to support the State Graffiti Clearinghouse.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1683.lob
