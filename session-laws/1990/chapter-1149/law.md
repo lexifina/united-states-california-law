@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 1149 (AB 3425)
+
+The people of the State of California do enact as follows: SECTION 1. Chapter 10 (commencing with Section 19999.7 is added to Part 2.6 of Division 5 of Title 2 of the Government Code, to read: 10. Annuity Contracts 19999.7. (a) The department may establish and administer the purchase of annuity contracts which meet the requirements of Section 403(b) of the Internal Revenue Code and shall prescribe regulations in connection thereto which, among other things, specify standards to be met by companies or other persons or entities which offer annuity contracts for sale, including standards to ensure that providers are rated by a nationally recognized rating service as being within the three highest rating categories for financial condition and operating performance. The provisions of Section 770.3 of the Insurance Code shall not be applicable to the department. (b) This section shall apply only to the purchase of annuity contracts on and after the effective date of this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2426.lob
