@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 232 (AB 2970)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5062.2 is added to the Business and Professions Code, to read:5062.2.A licensee shall not accept employment with a publicly traded corporation or its affiliate within 12 months of the date of issuance of a financial statement report if both of the following criteria are met:(a) The licensee has participated in an audit engagement for the corporation and held responsibility, with respect to the audit engagement, requiring the licensee to exercise significant judgment in the audit process. Responsibilities meeting the requirements of this subdivision include, but are not limited to, positions, however titled, where the licensee was the person in charge of the fieldwork, up through positions where the licensee was a partner on the engagement.(b) The employment would permit the licensee to exercise significant authority over accounting or financial reporting, including authority over the controls related to those functions.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23663.lob
