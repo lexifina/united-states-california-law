@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 785 (SB 1917)
+
+The people of the State of California do enact as follows: SECTION 1. Section 686.2 is added to the Penal Code, to read: 686.2. (a) The court may, after holding a hearing and making the findings set forth in subdivision (b), order the removal of any spectator who is intimidating a witness. (b) The court may order the removal of a spectator only if it finds all of the following by clear and convincing evidence: (1) The spectator to be removed is actually engaging in intimidation of the witness. (2) The witness will not be able to give full, free, and complete testimony unless the spectator is removed. (3) Removal of the spectator is the only reasonable means of ensuring that the witness may give full, free, and complete testimony. (c) Subdivision (a) shall not be used as a means of excluding the press or a defendant from attendance at any portion of a criminal proceeding.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2790.lob
