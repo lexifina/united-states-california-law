@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 1242 (SB 433)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of four hundred sixty-six thousand five hundred forty-nine dollars ($466,549) is hereby appropriated from the General Fund to the Board of Governors of the California Community Colleges, in augmentation of Item 6870-011-001 of Section 2.00 of the Budget Act of 1990, Chapter 467 of the Statutes of 1990, for purposes of program 20.20.010-Special Services and Operations-Faculty and Administrative Credentials. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: This bill affects the rights of community college employees to receive credentials in a timely manner. In order for this act to become operative in 1990 with respect to these rights, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2333.lob
