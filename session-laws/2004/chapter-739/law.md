@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 739 (SB 1464)
+
+The people of the State of California do enact as follows:SECTION 1.Section 20112 of the Public Contract Code is amended to read:20112.For the purpose of securing bids the governing board of a school district shall publish at least once a week for two weeks in some newspaper of general circulation published in the district, or if there is no such paper, then in some newspaper of general circulation, circulated in the county, and may post on the district’s Web site or through an electronic portal, a notice calling for bids, stating the work to be done or materials or supplies to be furnished and the time when and the place and the Web site where bids will be opened. Whether or not bids are opened exactly at the time fixed in the public notice for opening bids, a bid shall not be received after that time. The governing board of the district may accept a bid that was submitted either electronically or on paper.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20486.lob
