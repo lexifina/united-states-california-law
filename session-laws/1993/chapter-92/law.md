@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 92 (AB 1318)
+
+The people of the State of California do enact as follows: SECTION 1. Section 435 of the Military and Veterans Code is amended to read: 435. (a) The Director of General Services, with the approval of the Adjutant General, may lease for not more than 99 years or sell for fair market value upon terms and conditions and subject to any reservations and exceptions as may be determined to be in the best interests of the state any real property held for armory purposes. No real property shall be sold or lease entered into pursuant to this subdivision unless the Legislature, by statute, approves the sale or lease of the property. (b) There is in the State Treasury the Armory Fund. All proceeds from the sale or lease of armories shall be deposited in the fund. The money in the fund is available, upon appropriation by the Legislature, for the maintenance of existing armories, and for the acquisition or construction of new or replacement armories, including, but not limited to, the cost of design.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1334.lob
