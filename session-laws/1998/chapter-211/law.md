@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 211 (SB 2154)
+
+The people of the State of California do enact as follows: SECTION 1. Chapter 3.4 (commencing with Section 6223) is added to Division 7 of Title 1 of the Government Code, to read: 3.4. Recording of Documents 6223. (a) No person shall file or record a lawsuit, lien, or other encumbrance against a public officer or employee, knowing it is false, with the intent to harass the officer or employee or to influence or hinder the public officer or employee in discharging his or her official duties. (b) This section shall apply only to lawsuits, liens, or other encumbrances pertaining to actions that arise in the course and scope of the public officer’s or employee’s duties. (c) Any person who knowingly records or files, or directs another to record or file, a lawsuit, lien, or encumbrance in violation of subdivision (a) shall be liable to the person subject to the lawsuit, or the owner of the property bound by the lien or other encumbrance for a civil penalty not to exceed five thousand dollars ($5,000).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2148.lob
