@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 419 (AB 2847)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1716.1 is added to the Business and Professions Code, to read: 1716.1. Notwithstanding Section 1716, the board may, by regulation, reduce the renewal fee for a licensee who has practiced dentistry for 20 years or more in this state, has reached the age of retirement under the federal Social Security Act (42 U.S.C. Sec. 301 et seq.), and customarily provides his or her services free of charge to any person, organization, or agency. In the event that charges are made, these charges shall be nominal. In no event shall the aggregate of these charges in any single calendar year be in an amount that would render the licensee ineligible for full social security benefits. The board shall not reduce the renewal fee under this section to an amount less than one-half of the regular renewal fee.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2491.lob
