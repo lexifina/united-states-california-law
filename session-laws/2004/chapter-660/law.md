@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 660 (AB 2629)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1566.75 is added to the Health and Safety Code, immediately following Section 1566.7, to read:1566.75.(a) By January 1, 2006, the department’s Community Care Licensing Division shall enter into memoranda of understanding with up to 10 local mental health departments that volunteer to participate. Each memorandum of understanding shall outline a formal protocol to address shared responsibilities, monitoring responsibilities, facility closures, training, and a process for mediation of disputes between the local mental health authority and the department’s local licensing office relating to adult residential facilities and social rehabilitation facilities.(b) On or before January 31, 2006, the department shall transmit a copy of each memorandum of understanding that has been signed to the Legislature.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20564.lob
