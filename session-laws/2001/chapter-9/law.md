@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 9 (SB 53)
+
+The people of the State of California do enact as follows:SECTION 1.Section 34009 of the Health and Safety Code is repealed.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:Floods, fires, hurricanes, earthquakes, storms, tidal waves, and other catastrophes are disasters that can harm the public health, safety, and welfare. After disasters, the extraordinary powers of community redevelopment agencies have been and can be useful in the reconstruction of buildings and in stimulating local economic activity. The statute that provided communities with alternative procedures and requirements for redevelopment after disasters expired on January 1, 2001. In order to restore those procedures and requirements at the earliest possible time, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_25022.lob
