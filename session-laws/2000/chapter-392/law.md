@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 392 (SB 1635)
+
+The people of the State of California do enact as follows:SECTION 1.Chapter 8.6 (commencing with Section 1360) is added to Division 6 of the Military and Veterans Code, to read:8.6.Veterans Memorial Registry1360.The Department of Veterans Affairs shall establish a statewide Veterans Memorial Registry. The registry shall provide the location and condition of all known veterans memorials in California. The department may seek the assistance and cooperation of the Golden State Museum, State Archives, Secretary of State, Department of Information Technology, Department of Parks and Recreation, and other appropriate agencies, including agencies with expertise in historical sites.1361.The Veterans Memorial Registry shall be made available on the web site of the Department of Veterans Affairs. The department shall provide the geographically referenced information in a readily accessible format that permits members of the public to submit information on memorials to the registry, which shall be updated on a regular basis.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23829.lob
