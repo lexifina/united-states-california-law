@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 494 (AB 2043)
+
+The people of the State of California do enact as follows:SECTION 1.Section 50517.10 of the Health and Safety Code is amended to read:50517.10.In addition to the purposes specified in subdivision (a) of Section 50517.5, the department may make grants and loans under the Joe Serna, Jr. Farmworker Housing Grant Program to local public entities and nonprofit corporations in order to establish capitalized operating reserves for short-term occupancy housing for migrant farmworker households, purchase land for, and construct, housing structures for short-term occupancy by migrant farmworker households, lease or purchase existing structures for short-term occupancy by migrant farmworker households, and, where the department determines that extraordinary or emergency circumstances exist, directly rent or lease housing for short-term occupancy by migrant farmworker households.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23402.lob
