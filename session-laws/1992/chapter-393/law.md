@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 393 (SB 1316)
+
+The people of the State of California do enact as follows: SECTION 1. Section 17210.2 of the Financial Code is amended to read: 17210.2. (a) No escrow agent shall disseminate, or cause or permit to be disseminated, in any manner whatsoever, any statement or representation which is false, misleading, or deceptive, or which omits to state material information, or which refers to the supervision of that agent by the State of California or any department or official thereof. (b) A licensed escrow agent, in referring to the corporation’s licensure under this law in any written or printed communication or any communication by means of recorded telephone messages or spoken on radio, television, or similar communications media, shall only use the following statement: “This escrow company holds Department of Corporations Escrow License No. ____.” (c) The commissioner may order any person to desist from any conduct which the commissioner finds to be a violation of this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2517.lob
