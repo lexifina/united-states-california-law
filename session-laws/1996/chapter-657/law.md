@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 657 (AB 2904)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10209.5 of the Business and Professions Code, as amended by Section 6 of Chapter 416 of the Statutes of 1993, is amended to read: 10209.5. The fee for a restricted broker license shall be the same as that for an unrestricted license as provided in Section 10210. SEC. 2. Section 10209.5 of the Business and Professions Code, as added by Section 6.5 of Chapter 416 of the Statutes of 1993, is repealed. SEC. 3. Section 10214.5 of the Business and Professions Code, as amended by Section 10 of Chapter 416 of the Statutes of 1993, is amended to read: 10214.5. The fee for a restricted salesperson license shall be the same as that for an unrestricted license as provided in Section 10215. SEC. 4. Section 10214.5 of the Business and Professions Code, as added by Section 10.5 of Chapter 416 of the Statutes of 1993, is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1706.lob
