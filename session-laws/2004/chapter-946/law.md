@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 946 (AB 2407)
+
+The people of the State of California do enact as follows:SECTION 1.Section 37202 of the Education Code is amended to read:37202.(a) Except if a school has been closed by order of a city or a county board of health, or of the State Board of Health, on account of contagious disease, or if the school has been closed on account of fire, flood, or other public disaster, the governing board of a school district shall maintain all of the elementary day schools established by it for an equal length of time during the school year and all of the day high schools established by it for an equal length of time during the school year. (b) Notwithstanding subdivision (a), a school district that is implementing an early primary program, pursuant to Chapter 8 (commencing with Section 8970) of Part 6, may maintain kindergarten classes at different schoolsites within the district for different lengths of time during the schoolday.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20280.lob
