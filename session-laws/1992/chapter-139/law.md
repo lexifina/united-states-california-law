@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 139 (AB 3253)
+
+The people of the State of California do enact as follows: SECTION 1. Section 37982 of the Food and Agricultural Code is amended to read: 37982. Reduced fat cheese shall meet all standards and requirements for the standard variety of the cheese used in the name of the reduced fat cheese except for the following: (a) Reduced fat cheese shall achieve a milk fat reduction of at least 33 1/3 percent, as measured against the higher of the minimum milk fat required by statute or regulation for the referenced, standard variety of the cheese or the normal milk fat content of the referenced, standard variety of the cheese substantiated by a credible data base. (b) Reduced fat cheese shall contain not more than 140 percent of the maximum moisture allowed in the referenced, standard cheese as determined by the Association of Official Analytical Chemists (AOAC) procedures. (c) Reduced fat cheese may contain added vitamin A.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2768.lob
