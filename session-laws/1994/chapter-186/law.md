@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 186 (AB 2662)
+
+The people of the State of California do enact as follows: SECTION 1. Section 952 of the Evidence Code is amended to read: 952. As used in this article, “confidential communication between client and lawyer” means information transmitted between a client and his or her lawyer in the course of that relationship and in confidence by a means which, so far as the client is aware, discloses the information to no third persons other than those who are present to further the interest of the client in the consultation or those to whom disclosure is reasonably necessary for the transmission of the information or the accomplishment of the purpose for which the lawyer is consulted, and includes a legal opinion formed and the advice given by the lawyer in the course of that relationship. Such information transmitted to and from a facsimile, cellular radio telephone, or cordless telephone is confidential. The definitions set forth in subdivision (c) of Section 632.7 of the Penal Code shall apply to this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2743.lob
