@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 1387 (SB 1226)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6403 of the Revenue and Taxation Code is amended to read: 6403. The storage, use, or other consumption in this state of property donated by any seller to any organization described in Section 170(b)(1)(A) of the Internal Revenue Code and located in California, is exempt from the use tax. A museum shall not be a qualifying donee organization under this section unless the museum is a nonprofit museum described in subdivision (c) of Section 6366.4, and uses the donated property exclusively for display purposes within a museum. SEC. 2. Notwithstanding Section 2230 of the Revenue and Taxation Code no appropriation is made by this act, and the state shall not reimburse any local agency for any sales and use tax revenues lost by it under this act. SEC. 3. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_292.lob
