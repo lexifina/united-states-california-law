@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 843 (AB 1099)
+
+The people of the State of California do enact as follows:SECTION 1.Notwithstanding any other provision of law, the Secretary of State shall designate Senate Constitutional Amendment 11 of the 1999–2000 Regular Session to appear as Proposition 1A on the ballot that is submitted to the voters at the March 7, 2000, statewide primary election.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to ensure that the duties of the Secretary of State to designate Senate Constitutional Amendment 11 of the 1999–2000 Regular Session on the March 7, 2000 statewide primary election ballot as Proposition 1A are established at the earliest possible time, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24542.lob
