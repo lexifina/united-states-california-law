@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 315 (AB 2215)
+
+The people of the State of California do enact as follows: SECTION 1. Notwithstanding Section 10220 of the Elections Code, in the case of candidates for Justice of the Supreme Court and court of appeal whose names appear on the November 8, 1994, general election ballot, underneath each ballot heading there shall appear the words “Shall (name of justice) be elected to the office for a ____ year term as provided by law?” The requirements of Section 10220 shall be applicable in all other respects. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to clarify certain ambiguities in the law in time for the November 8, 1994, general election, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2614.lob
