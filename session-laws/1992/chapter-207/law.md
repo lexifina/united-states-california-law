@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 207 (AB 2281)
+
+The people of the State of California do enact as follows: SECTION 1. Pursuant to Sections 5096.96, 5096.137, and 5096.158 of the Public Resources Code, the City of Los Angeles is hereby authorized to convert to a different use Portsmouth Park, which was developed with state grant funds appropriated in category (95) of Item 412 A of the Budget Act of 1975 (Chapter 1522 of the Statutes of 1974) and disbursed pursuant to Agreement Number 19-0044, category (144) of Item 443.8 of the Budget Act of 1977 (Chapter 219 of the Statutes of 1977) and disbursed pursuant to Agreement Number 76-19049, and category (b) of Item 379-101-721 of the Budget Act of 1981 (Chapter 99 of the Statutes of 1981) and disbursed pursuant to Agreement Number 80-01-278, if the City of Los Angeles develops new recreational facilities on new or existing parklands which are generally usable by the same persons who use Portsmouth Park and expends for those facilities an amount that is not less than the fair market value of the converted Portsmouth Park site.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2701.lob
