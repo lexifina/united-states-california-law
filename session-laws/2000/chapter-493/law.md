@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 493 (SB 1272)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6332 is added to the Labor Code, to read:6332.(a) For purposes of this section, the following terms have the following meanings:(1) “Community health care worker” means an individual who provides health care or health care-related services to clients in home settings.(2) “Employer” means a person or entity that employs a community health care worker. “Employer” does not include an individual who is a recipient of home-based services and who is responsible for hiring his or her own community health care worker.(3) “Violence” means a physical assault or a threat of a physical assault.(b) Every employer shall keep a record of any violence committed against a community health care worker and shall file a copy of that record with the Division of Labor Statistics and Research in the form and detail and within the time limits prescribed by the Division of Labor Statistics and Research.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23729.lob
