@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 1205 (SB 1149)
+
+The people of the State of California do enact as follows: SECTION 1. (a) Upon the request of the California Transportation Commission, the Department of Transportation may conduct a transportation study of Crow Canyon Road between Castro Valley and San Ramon. The study shall include, but not be limited to, all of the following: (1) An analysis of the origins and destinations of vehicle traffic on the road in order to ascertain the extent of the use of the road by interregional traffic. (2) A list of improvements that would be necessary for this road to meet state highway standards. (3) Potential alternative alignments for the road. (b) The department shall report the results of this study, including its findings, conclusions, and recommendations, to the Senate Committee on Transportation and to the Assembly Committee on Transportation on or before July 1, 1990.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_474.lob
