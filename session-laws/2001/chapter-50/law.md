@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 50 (SB 324)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1107.5 of the Corporations Code is amended to read:1107.5.(a) Upon merger pursuant to this chapter, a surviving corporation shall assume the liability of a domestic disappearing corporation (1) to prepare and file, or to cause to be prepared and filed, tax and information returns otherwise required of the domestic disappearing corporation under the Bank and Corporation Tax Law (Part 11 (commencing with Section 23001) of Division 2 of the Revenue and Taxation Code) and (2) to pay any tax liability determined to be due.(b) Notwithstanding Sections 1103, 1108, and 1110 of this code and Section 23334 of the Revenue and Taxation Code, if the surviving corporation is a domestic corporation or a foreign corporation qualified to do business in California, the Secretary of State shall file the merger without the certificate of satisfaction of the Franchise Tax Board and shall notify the Franchise Tax Board of the merger.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24981.lob
