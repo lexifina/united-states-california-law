@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 600 (AB 2354)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1376.1 is added to the Health and Safety Code, to read: 1376.1. The deposit requirements of Section 1300.76.1 of Title 10 of the California Code of Regulations shall not apply to any plan operated by a county, or city and county, if both of the following apply: (a) All of the evidence of indebtedness of the county, or city and county, has been rated “A” or better by Moody’s Investors Service, Inc. or Standard & Poor’s Corporation, based on a rating conducted during the immediately preceding 12 months. (b) The county, or city and county, has cash or cash equivalents in an amount equal to fifty million dollars ($50,000,000) or more, based on its audited financial statements for the immediately preceding fiscal year. For purposes of this subdivision, the term “equivalents” shall have the same meaning as in Section 1300.77 of Title 10 of the California Code of Regulations.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2310.lob
