@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 236 (SB 565)
+
+The people of the State of California do enact as follows:SECTION 1.Section 52941 of the Food and Agricultural Code is amended to read:52941.(a) Any person who has cottonseed delinted for planting purposes under this chapter, shall annually pay to the secretary an assessment in an amount not to exceed six dollars ($6) per hundredweight on the undelinted weight of the cottonseed.(b) Cottonseed delinters, by June 15th of each year, shall provide the secretary with the name and address of each person having cottonseed delinted and the undelinted weight of their cottonseed.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to provide sufficient funds to protect California’s cotton industry, it is necessary for this act to take effect immediately as an urgency statute.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22058.lob
