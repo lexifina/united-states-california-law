@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 970 (SB 1415)
+
+The people of the State of California do enact as follows:SECTION 1.Section 29031.1 is added to the Public Utilities Code, to read:29031.1.(a) If the district conducts three workshops and other outreach efforts to ensure public awareness of the proposed seismic retrofit work prior to commencement of construction, the district’s seismic retrofit work on any existing structures or facilities contained in the San Francisco Bay Area Rapid Transit District Seismic Retrofit Program Phase I-Segment I necessary for rapid transit service shall be considered to be an action necessary to prevent or mitigate an emergency, for the purposes of paragraph (4) of subdivision (b) of Section 21080 of the Public Resources Code.(b) This section shall become inoperative on June 30, 2005, and, as of January 1, 2006, is repealed, unless a later enacted statute, that becomes operative on or before January 1, 2006, deletes or extends the dates on which it becomes inoperative and is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22927.lob
