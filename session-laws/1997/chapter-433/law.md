@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 433 (SB 908)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25892.1 of the Public Utilities Code is amended to read: 25892.1. (a) The district board may impose a special tax pursuant to Article 3.5 (commencing with Section 50075) of Chapter 1 of Part 1 of Division 1 of Title 5 of the Government Code. The special taxes shall be applied uniformly to all taxpayers or all real property within the district, or any portion of the district that is coterminous with the boundaries of a city or the boundaries of contiguous cities, including any properties added to the district, except that unimproved property may be taxed at a lower rate than improved property. (b) The proceeds of the special taxes shall be used to provide, within the area taxed, for the operation, maintenance, or acquisition of any public improvement or utility for transportation purposes.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_664.lob
