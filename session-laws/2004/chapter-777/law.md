@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 777 (AB 2147)
+
+The people of the State of California do enact as follows:SECTION 1.Section 11751.82 is added to the Insurance Code, to read:11751.82.(a) An insurer under a wrap-up insurance policy shall report workers’ compensation losses and payroll information for each contractor and subcontractor to its rating organization on a timely basis and in accordance with the uniform statistical plan. Within 10 days, upon request, the insurer shall provide to each contractor and subcontractor copies of the report covering workers’ compensation losses and payroll information for that contractor or subcontractor.(b) For the purposes of this section, a “wrap-up insurance policy” is an insurance policy, or series of policies, written to cover risks associated with a work of improvement, as defined in Section 3106 of the Civil Code, and covering two or more of the contractors or subcontractors that work on that work of improvement.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20449.lob
