@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 878 (AB 3707)
+
+The people of the State of California do enact as follows: SECTION 1. Section 269 is added to the Penal Code, to read: 269. (a) Any person who commits any of the following acts upon a child who is under 14 years of age and 10 or more years younger than the person is guilty of aggravated sexual assault of a child: (1) A violation of paragraph (2) of subdivision (a) of Section 261. (2) A violation of Section 264.1. (3) Sodomy, in violation of Section 286, when committed by force, violence, duress, menace, or fear of immediate and unlawful bodily injury on the victim or another person. (4) Oral copulation, in violation of Section 288a, when committed by force, violence, duress, menace, or fear of immediate and unlawful bodily injury on the victim or another person. (5) A violation of subdivision (a) of Section 289. (b) Any person who violates this section is guilty of a felony and shall be punished by imprisonment in the state prison for 15 years to life.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2052.lob
