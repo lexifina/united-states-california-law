@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 1102 (SB 2083)
+
+The people of the State of California do enact as follows: SECTION 1. Section 647a is added to the Penal Code, to read: 647a. (a) Any peace officer, as defined in subdivision (a) of Section 830.1 or Section 830.31, 830.32, or 830.33, may transport any person, as quickly as is feasible, to the nearest homeless shelter, if the officer inquires whether the person desires the transportation, and the person does not object to the transportation. Any officer exercising due care and precaution shall not be liable for any damages or injury incurred during transportation. (b) Notwithstanding any other provision of law, this section shall become operative in a county only if the board of supervisors adopts the provisions of this section by ordinance. The ordinance shall include a provision requiring peace officers to determine the availability of space at the nearest homeless shelter prior to transporting any person.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1828.lob
