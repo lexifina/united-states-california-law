@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 185 (AB 1562)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19550 of the Business and Professions Code is amended to read: 19550. The board shall require each licensed racing association that conducts 14 or less weeks of racing to designate 3 racing days, and each licensed racing association that conducts more than 14 weeks of racing to designate five racing days during any one meeting, to be conducted as charity days by the licensee for the purpose of distribution of the net proceeds therefrom to beneficiaries through the distributing agent. For the purposes of this section, a split meeting shall be considered a single meeting and shall designate the appropriate number of charity days based on the total weeks of racing allocated for both periods of the meeting. This section does not apply to the California Exposition and State Fair, a county or district agricultural association fair, or to a licensed racing association conducting three weeks of racing or less.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1241.lob
