@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 737 (AB 2399)
+
+The people of the State of California do enact as follows:SECTION 1.Section 19835.5A of the Business and Professions Code is amended to read:19835.5A.(a) A licensee may remove from his or her licensed premises any person who, while on the premises:(1) Is a disorderly person, as defined by Section 647 of the Penal Code.(2) Interferes with a lawful gambling operation.(3) Solicits or engages in any act of prostitution.(4) Begs, is boisterous, or is otherwise offensive to other persons.(5) Commits any public offense.(6) Is intoxicated or under the influence of a controlled substance.(7) Is a person who the commission, by regulation, has determined should be excluded from licensed gambling establishments in the public interest.(b) This section does not preclude a licensee from exercising the right to deny access to or to remove any person from its premises or property for any reason the licensee deems appropriate.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23160.lob
