@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 804 (SB 1317)
+
+The people of the State of California do enact as follows: SECTION 1. Section 14669.9 is added to the Government Code, to read: 14669.9. (a) Notwithstanding Section 14669, the Director of General Services, as the agent for state agencies, may, within existing resources, enter into an agreement for preliminary plans for purchase, lease-purchase, or lease with an option to purchase real property, or to convert existing property leased or owned by other state agencies, within the County of San Bernardino or the County of Riverside, for the purpose of financing, refinancing, and acquiring office and parking facilities, and any other improvements, betterments, and facilities related thereto for the use by state agencies, not sooner than 30 days after notification in writing of the terms and conditions thereof to the chairperson of the committee in each house that considers appropriations and the Chairperson of the Joint Legislative Budget Committee.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2110.lob
