@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 60 (SB 941)
+
+The people of the State of California do enact as follows:SECTION 1.Section 21600 of the Business and Professions Code is amended to read:21600.As used in this article, “junk” means any and all secondhand and used machinery and all ferrous and nonferrous scrap metals and alloys, including any and all secondhand and used furniture, pallets, or other personal property, other than livestock, or parts or portions thereof.As used in this section, “scrap metals and alloys” includes, but is not limited to, materials and equipment commonly used in construction, agricultural operations and electrical power generation, railroad equipment, oil well rigs, nonferrous materials, stainless steel, and nickel which are offered for sale to any junk dealer or recycler, but does not include scrap iron, household generated waste, or aluminum beverage containers, as defined in Chapter 2 (commencing with Section 14502) of Division 12.1 of the Public Resources Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24971.lob
