@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 1027 (AB 2143)
+
+The people of the State of California do enact as follows: SECTION 1. Section 6357.1 of the Revenue and Taxation Code is repealed. SEC. 2. Section 6357.2 of the Revenue and Taxation Code is repealed. SEC. 3. Section 7204.5 of the Revenue and Taxation Code is repealed. SEC. 4. Section 7204.6 of the Revenue and Taxation Code is repealed. SEC. 5. Section 7264 of the Revenue and Taxation Code is repealed. SEC. 6. Section 7264.1 of the Revenue and Taxation Code is repealed. SEC. 7. Section 8101.5 of the Revenue and Taxation Code is repealed. SEC. 8. Section 8101.5 is added to the Revenue and Taxation Code, to read: 8101.5. No refund of any tax shall be granted on motor vehicle fuel used in propelling an aircraft in this state. SEC. 9. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect. However, the provisions of this act shall become operative on the first day of the first calendar quarter commencing more than 90 days after the effective date of this act.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_652.lob
