@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 295 (AB 3460)
+
+The people of the State of California do enact as follows: SECTION 1. Section 888.2 of the Penal Code is amended to read: 888.2. As used in this title as applied to a grand jury, “required number” means: (a) Twenty-three in a county having a population exceeding 4,000,000. (b) Eleven in a county having a population of 20,000 or less, upon the approval of the board of supervisors. (c) Nineteen in all other counties. SEC. 2. Section 940 of the Penal Code is amended to read: 940. An indictment cannot be found without concurrence of at least 14 grand jurors in a county in which the required number of members of the grand jury prescribed by Section 888.2 is 23, at least eight grand jurors in a county in which the required number of members is 11, and at least 12 grand jurors in all other counties. When so found it shall be endorsed, “A true bill,” and the endorsement shall be signed by the foreman of the grand jury.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2634.lob
