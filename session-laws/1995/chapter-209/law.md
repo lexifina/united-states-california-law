@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 209 (SB 479)
+
+The people of the State of California do enact as follows: SECTION 1. The Legislature finds and declares that arbitration is an important part of our dispute resolution process and that arbitrator immunity is a vital component of providing for the availability of arbitrators. It is the intent of the Legislature in enacting this act to hold informational hearings on issues related to arbitrator immunity and relevant statutory and decisional law. SEC. 2. Section 1280.1 of the Code of Civil Procedure is amended to read: 1280.1. (a) An arbitrator has the immunity of a judicial officer from civil liability when acting in the capacity of arbitrator under any statute or contract. The immunity afforded by this section shall supplement, and not supplant, any otherwise applicable common law or statutory immunity. (b) This section shall remain in effect only until January 1, 1997, and as of that date is repealed, unless a later enacted statute, which is enacted before January 1, 1997, deletes or extends that date.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_890.lob
