@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 234 (SB 1865)
+
+The people of the State of California do enact as follows: SECTION 1. Section 68926.3 of the Government Code is amended to read: 68926.3. Notwithstanding any other provision of law, fifty dollars ($50) of each fee collected in a civil case by the clerk of each court of appeal pursuant to Section 68926 shall be paid into the treasury for deposit in a special account in the General Fund to be known as the California State Law Library Special Account, which account is hereby created. Moneys deposited in the California State Law Library Special Account during the 1992–93 fiscal year are hereby appropriated for that fiscal year to the California State Law Library for its support. In fiscal years subsequent to the 1992–93 fiscal year, these moneys shall be available for the support of the California State Law Library upon appropriation thereto by the Legislature in the annual Budget Act. This section shall be repealed on January 1, 2000, unless a later statute which is enacted before that date extends or repeals that date.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2695.lob
