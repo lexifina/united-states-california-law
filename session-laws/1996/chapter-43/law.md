@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 43 (AB 1565)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The sum of twenty-six million four hundred thousand dollars ($26,400,000) is hereby appropriated from the General Fund to the Department of Forestry and Fire Protection, for expenditure in the 1995–96 fiscal year, in augmentation of Item 3540-006-001 of Section 2.00 of the Budget Act of 1995, and for the purposes of emergency fire suppression and detection costs and related emergency revegetation costs, as provided in that item. (b) The Director of Finance may withhold authorization for the expenditure of funds pursuant to subdivision (a) until, and to the extent that, preliminary estimates of potential deficiencies are verified. SEC. 2. Section 1 of this act makes an appropriation for the usual current expenses of the state within the meaning of paragraph (3) of subdivision (c) of Section 8 of Article IV of the California Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_2319.lob
