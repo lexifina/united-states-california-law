@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 498 (AB 954)
+
+The people of the State of California do enact as follows:SECTION 1.Section 66632.4 of the Government Code is amended to read:66632.4.Within any portion or portions of the shoreline band that are located outside the boundaries of water-oriented priority land uses, as fixed and established pursuant to Section 66611, the commission may deny an application for a permit for a proposed project only on the grounds that the project fails to provide maximum feasible public access, consistent with the proposed project, to the bay and its shoreline. When considering whether a project provides maximum feasible public access in areas of sensitive habitat, including tidal marshlands and mudflats, the commission shall, after consultation with the Department of Fish and Game, and using the best available scientific evidence, determine whether the access is compatible with wildlife protection in the bay.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23724.lob
