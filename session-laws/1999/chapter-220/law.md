@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 220 (AB 302)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1720.3 of the Labor Code is amended to read:1720.3.For the limited purposes of Article 2 (commencing with Section 1770), “public works” also means the hauling of refuse from a public works site to an outside disposal location, with respect to contracts involving any state agency, including the California State University and the University of California, or any political subdivision of the state.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25159.lob
