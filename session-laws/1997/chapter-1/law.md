@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 1 (AB 18)
+
+The people of the State of California do enact as follows: SECTION 1. Section 7 of Chapter 948 of the Statutes of 1996 is repealed. SEC. 2. It is the intent of the Legislature in enacting this act to immediately facilitate the reduction of class size in California and to cause Chapter 948 of the Statutes of 1996 to become operative. SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to provide for a new credentialing process to be in place to support the teachers that will be needed to implement the provisions of the class size reduction program contained in the Budget Act of 1996 and the supporting provisions of law, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1095.lob
