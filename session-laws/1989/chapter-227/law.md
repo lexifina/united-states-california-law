@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 227 (SB 1039)
+
+The people of the State of California do enact as follows: SECTION 1. Section 23919 of the Education Code is amended to read: 23919. Any retirant may be employed by a school district or other employing agency, except as provided in Sections 45134 and 88033, and earn not more than seven thousand five hundred dollars ($7,500), in any one school year and the rate of pay for such employment shall not be less than the minimum, nor exceed that paid by the employer to other employees performing comparable duties. The employment shall not operate to reinstate the retirant as a member of this system, or to terminate or suspend his or her retirement allowance, and no deduction shall be made from his or her salary as contributions to this system. The maximum amount earnable under this section shall be adjusted by the board on July 1, 1986, and on each July 1, thereafter, by the annual amount of increase in All Urban California Consumer Price Index using December 1984 as the base.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1451.lob
