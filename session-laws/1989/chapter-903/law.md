@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 903 (AB 594)
+
+The people of the State of California do enact as follows: SECTION 1. Section 23800 of the Business and Professions Code is amended to read: 23800. Upon request of the licensee or applicant for a license the department may place reasonable conditions upon retail licensees or upon any licensee in the exercise of retail privileges in the following situations: (a) If grounds exist for the denial of an application for a license or where a protest against the issuance of a license is filed and if the department finds that those grounds may be removed by the imposition of those conditions. (b) Where findings are made by the department which would justify a suspension or revocation of a license, and where the imposition of a condition is reasonably related to those findings. In the case of a suspension, the conditions may be in lieu of or in addition to the suspension. (c) Where the department issues an order suspending or revoking only a portion of the privileges to be exercised under the license.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_776.lob
