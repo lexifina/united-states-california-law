@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 564 (AB 2320)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1 of the Ventura County Flood Control Act (Chapter 44 of the Statutes of the 1944 Fourth Extraordinary Session) is amended to read: Section 1.(a) A flood control district is hereby created to be called “Ventura County Watershed Protection District.” The boundaries and territory of that district shall be as follows: All the territory of the County of Ventura lying within the exterior boundaries thereof, excluding the islands of Anacapa and San Nicholas.(b) Any reference in this act to the Ventura County Flood Control District means the Ventura County Watershed Protection District.SEC. 2.Section 32 of the Ventura County Flood Control Act (Chapter 44 of the Statutes of 1944, Fourth Extraordinary Session) is amended to read: Sec. 32.This act may be known and may be cited as the Ventura County Watershed Protection Act.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23332.lob
