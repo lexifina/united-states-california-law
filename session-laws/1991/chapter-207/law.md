@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 207 (AB 1831)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10237.2 of the Business and Professions Code is amended to read: 10237.2. As used in this article “sale” or “sell” includes every issuance, creation for resale, disposition or attempt to dispose of any interest in a real property security for value and includes all of the following, whether done directly or by circular letter, advertisement, radio or television broadcast or otherwise: an offer to sell, an attempt to sell, a solicitation of a sale, a contract of sale or an exchange. A sale shall be complete upon delivery of the promissory note evidencing a transaction arranged pursuant to a permit issued under this article to the purchaser or an agent designated by the purchaser. In connection with a completed sale made pursuant to this article the purchaser shall be the owner of the note, irrespective of other potential characterizations of the purchaser’s interest in the transaction.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1178.lob
