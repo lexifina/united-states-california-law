@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 1021 (AB 3457)
+
+The people of the State of California do enact as follows: SECTION 1. Section 35021.1 is added to the Education Code, to read: 35021.1. A school district or county office of education may request that a local law enforcement agency conduct an automated records check of a prospective nonteaching volunteer aide in order to ascertain whether the prospective nonteaching volunteer aide has been convicted of any sex offense as defined in Section 44010. A plea or verdict of guilty, a finding of guilt by a court in a trial without jury, or a conviction following a plea of nolo contendere shall be deemed to be a conviction within the meaning of this section. If the local law enforcement agency agrees to provide that automated records check, the results therefrom shall be returned to the requesting district or county office of education within 72 hours of the written request. A local law enforcement agency may charge a fee to the requesting agency not to exceed the actual expense to the law enforcement agency.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1909.lob
