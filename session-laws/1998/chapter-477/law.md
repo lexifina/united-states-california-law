@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 477 (AB 2353)
+
+The people of the State of California do enact as follows: SECTION 1. Section 995.675 is added to the Code of Civil Procedure, to read: 995.675. Notwithstanding Sections 995.660 and 995.670, the California Integrated Waste Management Board, the State Water Resources Control Board, and the Department of Toxic Substances Control may require, in order to comply with Subtitle C or Subtitle D of the federal Resource Conservation and Recovery Act of 1976, as amended (42 U.S.C. Sec. 6901 et seq.), an admitted surety insurer to be listed in Circular 570 issued by the United States Treasury.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1883.lob
