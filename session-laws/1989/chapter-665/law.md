@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 665 (SB 1572)
+
+The people of the State of California do enact as follows: SECTION 1. Section 180106 of the Public Utilities Code is amended to read: 180106. (a) The authority may hire an independent staff of its own or contract with any department or agency of the United States or with any public agency to implement this division. (b) The authority may contract with private entities in conformance with applicable procurement procedures for the procurement of engineering, project management, and contract management services. SEC. 2. Section 180153 of the Public Utilities Code is amended to read: 180153. The authority may contract with any department or agency of the United States, with any public agency, including, but not limited to, the Department of Transportation, any county, city, or district, or with any person or a private entity upon any terms and conditions that the authority finds in its best interest for the procurement of engineering, project management, and contract management services.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1014.lob
