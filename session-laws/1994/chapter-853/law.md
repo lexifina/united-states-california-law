@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 853 (AB 2206)
+
+The people of the State of California do enact as follows: SECTION 1. Section 7073.3 is added to the Government Code, to read: 7073.3. An existing enterprise zone that is located in the unincorporated area of a county may propose to use eligible expansion allotment to expand into an adjacent city or cities pursuant to Section 7073 and this section if, in addition to approving the expansion based on the criterion described in paragraph (2) of subdivision (d) of Section 7073, the agency finds that all of the following conditions exist: (a) Each of the cities’ governing bodies approves the expansion by adoption of an ordinance or resolution. (b) Land included within the proposed expansion is zoned for industrial or commercial use. (c) Basic infrastructure, including, but not limited to, gas, water, electrical service, and sewer systems, is available to the area that would be included in the expansion.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2077.lob
