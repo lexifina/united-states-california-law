@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 383 (SB 1657)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10201.1 of the Health and Safety Code is amended to read: 10201.1. The State Registrar, at his or her discretion, may incorporate computer or telephone facsimile technology, or both, in the statewide program of death and fetal death registration, including, but not limited to, the issuing of permits for disposition of human remains. Nothing in this section shall limit the ability of local districts to file certificates of death and fetal death manually within the local registration districts. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to facilitate the most efficient administration of provisions relating to the processing of death certificates, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2527.lob
