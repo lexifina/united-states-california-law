@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 116 (AB 1991)
+
+The people of the State of California do enact as follows:SECTION 1.Section 760 of the Revenue and Taxation Code is amended to read:760.(a) If any amount assessed by the board becomes delinquent on the secured roll, the tax collector may utilize those procedures for the collection of taxes on the unsecured roll to collect the amount assessed by the board.(b) Not less than 60 days prior to initiating procedures applicable to the collection of delinquent taxes on the unsecured roll pursuant to this section, the tax collector shall send a notice of delinquency stating intent to enforce collection.(c) The notice required by subdivision (b) shall set forth the following information:(1) The name of the assessee.(2) The description of the property assessed.(3) The assessed value of the property.(4) The fact that collection will be enforced on the unsecured roll in the amount of the tax, penalty, interest and actual costs of collection.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24105.lob
