@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 953 (AB 2088)
+
+The people of the State of California do enact as follows: SECTION 1. Section 53097.5 is added to the Government Code, to read: 53097.5. A county or city may inspect school buildings, as defined in Section 39141 of the Education Code, pursuant to guidelines adopted pursuant to Section 16500 of the Health and Safety Code or pursuant to any local ordinance regulating substandard conditions in buildings used for human habitation. The results of the inspections shall be forwarded to the office of the State Architect. SEC. 2. Chapter 3 (commencing with Section 16500) is added to Division 12.5 of the Health and Safety Code, to read: 3. School Buildings 16500. The office of the State Architect shall adopt guidelines applicable to substandard conditions of school buildings, as defined in Section 39141 of the Education Code, which guidelines shall take into consideration the unique design, use, safety needs, and construction of the school buildings.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_726.lob
