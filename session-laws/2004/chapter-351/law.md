@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 351 (AB 3023)
+
+The people of the State of California do enact as follows:SECTION 1.Section 683 is added to the Business and Professions Code, to read:683.(a) A board shall report, within 10 working days, to the State Department of Health Services the name and license number of a person whose license has been revoked, suspended, surrendered, made inactive by the licensee, or placed in another category that prohibits the licensee from practicing his or her profession. The purpose of the reporting requirement is to prevent reimbursement by the state for Medi-Cal and Denti-Cal services provided after the cancellation of a provider’s professional license.(b) “Board,” as used in this section, means the Dental Board of California, the Medical Board of California, the Board of Psychology, the State Board of Optometry, the California State Board of Pharmacy, the Osteopathic Medical Board of California, and the State Board of Chiropractic Examiners.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20870.lob
