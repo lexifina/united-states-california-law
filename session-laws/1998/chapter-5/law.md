@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 5 (SB 1311)
+
+The people of the State of California do enact as follows: SECTION 1. The Director of Finance shall, not later than April 1, 1998, authorize and direct the Controller to repay in full, with interest, the loan made from the Restitution Fund pursuant to Item 8700-005-0214 of Section 2.00 of the Budget Act of 1997. The rate of interest on the loan shall be equal to the average rate earned by the Pooled Money Investment Account over the period during which the loan was outstanding. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: To restore public confidence in the integrity of the Restitution Fund and to make available funding that may be used to assist victims of crime as soon as possible, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2354.lob
