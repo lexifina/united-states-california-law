@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 638 (AB 1557)
+
+The people of the State of California do enact as follows:SECTION 1.Section 4610.1 is added to the Labor Code, to read:4610.1.An employee shall not be entitled to an increase in compensation under Section 5814 for unreasonable delay in the provision of medical treatment for periods of time necessary to complete the utilization review process in compliance with Section 4610. A determination by the appeals board that medical treatment is appropriate shall not be conclusive evidence that medical treatment was unreasonably delayed or denied for purposes of penalties under Section 5814. In no case shall this section preclude an employee from entitlement to an increase in compensation under Section 5814 when an employer has unreasonably delayed or denied medical treatment due to an unreasonable delay in completion of the utilization review process set forth in Section 4610.SEC. 2.This act shall become operative only if Senate Bill 228 of the 2003–04 Regular Session is enacted and becomes operative.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21661.lob
