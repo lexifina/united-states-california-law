@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 316 (SB 462)
+
+The people of the State of California do enact as follows: SECTION 1. Section 26458.5 is added to the Vehicle Code, to read: 26458.5. Pursuant to Section 26458, whenever a motor vehicle is equipped with an additional control to operate the brakes on a trailer, that control shall not be used in lieu of the service brake control, except in the case of failure of the service brake system. SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs which may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, changes the definition of a crime or infraction, changes the penalty for a crime or infraction, or eliminates a crime or infraction. Notwithstanding Section 17580 of the Government Code, unless otherwise specified in this act, the provisions of this act shall become operative on the same date that the act takes effect pursuant to the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1362.lob
