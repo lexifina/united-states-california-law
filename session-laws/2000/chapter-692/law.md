@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 692 (SB 370)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2253 of the Business and Professions Code is amended to read:2253.(a) The procuring or aiding, abetting, attempting, agreeing, or offering to procure an illegal abortion constitutes unprofessional conduct, unless the act is done in compliance with the Therapeutic Abortion Act (Article 2 (commencing with Section 123400) of Chapter 2 of Part 2 of Division 106 of the Health and Safety Code).(b) A person is subject to Sections 2052 and 2053 if he or she performs or assists in performing a surgical abortion, and at the time of so doing, does not have a valid, unrevoked, and unsuspended license to practice as a physician and surgeon as provided in this chapter, or does not have a certificate obtained in accordance with some other provision of law that authorizes him or her to perform or assist in performing a surgical abortion.SEC. 2.Chapter 3 (commencing with Section 274) of Title 9 of Part 1 of the Penal Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23531.lob
