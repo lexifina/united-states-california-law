@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 792 (SB 834)
+
+The people of the State of California do enact as follows: SECTION 1. Section 20129 of the Public Contract Code is amended to read: 20129. (a) Except as provided in subdivision (b), the person to whom the contract is awarded shall file a bond executed by an admitted surety insurer to be approved by the board for the faithful performance of the contract. (b) (1) The person to whom the contract is awarded shall file a bond executed either by an admitted surety insurer or by at least two personal sureties whose individual net worth equals or exceeds the penal amount of the bond, provided the bond is approved by the board for the faithful performance of the contract. Individual net worth shall only be established through audited financial statements prepared by a certified public accountant. (2) This subdivision shall apply to any business that has been in existence for less than three years.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_887.lob
