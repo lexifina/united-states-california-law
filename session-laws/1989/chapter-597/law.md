@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 597 (AB 188)
+
+The people of the State of California do enact as follows: SECTION 1. Section 13105.2 of the Health and Safety Code is amended to read: 13105.2. (a) The State Fire Marshal shall establish and operate a statewide hazardous materials training facility to be located at the Del Valle Firefighting Facility of the County of Los Angeles. (b) Subdivision (a) shall be operative in any fiscal year only to the extent that funds are appropriated in the annual Budget Act or donated by private donors, contributed by local agencies, or provided by other funding sources for the purpose of subdivision (a). Donations by private donors, local agencies, or other sources may be in the form of money, in-kind services, or equipment. All monetary contributions received pursuant to this subdivision shall be deposited into a special deposit fund account to carry out the requirements of subdivision (a).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1082.lob
