@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 222 (SB 586)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of fifteen million dollars ($15,000,000) is hereby appropriated from the State Highway Account in the State Transportation Fund to the Department of Transportation for expenditure by the department in the discharge of all obligations of the department under the Big Rock Mesa Landslide Litigation Settlement Agreement and under the Big Rock Mesa Landslide Litigation Sliding Scale Recovery Settlement Agreement. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to expedite a conclusion to the Big Rock Mesa settlement and the underlying litigation, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1456.lob
