@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 100 (AB 1426)
+
+The people of the State of California do enact as follows: SECTION 1. Section 2874 of the Public Utilities Code is amended to read: 2874. (a) Whenever telephone calls are placed through the use of an automatic dialing-announcing device, the device may be operated only after an unrecorded, natural voice announcement has been made to the person called by the person calling. The announcement shall do all of the following: (1) State the nature of the call and the name, address, and telephone number of the business or organization being represented, if any. (2) Inquire as to whether the person called consents to hear the prerecorded message of the person calling. (b) The calling person described in subdivision (a) shall disconnect the automatic dialing-announcing device from the telephone line upon the termination of the call by either the person calling or the person called.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1578.lob
