@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 95 (AB 374)
+
+The people of the State of California do enact as follows:SECTION 1.Section 31580.3 is added to the Government Code, to read:31580.3.(a) If Section 31580.2 is applicable, in a fiscal year in which the net asset value of the retirement system is reduced from a previous fiscal year due to a general investment market downturn, the board of retirement or the board of retirement and the board of investment may fix the expense of administration pursuant to Section 31580.2 based on the value of the total assets of the retirement system as of an asset valuation date within a previous fiscal year, as determined by the board or boards, in which a positive rate of return for the retirement fund was generated.(b) At no time may the expense of administration, as determined pursuant to paragraph (a), exceed 0.23 percent of net asset value.(c) This section shall remain in effect only until January 1, 2007, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2007, deletes or extends that date.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22196.lob
