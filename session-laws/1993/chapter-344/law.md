@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 344 (SB 178)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1346.1 is added to the Penal Code, to read: 1346.1. (a) When a defendant has been charged with a violation of Section 262 or subdivision (a) of Section 273.5, the people may apply for an order that the victim’s testimony at the preliminary hearing, in addition to being stenographically recorded, be recorded and preserved on videotape. (b) The application for the order shall be in writing and made three days prior to the preliminary hearing. (c) Upon timely receipt of the application, the magistrate shall order that the testimony of the victim given at the preliminary hearing be taken and preserved on videotape. The videotape shall be transmitted to the clerk of the court in which the action is pending. (d) If the victim’s prior testimony given at the preliminary hearing is admissible pursuant to the Evidence Code, then the videotape recording of that testimony may be introduced as evidence at trial.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1082.lob
