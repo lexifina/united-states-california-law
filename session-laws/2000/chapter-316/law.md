@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 316 (AB 1852)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3505.4 is added to the Government Code, to read:3505.4.If after meeting and conferring in good faith, an impasse has been reached between the public agency and the recognized employee organization, and impasse procedures, where applicable, have been exhausted, a public agency that is not required to proceed to interest arbitration may implement its last, best, and final offer, but shall not implement a memorandum of understanding. The unilateral implementation of a public agency’s last, best, and final offer shall not deprive a recognized employee organization of the right each year to meet and confer on matters within the scope of representation, whether or not those matters are included in the unilateral implementation, prior to the adoption by the public agency of its annual budget, or as otherwise required by law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23905.lob
