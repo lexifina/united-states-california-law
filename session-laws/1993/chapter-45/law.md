@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 45 (AB 1952)
+
+The people of the State of California do enact as follows: SECTION 1. Section 8899.16 of the Government Code is amended to read: 8899.16. (a) In order to expedite the development of emerging technologies and to encourage rapid technology transfer, grant awards shall be made to not more than five California companies to conduct feasibility studies that will evaluate new, innovative technologies to improve the understanding of impending earthquakes and their effects. (b) The Office of Competitive Technology in the Department of Commerce shall implement this section with the advice of the Division of Mines and Geology in the Department of Conservation. (c) The Legislature may fund additional studies in accordance with the five-year earthquake research plan developed pursuant to Section 8899.15. (d) This section shall be implemented only to the extent that funds are available for its implementation.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1380.lob
