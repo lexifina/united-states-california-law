@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 174 (AB 701)
+
+The people of the State of California do enact as follows: SECTION 1. Section 20633 of the Government Code is amended to read: 20633. (a) Notwithstanding Section 20632, this article shall apply to all state members, on and after January 1, 1994, solely at the option and expense of the member. (b) The additional contributions made by a member pursuant to Section 20630, in excess of normal contributions shall not be refunded to the member unless he or she ceases to be a member pursuant to Section 20390 or, upon retirement for service, the member elects a refund in lieu of an annuity based on his or her accumulated contributions in excess of normal contributions. No employer shall make, with respect to a member who elects to participate pursuant to this section, any employer contributions therefor or any additional employer contributions therefor. The cost of participation and the administrative costs shall be paid solely by additional member contributions. This subdivision shall apply only to state members.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1252.lob
