@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 571 (AB 885)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25190 of the Health and Safety Code is amended to read: 25190. Except as otherwise provided in Sections 25189.5, 25189.6, 25189.7, and 25191, any person who violates any provision of this chapter, or any permit, rule, regulation, standard, or requirement issued or adopted pursuant to this chapter, is, upon conviction, guilty of a misdemeanor and shall be punished by a fine of not more than one thousand dollars ($1,000) or by imprisonment for up to six months in the county jail or by both that fine and imprisonment. If the conviction is for a second or subsequent violation, the person shall, upon conviction, be punished by imprisonment in the county jail for not more than one year or by imprisonment in the state prison for 16, 20, or 24 months. The court shall also impose upon the person a fine of not less than five thousand dollars ($5,000) or more than twenty-five thousand dollars ($25,000).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3004.lob
