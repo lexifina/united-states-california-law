@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 376 (SB 1416)
+
+The people of the State of California do enact as follows: SECTION 1. Section 15333.2 is added to the Government Code, to read: 15333.2. The Office of Business Development shall implement a commercial space launch assistance program that shall do all of the following: (a) Promote the State of California as a world center for commercial space launch-related research and business. (b) Plan and coordinate activities associated with developing, retaining, and expanding commercial space launch business in California. (c) Participate in and coordinate the negotiation of permits at the local, state, and federal level, and to respond to industry inquiries and complaints concerning local, state, and federal regulations. (d) Serve as a clearinghouse for information about the commercial space launch business in California. (e) Promote the use of commercial space launch vehicles to lift satellites into polar orbit from Vandenberg Air Force Base. (f) Promote the establishment of commercial customer support facilities for contractors.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2534.lob
