@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 303 (AB 1540)
+
+The people of the State of California do enact as follows:SECTION 1.Section 597s of the Penal Code is amended to read:597s.(a) Every person who willfully abandons any animal is guilty of a misdemeanor.(b) This section shall not apply to the release or rehabilitation and release of native California wildlife pursuant to statute or regulations of the California Department of Fish and Game.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25076.lob
