@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 406 (AB 1419)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19160 of the Education Code is amended to read: 19160. The county free library is under the general supervision of the board of supervisors, which may: (a) Make general rules and regulations regarding the policy of the county free library. (b) Establish, upon the recommendation of the county librarian, branches and stations throughout the county and may locate the branches and stations in cities wherever deemed advisable. (c) Determine the number and kind of employees of the library. SEC. 2. Section 19161 of the Education Code is repealed. SEC. 3. Section 19162 of the Education Code is repealed. SEC. 4. Section 19163 of the Education Code is repealed. SEC. 5. Section 19164 of the Education Code is repealed. SEC. 6. Section 19165 of the Education Code is repealed. SEC. 7. Section 19166 of the Education Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1272.lob
