@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 653 (AB 2326)
+
+The people of the State of California do enact as follows:SECTION 1.Section 56351.7 is added to the Education Code, to read:56351.7.(a) The Superintendent of Public Instruction shall form an advisory task force to develop standards for the mastery of the braille code as a child progresses through kindergarten to grade 12, inclusive.(b) The task force shall include, but shall not be limited to, members approved by the State Board of Education representing all of the following:(1) Parents of visually impaired pupils.(2) Teachers of visually impaired pupils.(3) Researchers in the field of visual impairment.(4) Braille experts.(5) Groups that advocate for teaching of, and use of, braille.(6) Groups that advocate for the visually impaired.(c) The task force shall report to the Governor and to the education committees of the Assembly and the Senate by June 30, 2004.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23243.lob
