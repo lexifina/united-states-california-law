@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 282 (AB 1195)
+
+The people of the State of California do enact as follows: SECTION 1. Section 27287 of the Government Code is amended to read: 27287. Unless it belongs to the class provided for in either Sections 27282 to 27286, inclusive, or Sections 1202 or 1203, of the Civil Code, or is a fictitious mortgage or deed of trust as provided in Sections 2952, or 2963, of the Civil Code, or is a fictitious oil and gas lease as provided in Section 1219 of the Civil Code, or is a claim of lien, as provided in Section 3084 of the Civil Code, or a notice of completion, as provided in Section 3093 of the Civil Code, before an instrument can be recorded its execution shall be acknowledged by the person executing it, or if executed by a corporation, by its president or secretary or other person executing it on behalf of the corporation, or, except for any mortgage, deed of trust, or security agreement, proved by subscribing witness or as provided in Sections 1198 and 1199 of the Civil Code, and the acknowledgment or proof certified as prescribed by law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1144.lob
