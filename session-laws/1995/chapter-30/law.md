@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 30 (AB 1629)
+
+The people of the State of California do enact as follows: SECTION 1. The Legislature finds and declares that the Mojave Water Agency is involved in the management of water resources within its jurisdiction that involves the management of groundwater resources to prevent waste and unreasonable uses of water, degradation of the groundwater from abandoned wells, compliance with the water rights adjudication in City of Barstow, et al. v. City of Adelanto, et al. (Superior Court of the County of Riverside, No. 208568), and maintenance of records on groundwater pumping facilities within its jurisdictional boundaries. Sec. 2. Section 15.3 is added to the Mojave Water Agency Law (Chapter 2146 of the Statutes of 1959), to read: Section 15.3. The agency, in addition to the other powers enumerated in this act, may undertake any necessary measures with regard to wells or facilities used for the extraction of groundwater, whether operating, inactive, or abandoned, in order to enhance the management of groundwater resources.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1069.lob
