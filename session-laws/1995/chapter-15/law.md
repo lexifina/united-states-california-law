@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 15 (AB 176)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12403 of the Penal Code is amended to read: 12403. Nothing in this chapter shall prohibit any person who is a peace officer, as defined in Chapter 4.5 (commencing with Section 830) of Title 3 of Part 2, or a custodial officer, as defined in Sections 831 and 831.5, from purchasing, possessing, transporting, or using any tear gas weapon, if the weapon has been certified as acceptable under Article 5 (commencing with Section 12450) of this chapter and if the person has satisfactorily completed a course of instruction approved by the Commission on Peace Officer Standards and Training in the use of tear gas. SEC. 2. Section 12403.9 is added to the Penal Code, to read: 12403.9. Custodial officers of any county may carry tear gas weapons pursuant to Section 12403 only while on duty. These custodial officers may carry tear gas weapons while off duty only in accordance with all other laws.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1084.lob
