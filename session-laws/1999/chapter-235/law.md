@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 235 (AB 713)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2991 is added to the Civil Code, to read:2991.Any prospective assignee that provides a lessor under a lease contract with any preprinted form for use as a lease contract shall, upon the request of a lessor, provide the lessor with a Spanish language translation of the preprinted form.SEC. 2.Section 1 of this act shall become operative on January 1, 2001.SEC. 3.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25144.lob
