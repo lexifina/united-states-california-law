@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 190 (AB 2355)
+
+The people of the State of California do enact as follows:SECTION 1.Section 20536 of the Government Code is amended to read:20536.(a) The board may include each year in the contribution required of the contracting agency a reasonable amount, which may differ from agency to agency, to cover the costs of administering this system as it affects the active and retired employees of that agency. The board may also assess a contracting agency a reasonable amount to cover costs incurred because of the agency’s failure to submit reports and forward contributions on a timely basis. The payments shall be credited to the current appropriation for support of the board and available for expenditure by the board.(b) Upon request, the board shall provide information to a contracting agency concerning the amount of administrative costs to be charged to each contracting agency with respect to those plans within the system in which the contracting agency participates.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21029.lob
