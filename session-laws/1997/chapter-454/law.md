@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 454 (SB 609)
+
+The people of the State of California do enact as follows: SECTION 1. Section 23803 of the Business and Professions Code is amended to read: 23803. The department, upon its own motion or upon the petition of a licensee or a transferee who has filed an application for the transfer of the license, if it is satisfied that the grounds which caused the imposition of the conditions no longer exist, shall order their removal or modification, provided written notice is given to the local governing body of the area in which the premises are located. The local governing body has 30 days to file written objections to the removal or modification of any condition. The department may not remove or modify any condition to which an objection has been filed without holding a hearing as provided in Chapter 5 (commencing with Section 11500) of Part 1 of Division 3 of Title 2 of the Government Code. Any petition for the removal or modification of a condition pursuant to this section shall be accompanied by a fee of one hundred dollars ($100).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_643.lob
