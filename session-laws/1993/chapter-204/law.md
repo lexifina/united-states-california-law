@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 204 (AB 496)
+
+The people of the State of California do enact as follows: SECTION 1. Section 60603.5 is added to the Education Code, to read: 60603.5. (a) Any private school may adopt the pupil assessment program developed pursuant to Section 60602.5 to use for testing pupils in that school. (b) The State Department of Education shall calculate its cost in supplying the testing materials to a school, grading the test, distributing the statewide results of the test to a school, and any other reasonably related expenses. That amount shall be reimbursed to the department by any private school that chooses to use the pupil assessment testing program pursuant to subdivision (a). (c) The Superintendent of Public Instruction, or his or her designee, shall appoint a representative of the local public education community to proctor the administration of a pupil assessment test given at any private school.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1222.lob
