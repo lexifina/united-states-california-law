@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 511 (AB 2508)
+
+The people of the State of California do enact as follows: SECTION 1. Section 42310 of the Public Resources Code is amended to read: 42310. Except as otherwise provided in this chapter, every rigid plastic packaging container sold or offered for sale in this state shall, on average, meet one of the following criteria: (a) Be made from 25 percent postconsumer material. (b) Have a recycling rate of 25 percent, based on annual reports published by the board. For purposes of this subdivision, PETE material shall be included in this calculation. (c) Have a recycling rate of 55 percent if its primary material is PETE, based on annual reports published by the board. (d) Have a recycling rate of 45 percent if it is a product-associated rigid plastic packaging container. (e) Be a reusable package or a refillable package. (f) Be a source reduced container. (g) Is a container containing floral preservative that is subsequently reused by the floral industry for at least two years.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1852.lob
