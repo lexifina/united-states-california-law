@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 800 (SB 2572)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1164 of the Penal Code is amended to read: 1164. (a) When the verdict given is receivable by the court, the clerk shall record it in full upon the minutes, and if requested by any party shall read it to the jury, and inquire of them whether it is their verdict. If any juror disagrees, the fact shall be entered upon the minutes and the jury again sent out; but if no disagreement is expressed, the verdict is complete, and the jury shall, subject to subdivision (b), be discharged from the case. (b) No jury shall be discharged until the court has verified on the record that the jury has either reached a verdict or has formally declared its inability to reach a verdict on all issues before it, including, but not limited to, the degree of the crime or crimes charged, and the truth of any alleged prior conviction whether in the same proceeding or in a bifurcated proceeding.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2775.lob
