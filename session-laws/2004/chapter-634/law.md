@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 634 (AB 2030)
+
+The people of the State of California do enact as follows:SECTION 1.Section 30458.3 of the Revenue and Taxation Code is amended to read:30458.3.The board shall conduct at least two hearings per year before the full board where industry representatives and individual taxpayers are allowed to present their proposals on changes to the Cigarette and Tobacco Products Tax Law that may further advance voluntary compliance and improve the relationship between taxpayers and government.SEC. 2.Section 30459.8 is added to the Revenue and Taxation Code, to read:30459.8.The board shall, in each calendar quarter, post on its Web site the amounts of cigarette and tobacco products revenues collected and disbursed for the previous calendar quarter to the General Fund, Breast Cancer Fund, the Cigarette and Tobacco Products Surtax Fund, and the California Children and Families Trust Fund Account.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20590.lob
