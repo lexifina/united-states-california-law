@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 194 (AB 1226)
+
+The people of the State of California do enact as follows: SECTION 1. Section 33421 of the Education Code is amended to read: 33421. Every private agency which receives state funds which may be audited pursuant to Section 33420 shall, at the request of the Superintendent of Public Instruction, make all records pertaining to its state-funded programs available to the Department of Education during regular business hours. The records shall be retained by each private agency for at least five years except for Child Nutrition Program records. Child Nutrition Program records shall be retained in accordance with regulations adopted by the United States Department of Agriculture relating to the retention of those records. However, in cases where an audit has been requested by a state agency or the United States Department of Agriculture which remains unresolved, the records shall be retained until the date the audit is resolved.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1484.lob
