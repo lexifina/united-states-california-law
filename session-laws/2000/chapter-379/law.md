@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 379 (AB 1947)
+
+The people of the State of California do enact as follows:SECTION 1.Section 31470.11 of the Government Code is amended to read:31470.11.Notwithstanding Section 31470.2, all welfare fraud investigators and administrators in counties of the 16th class, as described by Sections 28020 and 28037, as amended by Chapter 1204 of the Statutes of 1971, shall be ineligible for safety membership, unless and until the board of supervisors shall elect, by resolution adopted by a majority vote, to make those investigators and administrators eligible.SEC. 3.Section 31470.12 of the Government Code is amended to read:31470.12.Child support investigators and administrators in counties of the 16th class, as described by Section 28020 and 28037, as amended by Chapter 1204 of the Statutes of 1971, are eligible.This section shall not be operative in any county until such time as the board of supervisors shall elect, by resolution adopted by a majority vote, to make this section applicable in the county.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23842.lob
