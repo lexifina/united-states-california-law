@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 319 (AB 3575)
+
+The people of the State of California do enact as follows: SECTION 1. Section 203 of the Monterey Peninsula Water Management District Law (Chapter 527 of the Statutes of 1977) is amended to read: Sec. 203. Five members shall be elected by the qualified electors in the district. One member shall be a member of the board of supervisors of the county residing in the district, appointed by the board of supervisors, serving at the pleasure of the board of supervisors, and serving ex officio. One member shall be the mayor of a city which is a member unit who shall be appointed by those members of the city selection committee of the county representing member units pursuant to the provisions of Article 11 (commencing with Section 50270) of Chapter 1 of Part 1 of Division 1 of Title 5 of the Government Code, serving at the pleasure of the appointing power, and serving ex officio.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3256.lob
