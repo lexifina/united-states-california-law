@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 694 (SB 2051)
+
+The people of the State of California do enact as follows:SECTION 1.It is the intent of the Legislature that the Franchise Tax Board continue to implement Section 19551.1 of the Revenue and Taxation Code, provided that the requirements of subdivision (c) of Section 19551.1 have been met.SEC. 2.Section 19570 is added to the Revenue and Taxation Code, to read:19570.The provisions of Sections 1798.35, 1798.36, 1798.37, and Article 9 (commencing with Section 1798.45) of Chapter 1 of Title 1.8 of the Civil Code shall not be applied, directly or indirectly, to the determination of the existence or possible existence of liability (or the amount thereof) of any person for any tax, penalty, interest, fine, forfeiture, or other imposition or offense to which the provisions of Part 10 (commencing with Section 17001), Part 11 (commencing with Section 23001), or this part apply.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23202.lob
