@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 650 (SB 2423)
+
+The people of the State of California do enact as follows: SECTION 1. Section 11166.2 of the Penal Code is amended to read: 11166.2. In addition to the reports required under Section 11166, a child protective agency shall immediately or as soon as practically possible report by telephone to the appropriate licensing agency every known or suspected instance of child abuse when the instance of abuse occurs while the child is being cared for in a child day care facility, involves a child day care licensed staff person, or occurs while the child is under the supervision of a community care facility or involves a community care facility licensee or staff person. A child protective agency shall also send a written report thereof within 36 hours of receiving the information concerning the incident to any agency to which it is required to make a telephone report under this subdivision. A child protective agency shall send the licensing agency a copy of its investigation report and any other pertinent materials.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2925.lob
