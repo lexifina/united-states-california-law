@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 751 (SB 1602)
+
+The people of the State of California do enact as follows:SECTION 1.Section 42263.5 is added to the Education Code, to read:42263.5.(a) For purposes of the calculation of the capacity of the school as required in subdivision (b) of Section 42263, the superintendent shall comply with Section 17071.25 and this section.(b) For purposes of this section, “teaching stations” shall not include one classroom for each schoolsite with 800 pupils or less, and two classrooms for each schoolsite with over 800 pupils, if all of the following conditions are met:(1) The school is operating on a multitrack year-round educational program.(2) A number of pupils, equal to or greater than 30 percent of the school district’s total enrollment in kindergarten and grades 1 to 6, inclusive, are on the multitrack year-round program.(3) The classroom or classrooms are used during the intersession for the academic remediation of pupils who are in the multitrack year-round program.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23472.lob
