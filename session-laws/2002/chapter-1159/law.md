@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 1159 (AB 3030)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1281.84 is added to the Code of Civil Procedure, to read:1281.84.Any private arbitration company or self-regulatory organization (SRO) that administers a consumer arbitration in violation of Section 1281.6, 1281.81, 1281.82, 1281.92, or 1284.3 shall be subject, at the discretion of the court, to disgorgement of any administrative fee obtained as a result of the violation of these sections.SEC. 2.Section 1287.1 is added to the Code of Civil Procedure, to read:1287.1.If a court vacates an award in a consumer arbitration, an arbitrator or private arbitration company involved in the arbitration may not conduct or administer any further arbitration of the dispute, unless the consumer party so elects in writing prior to any rearbitration of the matter.SEC. 3.This act shall become operative only if this bill and Assembly Bills 2574, 2915, and 3029 are enacted and become effective on or before January 1, 2003.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22740.lob
