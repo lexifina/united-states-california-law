@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 77 (AB 88)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1670.6 is added to the Civil Code, to read:1670.6.A contract with a consumer located in California for the purchase of a good or service that is made in connection with a telephone solicitation made in or from outside of California and is primarily for personal, family, or household use, is unlawful if, with respect to that telephone solicitation, the telemarketer is in violation of Section 310.4(a)(6)(i) of, or has not complied with Section 310.5(a)(5) of, the Federal Trade Commission’s Telemarketing Sales Rule (16 C.F.R. Part 310), as published in the Federal Register, Volume 68, Number 19, on January 29, 2003. This section shall apply only to those entities subject to, and does not apply to any transaction exempted under Section 310.6 of, the Telemarketing Sales Rule (16 C.F.R. Part 310), as published in the Federal Register, Volume 68, Number 19, on January 29, 2003.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22214.lob
