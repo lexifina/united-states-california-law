@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 124 (AB 284)
+
+The people of the State of California do enact as follows: SECTION 1. Section 20521.1 is added to the Government Code, to read: 20521.1. (a) Notwithstanding Section 20524.1, a contracting agency that continued the local system for members who elected to become members of this system prospectively pursuant to Section 20492.2 may transfer to this system the cash and securities to the credit of the local system and held on account of persons who became members of this system. The transfer of cash and securities shall be made pursuant to Section 20522. The service credited under the local system shall be credited under this system as prior service. (b) This section shall not apply to the employees of any contracting agency nor to any contracting agency unless and until the contracting agency elects to be subject to this section by amendment to its contract with the board, made pursuant to Section 20461.5.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_975.lob
