@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 98 (AB 27)
+
+The people of the State of California do enact as follows:SECTION 1.Section 81450.5 is added to the Education Code, to read:81450.5.Notwithstanding Sections 81450 and 81452, a community college district may, without providing the notice required by Section 81450, exchange for value, sell for cash, or donate any personal property belonging to the district if all of the following criteria are met:(a) The district determines that the property is not required for school purposes, that it should be disposed of for the purpose of replacement, or that it is unsatisfactory or not suitable for school use.(b) The property is exchanged with, or sold or donated to, a school district or community college district that has had an opportunity to examine the property proposed to be exchanged, sold, or donated.(c) The receipt of the property would not be inconsistent with any applicable districtwide or schoolsite technology plan of the recipient district.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24933.lob
