@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 857 (AB 3621)
+
+The people of the State of California do enact as follows: SECTION 1. Section 67051.1 is added to the Food and Agricultural Code, to read: 67051.1. Notwithstanding Section 67051, if a handler from any cooperative handling avocados or a handler who is not within any cooperative handling avocados markets 30 percent or more of the volume of avocados in the preceding marketing season, as annually determined by the director, that handler may nominate and elect one handler member to the commission and shall fill the vacancy of the cooperative handler or an independent handler, as the case may be, whose term first expires after January 1, 1991. All other handlers shall nominate and elect the remaining handler members pursuant to this chapter. Any handler elected to the commission pursuant to this section shall maintain his or her eligibility during the entire term of office. Any vacancy caused by the ineligibility of the handler shall be filled in accordance with Section 67053.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2718.lob
