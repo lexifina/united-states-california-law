@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 421 (AB 2140)
+
+The people of the State of California do enact as follows:SECTION 1.Section 80172 of the Food and Agricultural Code is amended to read:80172.A person violating any provision of this division is guilty of a misdemeanor punishable by a fine of not less than one thousand five hundred dollars ($1,500), nor more than two thousand five hundred dollars ($2,500), for each violation or by imprisonment in the county jail not to exceed one year, or both, and each violation constitutes a separate offense.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20803.lob
