@@ -1,0 +1,5 @@
+# Stats. 1999, ch. 2 (SB 49)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1000 of the Elections Code is amended to read:1000.The established election dates in each year are as follows:(a) The second Tuesday of April in each even-numbered year.(b) The first Tuesday after the first Monday in March of each odd-numbered year.(c) The first Tuesday in March in each even-numbered year.(d) The first Tuesday after the first Monday in November of each year.(e) The first Tuesday after the first Monday in June of each odd-numbered year.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order for local elections scheduled for June 8, 1999, to take place, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_25375.lob
