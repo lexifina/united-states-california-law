@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 826 (AB 1470)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12304.4 is added to the Welfare and Institutions Code, to read:12304.4.(a) Notwithstanding any other provision of law, a person entitled to the receipt of direct payment as an individual provider pursuant to Section 12302.2 for providing in-home supportive services may authorize payment to be directly deposited by electronic fund transfer into the person’s account at the financial institution of his or her choice under a program for direct deposit by electronic transfer established by the Controller.(b) The Controller and the department shall determine the cost of developing and implementing the direct deposit program identified in subdivision (a) and shall collect the cost from a nongovernmental third-party contractor or the organization, entity, or individual requesting payment in order to utilize the direct deposit program.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20400.lob
