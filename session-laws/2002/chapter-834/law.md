@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 834 (SB 1894)
+
+The people of the State of California do enact as follows:SECTION 1.The Maternal and Child Health Branch of the State Department of Health Services shall fund domestic violence programs that have previously received funding, but were not selected for funding in 2000, using funds appropriated in the Budget Act of 2002 in Item 4260-111-0642, payable from the Domestic Violence Training and Education Fund, for payment to Item 4260-111-0001.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to provide timely relief to victims of sexual assault and domestic violence, it is necessary that agencies that assist these victims by providing services and emergency shelter be provided with funds that will allow them to maintain these services at their previously funded level.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23063.lob
