@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 1513 (AB 3352)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25940 is added to the Revenue and Taxation Code, to read: 25940. Whenever any foreign corporation which fails to qualify to do business in this state or whose powers, rights, and privileges have been forfeited, or any domestic corporation which has been suspended, and which is doing business in this state, within the meaning of Section 23101, fails to make and file a return as required by this part, the Franchise Tax Board shall impose a penalty of two thousand dollars ($2,000) per income year, unless the failure to file is due to reasonable cause and not willful neglect. The penalty shall be in addition to any other penalty which may be due under this part. The penalty shall be imposed if the return is not filed within 60 days after the Franchise Tax Board sends the taxpayer a notice and demand to file the required tax return.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2063.lob
