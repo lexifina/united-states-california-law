@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 362 (SB 844)
+
+The people of the State of California do enact as follows:SECTION 1.There is hereby appropriated the sum of five million seven hundred ninety thousand dollars ($5,790,000) in augmentation of Item 8960-301-0001 of Section 2 of the Budget Act of 2000 (Ch. 52, Stats. 2000), representing reimbursement authority, to the Veterans’ Home of California, Yountville, for project 80.20.271-Lincoln Theater Renovation Construction.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to accelerate the delivery of a capital outlay project, as set forth in Section 1 of this act, thereby stimulating the creation of jobs at the earliest possible time, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23533.lob
