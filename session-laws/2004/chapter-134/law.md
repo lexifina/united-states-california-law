@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 134 (AB 2026)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18987.5 of the Welfare and Institutions Code is amended to read:18987.5.Except as otherwise provided in this chapter, this chapter shall become inoperative on January 1, 2009, and, as of January 1, 2010, is repealed, unless a later enacted statute, that becomes operative on or before January 1, 2010, deletes or extends the dates on which it becomes inoperative and is repealed.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to timely implement the continuation of the youth pilot program provided for pursuant to Chapter 12.85 (commencing with Section 18987) of Part 6 of Division 9 of the Welfare and Institutions Code by this act, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21085.lob
