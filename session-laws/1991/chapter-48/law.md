@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 48 (AB 1775)
+
+The people of the State of California do enact as follows: SECTION 1. Section 67111 of the Food and Agricultural Code is amended to read: 67111. It shall be a misdemeanor punishable by imprisonment in the county jail not exceeding six months, by a fine not exceeding five thousand dollars ($5,000), or by both the fine and imprisonment, for any person to do any of the following: (a) Willfully to render or furnish a false report, statement, or record required by the commission. (b) When engaged in the shipping of avocados or in the wholesale or retail trade of avocados, to fail or refuse to furnish to the commission or its duly authorized agents, upon request, information concerning the name and address of the persons from whom he or she has received avocados and the quantity and inventory, by variety, of the avocados. (c) Secrete, destroy, or alter records required to be kept under this chapter.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1334.lob
