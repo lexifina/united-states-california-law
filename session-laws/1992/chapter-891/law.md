@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 891 (SB 1410)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The sum of one million four hundred thousand dollars ($1,400,000) is hereby appropriated from the General Fund to the Department of Toxic Substances Control for the purpose of continuing removal and remedial actions at the ASARCO hazardous substance release site in the County of Contra Costa. (b) The appropriation made by this act is not an admission by the state of any responsibility for any specific portion of the total removal and remedial action costs at the site. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to make funds for the completion of the removal and remedial action presently underway at the ASARCO hazardous substance release site at the earliest opportunity, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2023.lob
