@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 478 (SB 607)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14509.4 of the Public Resources Code is amended to read:14509.4.“Convenience zone” means all of the following:(a) The area within a one-half mile radius of a supermarket.(b) (1) Notwithstanding subdivision (a), in a rural region, as identified pursuant to subparagraph (A) of paragraph (2) of subdivision (b) of Section 14571, the department may, upon petition by an interested person, increase a convenience zone that meets the requirements of paragraph (2) to include the area within a three-mile radius of a supermarket, if the expanded convenience zone would then be served by a certified recycling center or location.(2) Paragraph (1) applies only to a convenience zone that is otherwise not being served by a certified recycling center or location meeting the requirements of Section 14571 or is exempted by the department pursuant to Section 14571.8.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21820.lob
