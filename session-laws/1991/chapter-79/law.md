@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 79 (AB 2183)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of four hundred thirty thousand dollars ($430,000) is hereby appropriated from the Special Account for Capital Outlay in the General Fund for the 1990–91 fiscal year to the Trustees of the California State University and the California State University for the renovation and remodeling of the administration building at California State University, San Francisco. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to provide funding as soon as possible for the renovation and remodeling of a portion of the administration building on the campus of the California State University, San Francisco, that was recently destroyed by fire, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1303.lob
