@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 537 (AB 3054)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14145.3 is added to the Welfare and Institutions Code, to read:14145.3.(a) The department shall develop at least, but not limited to, one alternative model to the Long-Term Care Integration Pilot Program authorized under Article 4.3 (commencing with Section 14139.05) that shall be designed to achieve the goals set forth in Section 14139.11.(b) The department or, at the discretion of the department, the center for long-term care integration referred to in subdivision (a) of Section 14145, shall consult with an established waiver technical advisory committee to assist in the development of an alternative model or models pursuant to subdivision (a).(c) No reimbursement or compensation shall be provided to committee members referred to in subdivision (b).(d) The department shall report the recommendations of the waiver technical advisory committee to the Legislature on or before December 1, 2003.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23359.lob
