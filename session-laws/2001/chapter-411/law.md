@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 411 (AB 146)
+
+The people of the State of California do enact as follows:SECTION 1.Section 19990.6 is added to the Government Code, to read:19990.6.(a) Service on a local appointed or elected governmental board, commission, committee, or other body or as a local elected official by an attorney employed by the state in a nonelected position or by an administrative law judge, as defined in Section 11475.10, shall not, by itself, be deemed to be inconsistent, incompatible, in conflict with, or inimical to, the duties of the attorney or administrative law judge as a state officer or employee and shall not result in the automatic vacation of either office.(b) Nothing in this section shall be construed to prohibit an administrative law judge, as defined in Section 11475.10, or an attorney employed by the state in a nonelected position from serving on any other appointed or elected governmental board, commission, committee, or other body, consistent with all applicable conflict-of-interest statutes and regulations and judicial canons of ethics.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24621.lob
