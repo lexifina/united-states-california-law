@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 496 (SB 1557)
+
+The people of the State of California do enact as follows: SECTION 1. Chapter 29 (commencing with Section 7593) is added to Division 7 of Title 1 of the Government Code, to read: 29. Selective Service Cooperation 7593. The Legislature finds and declares that the federal Selective Service System registration program is considered to be in the national interest because it helps to ensure necessary readiness for mobilization in the event of any future national emergency. 7593.1. All state agencies shall cooperate with the United States Selective Service System in efforts to publicize the necessity of, and requirements for, compliance with the federal military Selective Service Act (50 U.S.C. Sec. 451 et seq.). Any actions to implement this chapter shall be mutually agreed to by the state agency and the United States Selective Service System prior to implementation of this chapter. Any costs incurred by a state agency in implementing this chapter shall be reimbursed by the United States Selective Service System.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1182.lob
