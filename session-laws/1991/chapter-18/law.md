@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 18 (AB 677)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of fifty-three million seven hundred fifty thousand dollars ($53,750,000) is hereby appropriated from the General Fund to the Department of Forestry and Fire Protection in augmentation of Item 3540-001-001 of Section 2.0 of the Budget Act of 1990, for emergency fire suppression costs incurred during the 1990–91 fiscal year. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: Due to the prolonged drought conditions and severe 1990–91 fire season as evidenced by the August 1990 siege, significant emergency fire suppression costs have been incurred by the department. It is therefore necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1363.lob
