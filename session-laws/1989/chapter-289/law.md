@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 289 (SB 365)
+
+The people of the State of California do enact as follows: SECTION 1. The campus of the California State University established in the northern portion of San Diego County, shall be designated the California State University, San Marcos. SEC. 2. Section 89001 of the Education Code is amended to read: 89001. The California State University includes the institutions for higher education whose locations are listed in this section. (a) San Jose. (b) San Francisco. (c) Chico. (d) Humboldt. (e) San Diego. (f) Fresno. (g) California Polytechnic State University, San Luis Obispo. (h) California State Polytechnic University, at or near the Cities of San Dimas and Pomona. (i) Long Beach. (j) Los Angeles. (k) Sacramento. ( l) Hayward. (m) San Fernando Valley. (n) Fullerton. (o) Stanislaus. (p) Sonoma. (q) San Bernardino. (r) Dominguez Hills. (s) Contra Costa. (t) Kern. (u) Redwood City. (v) Ventura. (w) San Marcos.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1389.lob
