@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 824 (AB 2894)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10727 is added to the Welfare and Institutions Code, to read: 10727. Except as otherwise provided by law, for purposes of the Health and Safety Code and this code, and any regulations adopted thereunder, after June 1, 1996, “children’s hospital” means all of the following hospitals: (a) Valley Children’s Hospital, Fresno. (b) Earl and Loraine Miller Children’s Hospital and Medical Center of the Memorial Hospital of Long Beach, Long Beach. (c) Children’s Hospital of Los Angeles, Los Angeles. (d) Children’s Hospital Medical Center of Northern California, Oakland. (e) Children’s Hospital of Orange County. (f) Lucile Salter Packard Children’s Hospital at Stanford, Palo Alto. (g) Children’s Hospital and Health Center, San Diego. (h) Loma Linda University Children’s Hospital, Loma Linda.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1539.lob
