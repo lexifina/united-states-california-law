@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 778 (SB 2070)
+
+The people of the State of California do enact as follows: SECTION 1. Chapter 3.7 (commencing with Section 389) is added to Division 1 of the Water Code, to read: 3.7. Water Standby and Availability Charges 389. (a) Notwithstanding any other provision of law, the term water standby charge and the term water availability charge have the same meaning. (b) Subdivision (a) does not constitute a change in, but is declaratory of, existing law. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to clarify, as soon as possible, the meaning of the terms water standby charge and water availability charge, which charges are authorized to be imposed under existing law, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2135.lob
