@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 996 (AB 2359)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12307 of the Penal Code is amended to read:12307.The possession of any destructive device in violation of this chapter shall be deemed to be a public nuisance and the Attorney General or district attorney of any city, county, or city and county may bring an action before the superior court to enjoin the possession of any destructive device.Any destructive device found to be in violation of this chapter shall be surrendered to the Department of Justice, or to the sheriff or chief of police, if the sheriff or chief of police has elected to perform the services required by this section. The department, sheriff, or chief of police shall destroy the destructive device so as to render it unusable and unrepairable as a destructive device, except upon the filing of a certificate with the department by a judge or district attorney stating that the preservation of the destructive device is necessary to serve the ends of justice.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22901.lob
