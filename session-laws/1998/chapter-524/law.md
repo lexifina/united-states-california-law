@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 524 (SB 1965)
+
+The people of the State of California do enact as follows: SECTION 1. Section 4646 of the Labor Code is amended to read: 4646. Settlement or commutation of prospective vocational rehabilitation services shall not be permitted under Chapter 2 (commencing with Section 5000) or Chapter 3 (commencing with Section 5100) of Part 3 except upon a finding by a workers’ compensation judge that there are good faith issues which, if resolved against the employee, would defeat the employee’s right to all compensation under this division. SEC. 2. Section 5100.6 of the Labor Code is amended to read: 5100.6. Notwithstanding the provisions of Section 5100, the appeals board shall not permit the commutation or settlement of prospective compensation or indemnity payments or other benefits to which the employee is entitled under vocational rehabilitation. SEC. 3. The amendments of Sections 4646 and 5100.6 of the Labor Code made by this act do not constitute a change in, but are declaratory of, existing law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1837.lob
