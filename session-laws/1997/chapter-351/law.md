@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 351 (SB 435)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5810 of the Business and Professions Code is amended to read: 5810. This chapter shall be subject to the review required by Division 1.2 (commencing with Section 473). The first review shall be performed in conjunction with those boards scheduled to become inoperative on July 1, 1997. This chapter shall remain in effect only until January 1, 1999, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 1999, deletes or extends that date. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to prevent the repeal on July 1, 1997, of the provisions affecting certified interior designers and interior design organizations, causing a disruption to that industry, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_746.lob
