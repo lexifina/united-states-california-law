@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 154 (SB 141)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The Legislature finds and declares the following: (1) The State of California is a plaintiff in a lawsuit filed in the United States District Court for the Central District of California (In re: Coordinated Pretrial Proceedings in Petroleum Products Antitrust Litigation (M.D.L. Docket No. 150 AWT)) in which it is alleged that certain oil companies conspired to fix the prices of gasoline and other oil products, and of creating a gasoline shortage to cause an increase in gasoline prices. (2) A settlement agreement has been reached that would divide the amount of the settlement fund among California and the other plaintiffs, as determined by the federal court. (b) It is the intent of the Legislature that California’s share of the funds disbursed pursuant to the settlement agreement be deposited in the State Highway Account in the State Transportation Fund in the 1995–96 fiscal year.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2775.lob
