@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 584 (AB 3029)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14045 is added to the Welfare and Institutions Code, to read:14045.(a) A provider may not submit a reimbursement request to the Medi-Cal program containing a beneficiary’s social security number in order to receive payment if the department has issued that beneficiary a Medi-Cal beneficiary identification card containing a beneficiary number with the issuance date included in that number.(b) This section shall not apply to services provided by the following provider types or to the following types of services:(1) A hospital licensed pursuant to Chapter 2 (commencing with Section 1250) of Division 2 of the Health and Safety Code.(2) A long-term health care facility, as defined in Section 1418 of the Health and Safety Code.(3) A primary care clinic that is licensed pursuant to subdivision (a) of Section 1204 of the Health and Safety Code.(4) Emergency medical transportation services.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20640.lob
