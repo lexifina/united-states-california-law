@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 94 (AB 2776)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of up to three hundred thirty-eight million five hundred thirty-four thousand five hundred eleven dollars ($338,534,511) is hereby appropriated from the General Fund, in the 1998–99 fiscal year, to the Secretary of the State Board of Control to pay the Board of Administration of the Public Employees’ Retirement System for a claim for back interest earnings claimed in Board of Administration et al. v. Pete Wilson, etc., Sacramento Superior Court, Case No. 377815, in the amount as determined pursuant to that case. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to settle claims against the state and end hardship to claimants as quickly as possible, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2265.lob
