@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 1021 (AB 428)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12201.05 is added to the Welfare and Institutions Code, to read:12201.05.(a) Commencing with the 2004 calendar year, and thereafter, in any calendar year in which no cost-of-living adjustment is made pursuant to Section 12201, the payment schedules set forth in Sections 12200, 13920, and 13921, as adjusted pursuant to Section 12201, shall include the pass-along of any cost-of-living increases in federal benefits under Subchapter 16 (commencing with Section 1381) of Chapter 7 of Title 42 of the United States Code.(b) Notwithstanding paragraph (2) of subdivision (d) of Section 12201, any adjustments made pursuant to this section to reflect the pass-along of federal cost-of-living adjustments shall be included in the base amounts for purposes of determining cost-of-living adjustments made pursuant to Section 12201.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22877.lob
