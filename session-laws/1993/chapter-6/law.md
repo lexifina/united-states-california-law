@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 6 (SB 974)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of two million twenty thousand dollars ($2,020,000) is hereby appropriated from the General Fund in augmentation of Item 8450-001-001 of the Budget Act of 1992 for payment of the additional compensation of subsequent injuries provided for by Sections 4750 to 4755, inclusive, of the Labor Code. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: The funds appropriated in the Budget Act of 1992 for the Subsequent Injuries Fund will be exhausted by March 1993, leaving recipients of workers’ compensation indemnity through this fund without compensation and causing a severe hardship on these claimants. It is therefore necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1419.lob
