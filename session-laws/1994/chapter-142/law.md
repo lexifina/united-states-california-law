@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 142 (AB 973)
+
+The people of the State of California do enact as follows: SECTION 1. The sum of fifty-six million five hundred thousand dollars ($56,500,000) is hereby appropriated from the General Fund for expenditure in the 1993–94 fiscal year in augmentation of, and for the purposes of, Schedule (a) of Item 6870-101-001 of Section 2.00 of the Budget Act of 1993 (Ch. 55, Stats. 1993). SEC. 2. It is the intent of the Legislature that for the 1995–96 fiscal year, the General Fund appropriation for the California Community Colleges apportionments shall be reduced by six million, two hundred thirty-two thousand dollars ($6,232,000), corresponding to the additional anticipated property tax revenue from corrective legislation relating to the Education Revenue Augmentation Fund. SEC. 3. This act makes an appropriation for the usual current expenses of the state within the meaning of Article IV of the California Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2787.lob
