@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 311 (AB 1314)
+
+The people of the State of California do enact as follows: SECTION 1. Section 168 of the Penal Code is amended to read: 168. (a) Every district attorney, clerk, judge, or peace officer who, except by issuing or in executing a search warrant or warrant of arrest for a felony, willfully discloses the fact of the warrant prior to execution for the purpose of preventing the search or seizure of property or the arrest of any person shall be punished by imprisonment in the state prison or in a county jail for not exceeding one year. (b) This section shall not prohibit the following: (1) A disclosure made by a district attorney or the Attorney General for the sole purpose of securing voluntary compliance with the warrant. (2) Upon the return of an indictment and the issuance of an arrest warrant, a disclosure of the existence of the indictment and arrest warrant by a district attorney or the Attorney General to assist in the apprehension of a defendant.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_1115.lob
