@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 364 (AB 400)
+
+The people of the State of California do enact as follows:SECTION 1.Section 13107.5 is added to the Elections Code, to read:13107.5.(a) A candidate’s ballot designation as “community volunteer” shall constitute a valid principal vocation or occupation for purposes of subdivision (a) of Section 13107, if not otherwise in violation of any of the restrictions set forth in that section, and subject to the following conditions:(1) A candidate’s community volunteer activities constitute his or her principal profession, vocation, or occupation.(2) A candidate is not engaged concurrently in another principal profession, vocation, or occupation.(3) A candidate may not use the designation of “community volunteer” in combination with any other principal profession, vocation, or occupation designation.(b) The Secretary of State shall by regulation define what constitutes a community volunteer for purposes of this section.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23531.lob
