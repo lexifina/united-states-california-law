@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 327 (AB 98)
+
+The people of the State of California do enact as follows:SECTION 1.Section 512.5 is added to the Labor Code, to read:512.5.(a) Notwithstanding any provision of this chapter, if the Industrial Welfare Commission adopts or amends an order that applies to an employee of a public agency who operates a commercial motor vehicle, it may exempt that employee from the application of the provisions of that order which relate to meal periods or rest periods, consistent with the health and welfare of that employee, if he or she is covered by a valid collective bargaining agreement.(b) “Commercial motor vehicle” for the purposes of this section has the same meaning as provided in subdivision (b) of Section 15210 of the Vehicle Code.(c) “Public agency” for the purposes of this section means the state and any political subdivision of the state, including any city, county, city and county, or special district.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21971.lob
