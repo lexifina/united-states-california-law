@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 824 (AB 2399)
+
+The people of the State of California do enact as follows: SECTION 1. Section 11177.2 is added to the Penal Code, to read: 11177.2. (a) No parolee may be released on parole to reside in any other receiving state if the parolee is subject to an unsatisfied order of restitution to a victim within the sending state. (b) A parolee may be granted an exception to the prohibition in subdivision (a) if the parolee posts a bond for the amount of the restitution order. (c) A parolee may petition the court for a hearing to determine whether, in the interests of justice, the prohibition in subdivision (a) should be waived. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to safeguard the victims of crime in this state and to assure these victims receive timely restitution, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_607.lob
