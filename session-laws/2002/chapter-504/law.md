@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 504 (SB 1514)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14555 is added to the Public Resources Code, to read:14555.(a) On or before January 1, 2004, the department shall submit to the Legislature a report regarding beverage container recycling in California’s public elementary, middle, and high schools.(b) The report shall include, but not be limited to, all of the following:(1) A description of department public outreach efforts in schools.(2) A description of local conservation corps recycling activities in the schools.(3) A description of school-based recycling programs sponsored by certified recycling operations.(4) A description of any additional school-based beverage container recycling efforts.(c) The report may include recommendations of additional policies or programs that may increase beverage container recycling in schools.(d) The department shall complete the report using existing resources.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23392.lob
