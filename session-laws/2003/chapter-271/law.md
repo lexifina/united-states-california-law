@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 271 (AB 1606)
+
+The people of the State of California do enact as follows:SECTION 1.Section 22816.1 is added to the Government Code, to read:22816.1.An employee of a contracting agency and his or her family members may continue enrollment in a health benefits plan under this part if the employee is granted a leave of absence by the contracting agency for military duty. The coverage may continue for up to one year.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to ensure that employees of contracting agencies can elect to receive continuing health benefits coverage while on active military duty, including coverage of their family members, and avoid any disruption of their existing coverage, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22024.lob
