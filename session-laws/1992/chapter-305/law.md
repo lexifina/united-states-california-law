@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 305 (AB 2948)
+
+The people of the State of California do enact as follows: SECTION 1. Section 68071 of the Government Code is amended to read: 68071. No rule adopted by a superior, municipal, or justice court shall take effect until the January 1 or July 1, whichever comes first, following the 30th day after it has been filed with the Judicial Council and the clerk of the court, and made immediately available for public examination. The Judicial Council may establish, by rule, a procedure for exceptions to these effective dates. SEC. 2. Section 68072 of the Government Code is amended to read: 68072. Rules adopted by the Judicial Council, the Supreme Court, or a court of appeal shall take effect on a date to be fixed in the order of adoption. If no effective date is fixed, those rules shall take effect 60 days after their adoption. Rules adopted by a superior, municipal, or justice court shall take effect as provided in Section 68071.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2604.lob
