@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 424 (AB 3123)
+
+The people of the State of California do enact as follows: SECTION 1. Section 226.3 of the Labor Code is amended to read: 226.3. Any employer who violates subdivision (a) of Section 226 shall be subject to a civil penalty in the amount of two hundred fifty dollars ($250) per employee per violation in an initial citation and one thousand dollars ($1,000) per employee for each violation in a subsequent citation, for which the employer fails to provide the employee a wage deduction statement or fails to keep the records required in subdivision (a) of Section 226. The civil penalties provided for in this section are in addition to any other penalty provided by law. In enforcing this section, the Labor Commissioner shall take into consideration whether the violation was inadvertent, and in his or her discretion, may decide not to penalize an employer for a first violation when that violation was due to a clerical error or inadvertent mistake.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2486.lob
