@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 640 (AB 2430)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12797 of the Food and Agricultural Code is repealed. SEC. 2. Section 12797 is added to the Food and Agricultural Code, to read: 12797. To the extent that funding is made available by the Director of Pesticide Regulation, the director shall maintain a program to develop new methods and modify existing methods for testing produce for the presence of pesticide residues. The director may consult with representatives of the federal Food and Drug Administration, the State Department of Health Services, public and private institutions of higher education, other laboratories, or any other entity he or she deems appropriate. The director shall focus his or her review on analytical methods for pesticide residues that are not detectable on existing multiple-residue screens, and on pesticide residue detection methods that the director deems are difficult to accurately identify and quantify due to time, equipment, or expense.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2270.lob
