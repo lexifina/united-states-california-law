@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 483 (AB 2583)
+
+The people of the State of California do enact as follows: SECTION 1. Section 14592 of the Welfare and Institutions Code is amended to read: 14592. (a) The director may contract with up to ten demonstration projects to develop risk-based long-term care pilot programs modeled upon On Lok Senior Health Services in San Francisco. The department shall seek necessary federal waivers for each demonstration site pursuant to Section 1115 of the Social Security Act (42 U.S.C.A. Sec. 1315). The director shall not enter into contracts with any demonstration program unless necessary federal waivers are obtained. (b) The demonstration sites shall be public or private nonprofit organizations providing or having the capacity to provide, as determined by the director, comprehensive health care services on a risk-based capitated basis to frail elderly persons certifiable for institutional care. Implementation of this section shall be in accordance with Section 4118(g)(1)(2) of the federal Omnibus Budget Reconciliation Act of 1987.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1877.lob
