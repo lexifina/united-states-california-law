@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 257 (AB 3370)
+
+The people of the State of California do enact as follows: SECTION 1. Section 612 of the Military and Veterans Code is amended to read: 612. (a) The colors and standards carried by organizations of the National Guard or Naval Militia shall be those which are carried by similar organizations of the United States Army, Air Force, or Navy, except that the regimental or battalion colors or standards may show the state coat of arms, instead of the coat of arms of the United States. (b) The Adjutant General may, pursuant to rules and regulations adopted for the purpose, deliver to the members of the family of a deceased member of the National Guard or of the State Military Reserve the colors used during the disposition of the remains of the deceased member according to the custom and usual practice of the United States Army, Air Force, or Navy, which then become the property of the members of the family.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3318.lob
