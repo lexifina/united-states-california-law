@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 245 (SB 2433)
+
+The people of the State of California do enact as follows: SECTION 1. Section 13963.1 is added to the Government Code, to read: 13963.1. Notwithstanding Section 11123, the board may exclude from the hearing all persons other than board members and members of its staff, the victim, the victim’s parents or guardians, the victim’s representative, any witnesses, and other persons of the victim’s choice to provide assistance to the victim during the hearing, if the application that the board is considering is the result of either a crime against a minor or a crime of sexual assault. The board may not exclude persons from a hearing to which this section applies if the victim or the victim’s representative requests that the hearing be open to the public. This section shall remain in effect only until January 1, 1994, and as of that date is repealed, unless a later enacted statute, which is chaptered prior to January 1, 1994, deletes or extends that date.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3330.lob
