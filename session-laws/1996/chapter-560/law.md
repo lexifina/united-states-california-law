@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 560 (AB 2483)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1294 is added to the Evidence Code, to read: 1294. (a) The following evidence of prior inconsistent statements of a witness properly admitted in a preliminary hearing or trial of the same criminal matter pursuant to Section 1235 is not made inadmissible by the hearsay rule if the witness is unavailable and former testimony of the witness is admitted pursuant to Section 1291: (1) A videotaped statement introduced at a preliminary hearing or prior proceeding concerning the same criminal matter. (2) A transcript, containing the statements, of the preliminary hearing or prior proceeding concerning the same criminal matter. (b) The party against whom the prior inconsistent statements are offered, at his or her option, may examine or cross-examine any person who testified at the preliminary hearing or prior proceeding as to the prior inconsistent statements of the witness.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1803.lob
