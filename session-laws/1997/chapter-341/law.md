@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 341 (SB 388)
+
+The people of the State of California do enact as follows: SECTION 1. Section 828.01 is added to the Welfare and Institutions Code, to read: 828.01. (a) Notwithstanding any other provision of law, a law enforcement agency may release the name of, and any descriptive information about, a minor, 14 years of age or older, and the offenses allegedly committed by that minor, if there is an outstanding warrant for the arrest of that minor for an offense described in paragraph (1) of subdivision (e) of Section 707. Any releases made pursuant to this section shall be reported to the presiding judge of the juvenile court. (b) This section shall remain in effect only until January 1, 2000, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2000, deletes or extends that date. SEC. 2. This bill shall only become operative if both this bill and SB 1058 are enacted and become effective on or before January 1, 1998.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_756.lob
