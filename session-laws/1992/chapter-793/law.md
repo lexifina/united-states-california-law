@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 793 (AB 3336)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12921.7 is added to the Insurance Code, to read: 12921.7. Notwithstanding any other provision of law, the following shall apply to the adoption by the commissioner of any regulation as an emergency regulation pursuant to subdivision (b) of Section 11346.1 of the Government Code. (a) At least 5 working days prior to submission of the emergency regulation to the Office of Administrative Law, the commissioner shall mail a notice of proposed emergency action to every person, group, or association who had previously filed a request for notice of regulatory actions with the commissioner. (b) The notice of proposed emergency action shall include the following: (1) A description of the problem and the necessity for the regulation. (2) A description of the justification for adoption of the regulation as an emergency regulation. (3) A copy of the text of the proposed emergency regulation.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2120.lob
