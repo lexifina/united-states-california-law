@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 65 (AB 883)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1550.1 is added to the Evidence Code, to read:1550.1.Reproductions of files, records, writings, photographs, fingerprints or other instruments in the official custody of a criminal justice agency that were microphotographed or otherwise reproduced in a manner that conforms with the provisions of Section 11106.1, 11106.2, or 11106.3 of the Penal Code shall be admissible to the same extent and under the same circumstances as the original file, record, writing or other instrument would be admissible.SEC. 2.Section 11106.3 is added to the Penal Code, to read:11106.3.Fingerprints may be stored or created in an electronic format that does not permit additions, deletions or changes to the original fingerprints so long as the storage medium complies with the minimum standards of quality approved by the National Institute of Standards and Technology.SEC. 3.Sections 1 and 2 of this bill are declarative of existing law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21154.lob
