@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 380 (SB 1521)
+
+The people of the State of California do enact as follows: SECTION 1. Section 995.630 of the Code of Civil Procedure is amended to read: 995.630. An admitted surety insurer shall be accepted or approved by the court or officer as surety on a bond without further acknowledgment if the bond is executed in the name of the surety insurer under penalty of perjury or the fact of execution of the bond is duly acknowledged before an officer authorized to take and certify acknowledgments, and either one of the following conditions, at the option of the surety insurer, is satisfied: (a) A copy of the transcript or record of the unrevoked appointment, power of attorney, bylaws, or other instrument, duly certified by the proper authority and attested by the seal of the insurer entitling or authorizing the person who executed the bond to do so for and in behalf of the insurer, is filed in the office of the clerk of the county in which the court or officer is located. (b) A copy of a power of attorney is attached to the bond.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2530.lob
