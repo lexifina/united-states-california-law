@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 254 (AB 2091)
+
+The people of the State of California do enact as follows: SECTION 1. Section 23824.1 is added to the Business and Professions Code, to read: 23824.1. (a) The provisions of Section 23824 shall apply to convention centers and event centers which are operated by municipal, independent nonprofit agencies for the purpose of providing meeting rooms, exhibit space, or event and theatrical seating, or all of these. (b) Any license issued pursuant to this section shall be issued only upon condition that all revenues generated from the license shall be segregated and allocated for the operations and capital requirements of the convention center or event center only. (c) For purposes of this section, “event center” means a community center, activity center, auditorium, convention center, arena, or other building, collection of buildings, or facility which is used exclusively or primarily for the holding of exhibitions, conventions, meetings, spectacles, concerts, or shows.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_2109.lob
