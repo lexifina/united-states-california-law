@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 179 (AB 887)
+
+The people of the State of California do enact as follows:SECTION 1.Section 74785 of the Food and Agricultural Code is amended to read:74785.(a) The commission shall establish the assessment for the following marketing year not later than April 1 of each year, or as soon thereafter as is possible.(b) The assessment shall not exceed fifty dollars ($50) per bearing acreage of grape rootstock and two cents ($0.02) per invoicable unit of grape rootstock and grafted grape rootstock used or distributed for commercial purposes. The commission may establish different invoicable unit assessment rates for rootstock cuttings, rooted rootstock cuttings, and grafted grape rootstocks, provided that the rates do not exceed the maximum assessment authorized by this subdivision.(c) A fee greater than the amount specified in subdivision (b) may not be charged unless approved pursuant to procedures specified in Section 74771.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22114.lob
