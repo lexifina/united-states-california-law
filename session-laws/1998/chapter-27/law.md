@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 27 (AB 834)
+
+The people of the State of California do enact as follows: SECTION 1. Notwithstanding any provision of the Elections Code to the contrary, a special general election only to fill the vacancy in the 9th Senate District may be conducted more than 180 days following the proclamation of the Governor in order to consolidate the special general election with the November 3, 1998, statewide general election. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order that the special general election to fill the vacancy in the 9th Senate District may be consolidated with the November 3, 1998, statewide general election and thereby reduce the costs of that special general election, it is necessary that this act take immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2332.lob
