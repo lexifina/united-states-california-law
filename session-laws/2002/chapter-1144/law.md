@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 1144 (AB 1243)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1151.5 of the Government Code is amended to read:1151.5.(a) In addition to deductions authorized pursuant to Section 1151, a state employee may authorize deductions to be made from salaries or wages for payment for the support, maintenance, or care of the employee’s child, children, family, or former spouse for whom the employee has a duty of support. A service charge may be assessed for this deduction.(b) A public agency may establish payroll deduction programs for any of the following purposes:(1) Payment for the support, maintenance, or care of an employee’s child, children, family, or former spouse for whom the employee has a duty of support.(2) Payment of an employee’s legal judgment.(3) Garnishment or deduction of an employee’s wages pursuant to a court order.(4) Payment of an employee’s loan or obligation to a commercial lending institution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_22754.lob
