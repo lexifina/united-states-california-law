@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 666 (SB 180)
+
+The people of the State of California do enact as follows:SECTION 1.Section 16020.1 of the Vehicle Code is amended to read:16020.1.(a) On and after January 1, 2007, Section 4000.37 does not apply to vehicle owners with a residence address in the County of Los Angeles at the time of registration renewal.(b) On and after January 1, 2007, subdivisions (a) and (b) of Section 16028 do not apply to a person who drives a motor vehicle upon a highway in the County of Los Angeles.SEC. 2.Section 16020.2 of the Vehicle Code is amended to read:16020.2.(a) On and after January 1, 2007, Section 4000.37 does not apply to vehicle owners with a residence address in the City and County of San Francisco at the time of registration renewal.(b) On and after January 1, 2007, subdivisions (a) and (b) of Section 16028 do not apply to a person who drives a motor vehicle upon a highway in the City and County of San Francisco.SEC. 3.The provisions of this bill shall not become operative unless Senate Bill 1427 is also enacted.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23230.lob
