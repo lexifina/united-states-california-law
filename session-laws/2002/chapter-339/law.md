@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 339 (AB 2193)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6503.1 is added to the Government Code, to read:6503.1.(a) When property tax revenues of a county of the second class are allocated by that county to an agency formed for the purpose of providing fire protection pursuant to this chapter, those funds may only be appropriated for expenditure by that agency for fire protection purposes.(b) As used in this section, “fire protection purposes” means those purposes directly related to, and in furtherance of, providing fire prevention, fire suppression, emergency medical services, hazardous materials response, ambulance transport, disaster preparedness, rescue services, and related administrative costs.(c) This section shall not be interpreted to alter any provision of law governing the processes by which cities or counties select providers of ambulance transport services.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23556.lob
