@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 156 (AB 2460)
+
+The people of the State of California do enact as follows: SECTION 1. (a) It is the intent of the Legislature that, beginning in the 1999–2000 fiscal year and each fiscal year thereafter, the Legislature shall distribute cost-of-living adjustment amounts based on a sliding scale formula that promotes revenue limit equalization by reducing differences between revenue limits for districts of the same size and type. (b) The Legislative Analyst’s Office shall examine the revenue limits for the 1998–99 fiscal year and develop several options regarding a sliding scale formula, based on the distribution of the 1998–99 fiscal year revenue limits and based on different scenarios regarding the number of years over which revenue limits might be equalized. By March 1, 1999, the Legislative Analyst’s office shall present these options and corresponding recommendations, in writing, to the appropriate policy and budget committees of the Legislature, and to the Governor, the Director of Finance, and the Superintendent of Public Instruction.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2203.lob
