@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 762 (AB 185)
+
+The people of the State of California do enact as follows:SECTION 1.Section 56852.7 is added to the Government Code, to read:56852.7.If the commission approves a proposal for a special reorganization that includes the incorporation of a city with a population of more than 1,000,000, the commission shall do both of the following:(a) Specify in the resolution making determinations that, notwithstanding Section 36501, the legislative body of the city shall consist of an even number of members, with at least 12 elected by districts, as defined in Section 34871. The commission shall establish the initial boundaries of a sufficient number of districts of approximately equal populations, consistent with state and federal law, not to exceed more than 100,000 residents per district.(b) Specify in the resolution that the mayor, who shall be a voting member of the council, shall be elected on a citywide basis.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23461.lob
