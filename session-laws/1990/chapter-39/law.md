@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 39 (AB 1235)
+
+The people of the State of California do enact as follows: SECTION 1. Section 34218 of the Health and Safety Code is amended to read: 34218. Chapter 7 (commencing with Section 3247) of Title 15 of Part 4 of Division 3 of the Civil Code applies to any housing project constructed under this chapter. Notwithstanding the provisions of this section, a housing authority may require a 20 percent cash escrow or a 25 percent irrevocable letter of credit or the payment bond required by this section if the contract is for work undertaken pursuant to the Comprehensive Improvement Assistance Program established by Section 14 of the United States Housing Act of 1937, as amended (42 U.S.C.A. Secs. 1437d and 1437 l), or the Public Housing Modernization Act established by Section 5(c)(3)(C) of the United States Housing Act of 1937, as amended (42 U.S.C.A. Secs. 1437d and 1437 l).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3535.lob
