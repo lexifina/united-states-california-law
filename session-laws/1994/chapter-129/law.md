@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 129 (SB 1684)
+
+The people of the State of California do enact as follows: SECTION 1. Section 18003.6 is added to the Financial Code, to read: 18003.6. “Certificate of deposit” as that term is used by an industrial loan company licensed under this division means an investment certificate representing the obligation of an industrial loan company to repay a nondemand deposit as deposit is defined in Section 3(1) of the Federal Deposit Insurance Act. SEC. 2. Section 18321 of the Financial Code is amended to read: 18321. (a) Nothing in this division authorizes an industrial loan company to receive deposits. (b) Subject to Section 18315, an industrial loan company that is a member of the Federal Deposit Insurance Corporation pursuant to Section 18521.5 may use the term “certificate of deposit” as defined in Section 18003.6 with respect to an investment certificate that does not authorize either of the following: (1) Redemption prior to its maturity. (2) Reduction of the interest rate payable thereon other than a variable interest rate.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2799.lob
