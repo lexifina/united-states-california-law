@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 167 (SB 682)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1872.95 of the Insurance Code is amended to read: 1872.95. (a) Within existing resources, the Medical Board of California, the Board of Chiropractic Examiners, and the State Bar shall each designate employees to investigate and report on possible fraudulent activities relating to workers’ compensation, motor vehicle insurance, or disability insurance by licensees of the board or the bar. Those employees shall actively cooperate with the bureau in the investigation of those activities. (b) The Medical Board of California, the Board of Chiropractic Examiners, and the State Bar shall each report annually, on or before March 1, to the committees of the Senate and Assembly having jurisdiction over insurance on their activities established pursuant to subdivision (a) for the previous year.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_932.lob
