@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 503 (SB 2100)
+
+The people of the State of California do enact as follows: SECTION 1. Article 4 (commencing with Section 15350) of Chapter 1 of Part 6.7 of Division 3 of Title 2 of the Government Code is repealed. SEC. 2. Article 4.5 (commencing with Section 15355) of Chapter 1 of Part 6.7 of Division 3 of Title 2 of the Government Code is repealed. SEC. 3. Section 15363.7 is added to the Government Code, to read: 15363.7. The secretary shall include as part of the annual report required pursuant to subdivision (c) of Section 15363, a report on the foreign and domestic business development marketing programs administered by the agency. SEC. 4. Chapter 2.1 (commencing with Section 15372.10) of Part 6.7 of Division 3 of Title 2 of the Government Code is repealed. SEC. 5. Any balance remaining in the Dry Cleaning Fund established pursuant to Section 15372.19 of the Government Code as of January 1, 1997, shall be transferred to the General Fund.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1860.lob
