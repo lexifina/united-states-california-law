@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 388 (SB 59)
+
+The people of the State of California do enact as follows: SECTION 1. Section 68565 of the Government Code is amended to read: 68565. Subject to Section 68562, all persons who interpret, in or for use in a trial court proceeding, in any of the following languages shall be certified to the trial courts by the State Personnel Board as qualified court interpreters: Spanish, Portuguese, Arabic, Chinese, Vietnamese, Japanese, Korean, Tagalog and any other language designated by the State Personnel Board. The examination procedure to certify the list of qualified interpreters in all languages shall be the same as that previously established by the State Personnel Board for Spanish Language Court Interpreters. Interpreters who have passed the federal court interpreter certification examination and who have been certified under Title 28 of the United States Code shall be deemed qualified court interpreters without further examination by the State Personnel Board.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_997.lob
