@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 39 (SB 2085)
+
+The people of the State of California do enact as follows:SECTION 1.Notwithstanding Section 25608 of the Business and Professions Code or any other provision of law, alcoholic beverages may be served on the campus of the Monterey Peninsula College during the period from June 15 to June 22, 2000, inclusive, in connection with the 100th anniversary of the United States Open Golf Championship Tournament at Pebble Beach.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to provide needed funds to Monterey Peninsula College resulting from the service of alcoholic beverages in connection with the 100th anniversary of the United States Open Golf Tournament at Pebble Beach in June 2000, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24181.lob
