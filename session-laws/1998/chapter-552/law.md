@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 552 (AB 2055)
+
+The people of the State of California do enact as follows: SECTION 1. Section 65850.4 is added to the Government Code, to read: 65850.4. (a) It is the intent of the Legislature to authorize the legislative body of any city or county to enter into a legally sanctioned and appropriate cooperative agreement, consortium, or joint powers authority with other adjacent cities or counties regarding regulation of established negative secondary effects of adult or sexually oriented businesses if the actions taken by the legislative body are consistent with subdivision (g) of Section 65850. (b) The Legislature finds and declares that in order to encourage the legislative body of a city or county in regulating adult or sexually oriented businesses or similar businesses under subdivision (g) of Section 65850, the legislative body may consider any harmful secondary effects such a business may have on adjacent cities and counties and its proximity to churches, schools, residents, and other businesses located in adjacent cities or counties.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1809.lob
