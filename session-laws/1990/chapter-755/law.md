@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 755 (AB 2811)
+
+The people of the State of California do enact as follows: SECTION 1. The Office of Statewide Health Planning and Development, in consultation with the Small and Rural Hospital Advisory Committee, shall develop and submit to the federal government a grant application on behalf of the State of California which meets the requirements of the Omnibus Budget Reconciliation Act of 1989 (P.L. 101-239, Sec. 6003(g)), seeking to have California designated as one of the states to develop rural health care plans and designating hospitals and facilities as Essential Access Community Hospitals (EACH) or as Rural Primary Care Hospitals (RPCH). Once California is selected, and the grant is received, the Office of Statewide Health Planning and Development shall, to the extent consistent with federal law, designate general acute care hospitals, as defined in subdivision (a) of Section 1250 of the Health and Safety Code, as EACH and RPCH facilities, so as to make those facilities eligible for federal EACH and RPCH funding.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2820.lob
