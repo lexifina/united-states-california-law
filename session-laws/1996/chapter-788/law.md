@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 788 (AB 1205)
+
+The people of the State of California do enact as follows: SECTION 1. Section 502.9 is added to the Penal Code, to read: 502.9. Upon conviction of a felony violation under this chapter, the fact that the victim was an elder or dependent adult, as defined in Section 368, shall be considered a circumstance in aggravation when imposing a term under subdivision (b) of Section 1170. SEC. 2. Section 515 is added to the Penal Code, to read: 515. Upon conviction of a felony violation under this chapter, the fact that the victim was an elder or dependent adult, as defined in Section 368, shall be considered a circumstance in aggravation when imposing a term under subdivision (b) of Section 1170. SEC. 3. Section 525 is added to the Penal Code, to read: 525. Upon conviction of a felony violation under this chapter, the fact that the victim was an elder or dependent adult, as defined in Section 368, shall be considered a circumstance in aggravation when imposing a term under subdivision (b) of Section 1170.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1575.lob
