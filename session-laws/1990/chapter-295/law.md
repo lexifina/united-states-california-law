@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 295 (AB 3371)
+
+The people of the State of California do enact as follows: SECTION 1. Section 730 of the Evidence Code is amended to read: 730. When it appears to the court, at any time before or during the trial of an action, that expert evidence is or may be required by the court or by any party to the action, the court on its own motion or on motion of any party may appoint one or more experts to investigate, to render a report as may be ordered by the court, and to testify as an expert at the trial of the action relative to the fact or matter as to which the expert evidence is or may be required. The court may fix the compensation for these services, if any, rendered by any person appointed under this section, in addition to any service as a witness, at the amount as seems reasonable to the court. Nothing in this section shall be construed to permit a person to perform any act for which a license is required unless the person holds the appropriate license to lawfully perform that act.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3280.lob
