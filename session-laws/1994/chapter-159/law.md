@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 159 (AB 1013)
+
+The people of the State of California do enact as follows: SECTION 1. Section 353.1 is added to the Welfare and Institutions Code, to read: 353.1. (a) At the hearing on a petition filed pursuant to Article 8 (commencing with Section 325) of this chapter, any person adjudged a dependent child of the juvenile court shall be informed, both verbally and in writing by the court as provided in subdivision (b), of both of the following: (1) His or her rights pursuant to Section 388. (2) The procedure for bringing a petition pursuant to Section 388, including the availability of all appropriate and necessary Judicial Council forms. (b) Where the dependent child has attained the age of 12 years or older, the court shall directly inform the child as required above in clear language appropriate for the child’s level of cognitive development. Where the dependent child is under the age of 12 years, the court shall inform the child as required above through the child’s guardian ad litem or legal counsel.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2770.lob
