@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 164 (AB 3042)
+
+The people of the State of California do enact as follows: SECTION 1. Section 3102 of the Family Code is amended to read: 3102. (a) If either parent of an unemancipated minor child is deceased, the children, siblings, parents, and grandparents of the deceased parent may be granted reasonable visitation with the child during the child’s minority upon a finding that the visitation would be in the best interest of the minor child. (b) In granting visitation pursuant to this section to a person other than a grandparent of the child, the court shall consider the amount of personal contact between the person and the child before the application for the visitation order. (c) This section does not apply if the child has been adopted by a person other than a stepparent or grandparent of the child. Any visitation rights granted pursuant to this section before the adoption of the child automatically terminate if the child is adopted by a person other than a stepparent or grandparent of the child.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2765.lob
