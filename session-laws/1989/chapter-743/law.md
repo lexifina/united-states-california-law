@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 743 (AB 1692)
+
+The people of the State of California do enact as follows: SECTION 1. Section 10123.15 is added to the Insurance Code, to read: 10123.15. On and after January 1, 1990, every group policy of disability insurance which covers hospital, medical, and surgical expenses on a group basis, and which offers coverage for disorders of the brain shall also offer coverage in the same manner for the following biologically based severe mental disorders: schizophrenia, schizo-affective disorder, bipolar and delusional depressions, and pervasive developmental disorder. Coverage for these mental disorders shall be subject to the same terms and conditions applied to other mental disorder coverage; however, an insurer may reserve the right to confirm diagnoses and to review the appropriateness of specific treatment plans as necessary to ensure the intent of this section. Nothing in this section shall be construed to affect the scope of licensure of any health care professional.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_936.lob
