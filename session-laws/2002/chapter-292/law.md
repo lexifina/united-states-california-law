@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 292 (AB 2094)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5091.20 of the Public Resources Code is amended to read:5091.20.(a) The department shall print the permits required by this chapter and shall supervise the sale of the permits throughout the state.(b) The department shall either distribute and sell the permits directly or contract with vendors according to rules and regulations adopted by the department. The authorized vendors shall be bonded in accordance with the rules and regulations and shall receive a stipulated commission for each permit sold.(c) In situations where the department elects to contract with a vendor pursuant to subdivision (b), the department shall provide the permits to the vendor at no cost. The vendor may deduct his or her commission from the proceeds acquired from permit sales prior to remitting those proceeds to the department.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23603.lob
