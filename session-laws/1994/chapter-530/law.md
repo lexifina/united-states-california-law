@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 530 (AB 3709)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1857.7 of the Insurance Code is amended to read: 1857.7. The application referred to in subdivision (b) of Section 1861.05 shall include, but shall not be limited to, all of the following information: (1) Premiums written. (2) Premiums earned. (3) Unearned premiums. (4) The dollar amount of claims paid. (5) The number of outstanding claims. (6) Net loss reserves for outstanding claims excluding claims incurred but not reported. (7) Net loss reserves for claims incurred but not reported. (8) Losses incurred as a percentage of premiums earned. (9) Net investment gain or loss and other income or gain or loss allocated to products liability lines. (10) Net income before federal and foreign income taxes. (11) Expenses incurred including loss adjustment expense, commission and brokerage expense, other acquisition expense and general expense.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2399.lob
