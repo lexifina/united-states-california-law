@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 119 (AB 1677)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3008 of the Elections Code is amended to read:3008.(a) Any individual, organization, or group that distributes applications for absent voter ballots and receives completed application forms shall return the forms to the appropriate elections official within 72 hours of receiving the completed forms, or before the deadline for application, whichever is sooner. The name, address, and telephone number of any organization that authorizes the distribution of the applications shall be included on the application.(b) Any application for an absent voter’s ballot that is sent by an individual, group, or organization to a voter shall be nonforwardable. Any absent voter’s ballot that is returned to an elections official as undeliverable shall not be forwarded by the elections official.(c) A person may not submit an absentee ballot application electronically for another registered voter.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22172.lob
