@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 975 (SB 1748)
+
+The people of the State of California do enact as follows: SECTION 1. Section 439.2 of the Health and Safety Code is amended to read: 439.2. (a) Health facilities and clinics, except for chronic dialysis clinics as defined in subdivision (b) of Section 1204, shall annually report to the office all of the following information on forms supplied by the office: (1) A current inventory of beds and services. (2) Utilization data by bed type and service. (3) Acquisitions of diagnostic or therapeutic equipment during the reporting period with a value in excess of five hundred thousand dollars ($500,000). (4) Commencement of projects during the reporting period which require a capital expenditure for the facility or clinic in excess of one million dollars ($1,000,000). (b) With respect to chronic dialysis clinics, the office may annually obtain this information to the extent it is available from the Federal End Stage Renal Disease Network.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1939.lob
