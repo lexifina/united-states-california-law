@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 325 (AB 2710)
+
+The people of the State of California do enact as follows: SECTION 1. Section 7000.2 is added to the Business and Professions Code, to read: 7000.2. Nothing in this code shall be interpreted to prohibit cities, counties, and cities and counties from requiring contractors to show proof that they are in compliance with local business tax requirements of the entity prior to issuing any city, county, or city and county permit. Nothing in this code shall be interpreted to prohibit cities, counties, and cities and counties from denying the issuance of a permit to a licensed contractor who is not in compliance with local business tax requirements. Any business tax required or collected as part of this process shall not exceed the amount of the license tax or license fee authorized by Section 37101 of the Government Code or Section 16000 of the Business and Professions Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2584.lob
