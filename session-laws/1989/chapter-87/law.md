@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 87 (SB 639)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25235 of the Business and Professions Code is amended to read: 25235. It is unlawful for any person to sell to any on- or off-sale licensee or to deliver to the premises of any on- or off-sale licensee, or for any on- or off-sale licensee to sell or to have upon his or her licensed premises, wine packaged or bottled in any pocket flask container of less than 750 milliliters, the face of which is substantially rectangular and the minimum thickness of which is less than two-thirds of its maximum width, the measurements to be made on the cross-sectional axes, excluding the neck portion of the container. This section does not apply to the possession of wine in such containers on the premises of a licensed wine grower or at the branch office or warehouse or United States bonded storeroom of the wine grower located away from his place of production or manufacture.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1591.lob
