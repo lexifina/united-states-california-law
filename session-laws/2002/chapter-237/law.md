@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 237 (AB 2082)
+
+The people of the State of California do enact as follows:SECTION 1.Section 9106 of the Elections Code is amended to read:9106.Any elector of the county may seek a writ of mandate requiring the ballot title or summary prepared by the county counsel to be amended. The court shall expedite hearing on the writ. A peremptory writ of mandate shall be issued only upon clear and convincing proof that the ballot title or summary is false, misleading, or inconsistent with the requirements of Section 9105.SEC. 2.Section 9204 of the Elections Code is amended to read:9204.Any elector of the city may seek a writ of mandate requiring the ballot title or summary prepared by the city attorney to be amended. The court shall expedite hearing on the writ. A peremptory writ of mandate shall be issued only upon clear and convincing proof that the ballot title or summary is false, misleading, or inconsistent with the requirements of Section 9203.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23658.lob
