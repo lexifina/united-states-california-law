@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 85 (SB 39)
+
+The people of the State of California do enact as follows: SECTION 1. Section 2982.2 of the Civil Code, as added by Chapter 28 of the Statutes of 1994, is amended to read: 2982.2. Any conditional sale contract executed after June 30, 1994, for the sale of a new motor vehicle shall contain a notification to the buyer of the availability of a certificate of exemption pursuant to subdivision (b) of Section 4000.6 of the Vehicle Code. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order that motor vehicle dealers be allowed sufficient time to comply with Section 2982.2 of the Civil Code, and to avoid the potential invalidation of contracts executed without the notice required by that section, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2843.lob
