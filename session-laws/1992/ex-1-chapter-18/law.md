@@ -1,0 +1,5 @@
+# Stats. 1992, 1 Ex. Sess., ch. 18 (AB 29)
+
+The people of the State of California do enact as follows: SECTION 1. Section 17208.1 is added to the Revenue and Taxation Code, to read: 17208.1. For taxable years beginning on or after January 1, 1992, in addition to the losses specified in Section 17207, the provisions of that section shall apply to any loss sustained as a result of storm, flooding, or any other related casualty occurring in February 1992 in California. SEC. 2. Section 24347.7 is added to the Revenue and Taxation Code, to read: 24347.7. For income years beginning on or after January 1, 1992, in addition to the losses specified in Section 24347.5, the provisions of that section shall apply to any loss sustained as a result of storm, flooding, or any other related casualty occurring in February 1992 in California. SEC. 3. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1538.lob
