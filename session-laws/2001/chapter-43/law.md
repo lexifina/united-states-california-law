@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 43 (SB 544)
+
+The people of the State of California do enact as follows:SECTION 1.Section 53227.2 of the Government Code is amended to read:53227.2.For purposes of this article, the following definitions apply:(a) “Local agency” means a city, city and county, county, district, municipal or public corporation, political subdivision, or other public agency of the state. (b) “Legislative body” means the board of supervisors of a county or a city and county, the city council of a city, or the governing body of a district, municipal or public corporation, political subdivision, or other public agency of the state.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_24988.lob
