@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 401 (SB 1529)
+
+The people of the State of California do enact as follows: SECTION 1. Section 12772 of the Government Code is amended to read: 12772. American Indian grantees shall be limited to tribes and other Indian organizations in urban or rural off-reservation areas who demonstrate community governance, such as Indian nonprofit organizations, who meet the criteria of eligible entity as defined in subdivision (e) of Section 12730. In a county having a population of over 7,000,000 persons, the County Community Action Agency may serve as the grantee if (1) requested to serve in this capacity by a commission composed of representatives of American Indian beneficiaries in that county and (2) the board of supervisors of the county shares grant allocation authority with an appropriate American Indian entity. American Indian programs funded under this article shall coordinate their plans and activities with other grantees funded by the department to avoid duplication of services and to maximize services for eligible beneficiaries.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2509.lob
