@@ -1,0 +1,5 @@
+# Stats. 1997, ch. 277 (SB 789)
+
+The people of the State of California do enact as follows: SECTION 1. Section 409 of the Streets and Highways Code is amended to read: 409. (a) Route 109 is from Route 84 to Route 101. (b) The department shall maintain and operate the segment of Route 109 within the City of East Palo Alto upon a determination by the department and the city that the segment is in an acceptable state of repair. (c) No study and analysis of any proposed segment of Route 109 shall be conducted without the involvement of the governing body of any city or county through which the segment would pass as an active participant in the study and analysis. However, nothing in this subdivision shall preclude the department from conducting a study and analysis. Furthermore, no segment may be included in any plan for future Route 109 construction unless the segment is approved by each of those governing bodies.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_819.lob
