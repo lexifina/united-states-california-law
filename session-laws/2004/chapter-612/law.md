@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 612 (SB 1155)
+
+The people of the State of California do enact as follows:SECTION 1.Section 138.10 is added to the Water Code, to read:138.10.(a) On or before January 1, 2006, the director, in collaboration with the Secretary of Interior or his or her designee, shall prepare a plan to meet the existing permit and license conditions for which the department has an obligation, as described in the State Water Resources Control Board Decision No. 1641.(b) The plan shall be designed to achieve compliance with the permit and license conditions described in subdivision (a). The director shall prepare the plan, and submit copies of the plan to the board and the California Bay-Delta Authority, prior to increasing the existing permitted diversion rate at the State Water Project’s Harvey O. Banks Pumping Plant.(c) Nothing in this section limits or restricts the department in its operation of the State Water Project due to failure of other water rights permittees or licensees to meet water quality conditions of their respective permits or licenses.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_20612.lob
