@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 480 (AB 2583)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of forty-eight million two hundred eighty thousand dollars ($48,280,000) is hereby appropriated from the General Fund to the Attorney General for allocation to pay the first of five annual settlement payments to the United States government for the case of Craig Brown v. United States Department of Health and Human Services, et al. (Ninth Circuit Appeal No. 99-1692).SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to pay settlement claims against the state and relieve the state of additional financial liability as soon as possible, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_23742.lob
