@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 264 (SB 1985)
+
+The people of the State of California do enact as follows: SECTION 1. Section 832.8 of the Penal Code is amended to read: 832.8. As used in Section 832.7, “personnel records” means any file maintained under that individual’s name by his or her employing agency and containing records relating to any of the following: (a) Personal data, including marital status, family members, educational and employment history, home addresses, or similar information. (b) Medical history. (c) Election of employee benefits. (d) Employee advancement, appraisal, or discipline. (e) Complaints, or investigations of complaints, concerning an event or transaction in which he or she participated, or which he or she perceived, and pertaining to the manner in which he or she performed his or her duties. (f) Any other information the disclosure of which would constitute an unwarranted invasion of personal privacy.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3311.lob
