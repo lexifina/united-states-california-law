@@ -1,0 +1,5 @@
+# Stats. 1995, ch. 348 (AB 1597)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25105 of the Vehicle Code is amended to read: 25105. (a) Any motor vehicle may be equipped with running board or door-mounted courtesy lamps. The bulbs in the lamps shall not exceed six standard candlepower and shall emit either a green or white light without glare. The beams of the lamps shall not be visible to the front or rear of the vehicle. (b) Any motor vehicle may be equipped with inside door-mounted red lamps or red reflectorizing devices or material visible to the rear of the vehicle when the doors are open. The bulbs in the lamps shall not exceed six standard candlepower. (c) Any motor vehicle may be equipped with exterior lamps for the purpose of lighting the entrances and exits of the vehicles, which lamps may be lighted only when the vehicles are not in motion. The lamp source of the exterior lamps shall not exceed 32 standard candlepower, or 30 watts, nor project any glaring light into the eyes of an approaching driver.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_752.lob
