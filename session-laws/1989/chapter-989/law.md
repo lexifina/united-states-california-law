@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 989 (SB 949)
+
+The people of the State of California do enact as follows: SECTION 1. Section 2053.1 is added to the Penal Code, to read: 2053.1. The Director of the Department of Corrections shall implement in every state prison literacy programs that are designed to ensure that upon parole inmates are able to achieve a ninth-grade reading level. The department shall prepare an implementation plan for this program, and shall request the necessary funds to implement this program as follows: (a) To make the program available to at least 25 percent of eligible inmates in the state prison system by July 1, 1991. (b) To make the program available to at least 60 percent of eligible inmates in the state prison system by January 1, 1996. In complying with the requirements of this section, the department shall give strong consideration to computer assisted training and other innovations which have proven to be effective in reducing illiteracy of disadvantaged adults.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_690.lob
