@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 208 (AB 2936)
+
+The people of the State of California do enact as follows: SECTION 1. Section 19413.1 is added to the Business and Professions Code, to read: 19413.1. “Prohibited drug substance” is any drug substance, medication, or chemical, whether natural or synthetic, or a metabolite or analogue thereof, foreign to the horse, whose use is not expressly authorized by the board. This includes, but is not limited to, any substance determined to be a stimulant, depressant, local anesthetic, or narcotic, or any drug, regardless of how harmless or innocuous it might otherwise be, which could interfere with the detection of any prohibited drug. “Prohibited drug substance” includes any substance not approved for use in the United States, including, but not limited to, any drug or substance available in a country outside the United States, any controlled substance listed in Part 1308 of Title 21 of the Code of Federal Regulations, and any substance the approval of which has been withdrawn.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2721.lob
