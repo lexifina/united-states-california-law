@@ -1,0 +1,5 @@
+# Stats. 1994, ch. 355 (AB 2456)
+
+The people of the State of California do enact as follows: SECTION 1. Section 5626.1 is added to the Public Resources Code, to read: 5626.1. (a) Notwithstanding Sections 5625 and 5626, the Olivehurst Public Utility District may use the Youth Center Building in Olivehurst, which was developed pursuant to a grant made under Section 5625, for youth and adult recreational programs, community service programs, and other public benefit and recreational programs consistent with the jurisdiction of the Olivehurst Public Utility District. (b) Notwithstanding Sections 5625 and 5626, the Olivehurst Public Utility District may lease or enter into other forms of agreement for the recreational or community service use of the Youth Center Building in Olivehurst by public or private organizations or individuals, under terms and conditions approved by the Board of Directors of the Olivehurst Public Utility District.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_2574.lob
