@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 8 (AB 1128)
+
+The people of the State of California do enact as follows:SECTION 1.In addition to any other authorization for horse racing, the board may authorize a thoroughbred association in the central zone to conduct a racing program that includes Breeders’ Cup prep races on September 28, 2003, a date when a fair in the central zone is also conducting a live racing program, and the program that includes Breeders’ Cup prep races shall not be counted against any limitation otherwise applicable to the number of racing days or racing weeks that may be allocated by the California Horse Racing Board.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order that certain Breeders Cup prep races can be run in the State of California, it is necessary that this bill take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22283.lob
