@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 388 (AB 2312)
+
+The people of the State of California do enact as follows: SECTION 1. Section 99245.2 is added to the Public Utilities Code, to read: 99245.2. (a) A transit district or other provider of public transportation services subject to an audit pursuant to Section 99245, that receives funds from other sources which also require a fiscal audit, may expand the scope of its audit performed pursuant to Section 99245 to include the conditions and purposes of those other funds. (b) A transportation planning agency, transit development board, county transportation commission, air quality management district, air pollution control district, or local transportation authority shall not require any additional fiscal audit of an entity if that entity has completed an expanded audit pursuant to subdivision (a) that encompasses the scope, time period, and funding condition of the agency providing funding.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2522.lob
