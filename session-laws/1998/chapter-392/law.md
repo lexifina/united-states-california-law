@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 392 (SB 2084)
+
+The people of the State of California do enact as follows: SECTION 1. Section 9080.3 of the Insurance Code is amended to read: 9080.3. Any religious organization engaged in the business of writing fire insurance solely for its members and its churches on the effective date of this section, and which has been doing so continuously in California since January 1, 1925, is subject to all applicable provisions of this chapter. Any religious organization described in this section shall not write insurance: (a) In excess of 10 percent of its capital and surplus as shown in its last statement on file with the commissioner, on any one risk, or in excess of 20 percent of its capital and surplus as shown in its last statement on file with the commissioner in any one city block within an incorporated city without immediately reinsuring the excess over those amounts. (b) On business property within any incorporated city.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1968.lob
