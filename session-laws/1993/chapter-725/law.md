@@ -1,0 +1,5 @@
+# Stats. 1993, ch. 725 (AB 1228)
+
+The people of the State of California do enact as follows: SECTION 1. Section 18037 of the Revenue and Taxation Code is amended to read: 18037. (a) The provisions of Section 1033(g)(3)(A) of the Internal Revenue Code, relating to the election to treat outdoor advertising displays as real property, shall not be denied because the taxpayer has, on his or her federal return, elected to expense the asset. (b) (1) The provisions of Section 1033(h) of the Internal Revenue Code, relating to special rules for principal residences damaged by presidentially declared disasters, as added by Section 13431 of the Revenue Reconciliation Act of 1993, shall apply. (2) Section 13431(b) of the Revenue Reconciliation Act of 1993, relating to effective dates, shall apply. SEC. 2. This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1993.zip#BILL_VERSION_TBL_706.lob
