@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 945 (SB 1811)
+
+The people of the State of California do enact as follows: SECTION 1. Section 304.7 is added to the Welfare and Institutions Code, to read: 304.7. (a) On or before July 31, 1997, the Judicial Council shall develop and implement standards for the education and training of all judges who conduct hearings pursuant to Section 300. The training shall include, but not be limited to, a component relating to Section 300 proceedings for newly appointed or elected judges and an annual training session in Section 300 proceedings. (b) Any commissioner or referee who is assigned to conduct hearings held pursuant to Section 300 shall meet the minimum standards for education and training established pursuant to subdivision (a), by July 31, 1998. (c) The Judicial Council shall submit an annual report to the Legislature on compliance by judges, commissioners and referees with the education and training standards described in subdivisions (a) and (b).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_1418.lob
