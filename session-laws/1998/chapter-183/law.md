@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 183 (SB 1632)
+
+The people of the State of California do enact as follows: SECTION 1. Section 1196 of the Penal Code is amended to read: 1196. (a) The clerk, or the judge or justice, if there is no clerk, must at any time after the order issue a bench warrant into one or more counties. (b) The clerk, or the judge or justice, shall require the appropriate agency to enter each bench warrant issued on a private surety-bonded felony case into the national warrant system (National Crime Information Center (NCIC)). If the appropriate agency fails to enter the bench warrant into the national warrant system (NCIC), and the court finds that this failure prevented the surety or bond agent from surrendering the fugitive into custody, prevented the fugitive from being arrested or taken into custody, or resulted in the fugitive’s subsequent release from custody, the court having jurisdiction over the bail shall, upon petition, set aside the forfeiture of the bond and declare all liability on the bail bond to be exonerated.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_2176.lob
