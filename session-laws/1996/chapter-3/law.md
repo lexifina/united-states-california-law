@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 3 (AB 285)
+
+The people of the State of California do enact as follows: SECTION 1. Notwithstanding any other provision of law, the sum of one million dollars ($1,000,000) is hereby appropriated from the Geothermal Resources Development Account to the State Energy Resources Conservation and Development Commission to be allocated as a grant to Lake County for construction of a pipeline for the Geyser Effluent Injection Project. SEC. 2. This act shall become operative only upon the enactment of Assembly Bill 1671 of the 1995–96 Regular Session. SEC. 3. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to provide for essential state funding in supplementation of the Budget Act of 1995, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_2359.lob
