@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 805 (SB 1390)
+
+The people of the State of California do enact as follows: SECTION 1. Section 68618.5 of the Government Code is amended to read: 68618.5. Notwithstanding any other provision of law, the Superior Courts of Sonoma, Humboldt, Napa, Yolo, Fresno, San Joaquin, and Santa Barbara Counties may establish exemplary delay reduction programs and adopt local delay reduction rules effective after December 31, 1987, pursuant to this article. These rules are not subject to subdivision (b) of Section 68619. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to allow local trial court delay reduction rules for the superior court in Sonoma County to become operative as soon as possible, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_874.lob
