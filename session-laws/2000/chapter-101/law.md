@@ -1,0 +1,5 @@
+# Stats. 2000, ch. 101 (SB 1356)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18631 of the Financial Code is amended to read:18631.(a) A premium finance agreement may provide for the payment of a default charge of one dollar ($1) to a maximum of 5 percent of the delinquent installment, in the event of a default for a period of not less than 10 days in the payment of any scheduled installment under the terms of a premium finance agreement. That charge may not be collected more than once for the same default and may be collected at the time of the default or at any time thereafter. If the default charge is deducted from any payment received after default occurs, and the deduction results in the default of a subsequent installment, no charge may be made for the resulting default.(b) A premium finance agreement may provide for the payment of a dishonored check fee not to exceed fifteen dollars ($15) for actual expenses incurred in the processing of a dishonored check.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1999.zip#BILL_VERSION_TBL_24120.lob
