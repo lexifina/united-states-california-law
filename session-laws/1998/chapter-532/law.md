@@ -1,0 +1,5 @@
+# Stats. 1998, ch. 532 (AB 2487)
+
+The people of the State of California do enact as follows: SECTION 1. Section 25144.7 is added to the Health and Safety Code, to read: 25144.7. Notwithstanding this chapter, including, but not limited to, Section 25123.5, and any regulations adopted pursuant to this chapter, the draining of used fuel filters that are removed from fuel dispensers is not treatment, for purposes of this chapter, if all of the following requirements are met: (a) The person draining the filters complies with the requirements of the air pollution control district or air quality management district , with the requirements of the State Water Resources Control Board and the California regional water quality control boards, and with the requirements of local ordinances, that apply to that activity. (b) The drained fuels are used or otherwise managed in accordance with applicable law. (c) The housing for the filter and the drained filter medium are managed in accordance with applicable law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1997.zip#BILL_VERSION_TBL_1829.lob
