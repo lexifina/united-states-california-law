@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 655 (AB 3106)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The Legislature finds and declares that it is the intent of the Lanterman-Petris-Short Act (Part 1 (commencing with Section 5000) of Division 5 of the Welfare and Institutions Code) that the rights of mentally ill patients be secured and guaranteed by local mental health programs. (b) The Legislature further finds and declares that California’s mental health system is at risk due to escalating state budget deficits, and that as funding continues to shrink, counties have sought relief by imposing fees for patient advocacy services on providers of inpatient mental health services. SEC. 2. The State Department of Mental Health, in consultation with the Conference of Local Mental Health Directors, patients’ rights advocates, and provider organizations, shall conduct a survey of the imposition of fees charged by county mental health departments to private providers and make available its findings to the Legislature no later than January 1, 1994.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2255.lob
