@@ -1,0 +1,5 @@
+# Stats. 2002, ch. 135 (AB 957)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18838 of the Revenue and Taxation Code is amended to read:18838.All money transferred to the Lupus Foundation of America, California Chapters Fund, upon appropriation by the Legislature, shall be allocated as follows:(a) To the Franchise Tax Board and the Controller for reimbursement of all costs incurred by the Franchise Tax Board and the Controller in connection with their duties under this article.(b) (1) To the State Department of Health Services for allocation on an equal basis to all California-based operating chapters of the Lupus Foundation of America.(2) The funding shall be used by the California based operating chapters of the Lupus Foundation of America for lupus education and awareness and to provide research grants to develop and advance the understanding, causes, techniques, and modalities effective in the prevention, care, treatment, and cure of lupus.(c) Funds may not be used for the department’s administrative costs.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_23760.lob
