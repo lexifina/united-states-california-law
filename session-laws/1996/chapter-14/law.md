@@ -1,0 +1,5 @@
+# Stats. 1996, ch. 14 (AB 1859)
+
+The people of the State of California do enact as follows: SECTION 1. Section 11351 of the Government Code is amended to read: 11351. (a) Except as provided in subdivision (b), Article 5 (commencing with Section 11346), Article 6 (commencing with Section 11349), Article 7 (commencing with Section 11349.7), and Article 8 (commencing with Section 11350) shall not apply to the Public Utilities Commission or the Workers’ Compensation Appeals Board, and Article 3 (commencing with Section 11343) and Article 4 (commencing with Section 11344) shall apply only to the rules of procedure of these state agencies. (b) The Public Utilities Commission and the Workers’ Compensation Appeals Board shall comply with paragraph (5) of subdivision (a) of Section 11346.4 with respect to regulations that are required to be filed with the Secretary of State pursuant to Section 11343. (c) Article 8 (commencing with Section 11350) shall not apply to the Division of Workers’ Compensation.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1995.zip#BILL_VERSION_TBL_2348.lob
