@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 127 (AB 1937)
+
+The people of the State of California do enact as follows:SECTION 1.Section 290.9 is added to the Penal Code, to read:290.9.Notwithstanding any other provision of law, any state or local governmental agency shall, upon written request, provide to the Department of Justice the address of any person represented by the department to be a person who is in violation of his or her duty to register under Section 290.SEC. 2.Notwithstanding Section 17610 of the Government Code, if the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code. If the statewide cost of the claim for reimbursement does not exceed one million dollars ($1,000,000), reimbursement shall be made from the State Mandates Claims Fund.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21092.lob
