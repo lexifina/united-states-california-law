@@ -1,0 +1,5 @@
+# Stats. 2001, ch. 28 (AB 730)
+
+The people of the State of California do enact as follows:SECTION 1.Notwithstanding any other provision of law, the City of San Jose may convert to a different use up to 3.82 acres of parkland on Senter Road (APN 477-20-060) at Coyote Creek Park, which was partially acquired with state grant funds awarded under the State Beach, Park, Recreational, and Historical Facilities Bond Act of 1974 (Chapter 1.67 (commencing with Section 5096.71) of Division 5 of the Public Resources Code), for approximately 13 acres of land (APN 477-20-026) consisting of land along the east side of Coyote Creek in the City of San Jose, within the County of Santa Clara, if both of the following conditions are met:(a) The exchange of land is carried out in accordance with the requirements of the Public Park Preservation Act (Chapter 2.5 (commencing with Section 5400) of Division 5 of the Public Resources Code).(b) The City of San Jose submits to the Department of Parks and Recreation a copy of the recorded deed and title policy for the replacement land.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2001.zip#BILL_VERSION_TBL_25003.lob
