@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 1064 (SB 379)
+
+The people of the State of California do enact as follows: SECTION 1. (a) The Legislature authorizes and requests the State Bar of California to study the extent to which unlawful referrals, capping, and the unauthorized practice of law has undermined the delivery of legal services and the impact that any of those practices have had on the filing of frivolous or fraudulent lawsuits. The Legislature directs the State Bar of California to do the following: (1) In conducting this study, to seek the participation of plaintiff and defense attorneys, claims personnel employed within the insurance industry, and representatives of the public agency fraud enforcement community. (2) To deliver its findings and, if necessary, to make appropriate recommendations to the Legislature to amend existing statutes or enact new statutes to constrain those who engage in fraud and unlawful practice of the law. (b) Findings and recommendations shall be submitted to the Legislature no later than December 31, 1992.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_2511.lob
