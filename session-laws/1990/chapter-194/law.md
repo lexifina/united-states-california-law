@@ -1,0 +1,5 @@
+# Stats. 1990, ch. 194 (AB 2570)
+
+The people of the State of California do enact as follows: SECTION 1. (a) Notwithstanding any other provision of law, the sum of ninety-five million twenty-three thousand dollars ($95,023,000) is hereby appropriated from the General Fund to the State Director of Health Services for expenditure in the 1990–91 fiscal year for the funding of Medi-Cal benefits and services for claims submitted during the 1989–90 fiscal year. (b) Notwithstanding any other provision of law, any and all federal funds which may legally be expended in the 1990–91 fiscal year for the funding of Medi-Cal benefits and services for claims submitted during the 1989–90 fiscal year are hereby appropriated from the Federal Trust Fund to the State Director of Health Services for that purpose. SEC. 2. This act makes an appropriation for the usual current expenses of the state within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_3381.lob
