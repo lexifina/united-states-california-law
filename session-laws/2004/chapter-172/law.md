@@ -1,0 +1,5 @@
+# Stats. 2004, ch. 172 (SB 1265)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2854 of the Fish and Game Code is amended to read:2854. The workgroup shall, after appropriate consultation with members of the public, determine future actions for implementing the recommendations of its final report.SEC. 2.Section 15603 of the Fish and Game Code is repealed.SEC. 3.Section 15702 of the Fish and Game Code is amended to read:15702.(a) The committee shall be advisory to the director on all matters pertaining to aquaculture and shall coordinate activities among public entities.(b) The committee shall assist the director in developing and implementing a state aquaculture plan, identify the opportunities for regulatory relief, assist in development of research and development priorities, assist in the development of criteria to assure that publicly financed pilot programs are compatible with industry needs, and identify other opportunities for industrial development.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21047.lob
