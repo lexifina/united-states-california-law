@@ -1,0 +1,5 @@
+# Stats. 1992, ch. 422 (AB 2961)
+
+The people of the State of California do enact as follows: SECTION 1. Section 972 of the Military and Veterans Code is amended to read: 972. The board of supervisors may provide the county veteran service officer with any assistance and facilities which it determines to be necessary. If such a position is created and filled, the compensation and expenses of the county veteran service officer shall be a county charge, but the Department of Veterans Affairs, out of state moneys available therefor, shall pay each county a portion of those costs in an amount determined by the department, conditioned upon the observance of standards and regulations adopted by, and in compliance with the direction of, the department and its authorized representatives. State money available for paying counties any portion of the cost of the compensation and expenses of county veteran service officers shall not include any funds of the Veterans’ Farm and Home Building Fund of 1943.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_2488.lob
