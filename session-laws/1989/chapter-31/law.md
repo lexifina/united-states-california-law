@@ -1,0 +1,5 @@
+# Stats. 1989, ch. 31 (AB 607)
+
+The people of the State of California do enact as follows: SECTION 1. Section 74950 of the Water Code is amended to read: 74950. The district may issue negotiable promissory notes bearing interest at a rate not exceeding 7 percent per annum. The notes shall be general obligations of the district payable from revenues and assessment taxes, unless paid from other available funds of the district, in the same manner as bonds of the district. The maturity of the notes shall not be later than five years from the date thereof and the total aggregate amount of the notes outstanding at any one time shall not exceed the lesser of 2 percent of the assessed valuation of the taxable property in the district, according to the last assessment roll or five million dollars ($5,000,000), except that a district which has been formed for less than 18 months may borrow not exceeding twenty-five thousand dollars ($25,000).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1989.zip#BILL_VERSION_TBL_1647.lob
