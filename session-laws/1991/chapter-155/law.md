@@ -1,0 +1,5 @@
+# Stats. 1991, ch. 155 (AB 1037)
+
+The people of the State of California do enact as follows: SECTION 1. Section 841 of the Welfare and Institutions Code is amended to read: 841. The duties of a deputy probation officer, or a probation aide, a community worker or a volunteer under the supervision of a deputy probation officer, assigned to home supervision are to assure the minor’s appearance at probation officer interviews and court hearings and to assure that the minor obeys the conditions of his or her release and commits no public offenses pending final disposition of his or her case. A deputy probation officer, probation aide, or community worker assigned to home supervision shall have a caseload of no more than 10 minors. However, if the county probation department employs a method of home supervision which includes electronic surveillance, the caseload shall be no more than 15 minors. Whenever possible, a minor shall be assigned to a deputy probation officer, probation aide, community worker, or volunteer who resides in the same community as the minor.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_1228.lob
