@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 220 (AB 1478)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14999.37 is added to the Government Code, to read:14999.37.(a) A local or state public official involved in the granting of a film permit may not require directly or indirectly a charitable donation or any other consideration in exchange for granting, or supporting the granting of, a film permit.(b) Nothing in this section shall be construed to limit the authority of a local agency to assess impact fees as part of the film permitting process.(c) A local or state public official who fails to comply with subdivision (a) shall be subject to a civil penalty of not less than one thousand dollars ($1,000) and not to exceed five thousand dollars ($5,000).(d) The local district attorney, city attorney, or the Attorney General may bring an action pursuant to this section to collect the penalty imposed pursuant to subdivision (b).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_22074.lob
