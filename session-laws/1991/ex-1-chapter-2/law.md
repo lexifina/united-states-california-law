@@ -1,0 +1,5 @@
+# Stats. 1991, 1 Ex. Sess., ch. 2 (AB 10)
+
+The people of the State of California do enact as follows: SECTION 1. (a) No temporary transfer of water made pursuant to any provision of law for drought relief in calendar years 1991 and 1992 shall affect any water rights. (b) This section shall remain in effect only until January 1, 1993, and as of that date is repealed, unless a later enacted statute, which is enacted before January 1, 1993, deletes or extends that date. SEC. 2. This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are: In order to facilitate the transfer of water to respond to water shortages which this state is currently experiencing, thereby protecting the public health and safety, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_1991.zip#BILL_VERSION_TBL_158.lob
