@@ -1,0 +1,5 @@
+# Stats. 2003, ch. 457 (AB 1783)
+
+The people of the State of California do enact as follows:SECTION 1.Section 66753 of the Education Code is amended to read:66753.(a) (1) The Chancellor of the California Community Colleges, the Chancellor of the California State University, and the President of the University of California shall establish procedures so that a student meeting the requirements of Section 66752 may be certified by the home campus as to eligibility, residence, fee, financial aid, and health status.(2) The host campus may require the applicant to submit additional information as needed. The host campus may charge participating students an administration fee, not to exceed an amount sufficient for the campus to recover the full amount of the administrative costs it incurs under this chapter.(b) A student enrolled pursuant to this chapter shall be exempt from participation in the matriculation services described in Article 1 (commencing with Section 78210) of Chapter 2 of Part 48.SEC. 2.Section 66756 of the Education Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2003.zip#BILL_VERSION_TBL_21841.lob
