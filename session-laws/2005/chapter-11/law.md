@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 11 (SB 94)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of forty-five million dollars ($45,000,000) is hereby appropriated from the General Fund to the Attorney General to pay for the judgment in the case of Kevin McMahan et al. v. State of California, et al., Sacramento County Superior Court, Case No. 02AS 06058. Any funds appropriated in excess of the amounts required for the payment of this judgment claim shall revert to the General Fund on June 30, 2006.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to pay judgments and settlement claims against the state and end hardship to claimants as quickly as possible, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21482.lob
