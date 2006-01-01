@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 187 (AB 489)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2196.1 of the Streets and Highways Code is amended to read:2196.1.The Port of Los Angeles and the Port of Long Beach, to the extent practicable, shall provide the statistical data on imports and exports obtained pursuant to Section 2196 to the Business, Transportation and Housing Agency, the Office of Goods Movement of the Department of Transportation, and the Assembly and Senate Committees on Transportation. That information shall be provided on or before January 31, 2006, and annually thereafter through 2008.SEC. 2.If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21309.lob
