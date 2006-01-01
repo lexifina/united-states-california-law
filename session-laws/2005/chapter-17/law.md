@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 17 (AB 1305)
+
+The people of the State of California do enact as follows:SECTION 1.Section 629.51 of the Penal Code is amended to read:629.51.For the purposes of this chapter, the following terms have the following meanings:(a) “Wire communication” means any aural transfer made in whole or in part through the use of facilities for the transmission of communications by the aid of wire, cable, or other like connection between the point of origin and the point of reception (including the use of a like connection in a switching station), furnished or operated by any person engaged in providing or operating these facilities for the transmission of communications.(b) “Electronic pager communication” means any tone or digital display or tone and voice pager communication.(c) “Electronic cellular telephone communication” means any cellular or cordless radio telephone communication.(d) “Aural transfer” means a transfer containing the human voice at any point between and including the point of origin and the point of reception.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21476.lob
