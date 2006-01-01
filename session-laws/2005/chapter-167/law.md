@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 167 (AB 86)
+
+The people of the State of California do enact as follows:SECTION 1.Section 11108 of the Penal Code is amended to read:11108.(a) Each sheriff or police chief executive shall submit descriptions of serialized property, or nonserialized property that has been uniquely inscribed, which has been reported stolen, lost, found, recovered or under observation, directly into the appropriate Department of Justice automated property system for firearms, stolen bicycles, stolen vehicles, or other property, as the case may be.(b) Information about a firearm entered into the automated system for firearms shall remain in the system until the reported firearm has been found, recovered, is no longer under observation, or the record is determined to have been entered in error.(c) Any costs incurred by the Department of Justice to implement subdivision (b) shall be reimbursed from funds other than the fees charged and collected pursuant to subdivisions (e) and (f) of Section 12076.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21329.lob
