@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 151 (AB 1523)
+
+The people of the State of California do enact as follows:SECTION 1.Section 19771 of the Government Code is amended to read:19771.(a) Upon presentation of a copy of orders for active duty in the Armed Forces, the National Guard, or the Naval Militia, the appointing power shall grant a military leave of absence for the period of active duty specified in the orders, but not to exceed five years for a permanent, probationary, or exempt employee, or for the remainder of a limited-term employee’s appointment or a temporary employee’s appointment.(b) If the provisions of this section are in conflict with the provisions of a memorandum of understanding reached pursuant to Section 3517.5, the memorandum of understanding shall be controlling without further legislative action, except that if the provisions of a memorandum of understanding require the expenditure of funds, the provisions may not become effective unless approved by the Legislature in the annual Budget Act.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21345.lob
