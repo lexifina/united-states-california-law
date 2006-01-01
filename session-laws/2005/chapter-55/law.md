@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 55 (AB 102)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3005 of the Penal Code is amended to read:3005.(a) The Department of Corrections, to the maximum extent practicable and feasible, and subject to legislative appropriation of necessary funds, shall ensure, by July 1, 2001, that all parolees under active supervision and deemed to pose a high risk to the public of committing violent sex crimes shall be placed on an intensive and specialized parole supervision caseload.(b) The Department of Corrections shall develop and, at the discretion of the director, and subject to an appropriation of the necessary funds, may implement a plan for the implementation of relapse prevention treatment programs, and the provision of other services deemed necessary by the department, in conjunction with intensive and specialized parole supervision, to reduce the recidivism of high-risk sex offenders.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21439.lob
