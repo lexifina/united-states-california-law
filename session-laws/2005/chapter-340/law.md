@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 340 (AB 1527)
+
+The people of the State of California do enact as follows:SECTION 1.Division 1.3 (commencing with Section 4100) is added to the Financial Code, to read:1.3.Financial Institutions4100.On or after July 1, 2006, a supervised financial institution shall not issue a consumer deposit account number to a customer, if that account number was previously held by another customer of the institution, until at least three years have passed since the account of the other customer was closed. For purposes of this section, “consumer deposit account number” means an account number that the financial institution uses to identify a natural person’s checking account or share draft account established primarily for personal, family, or household purposes and that includes the routing number of that institution that is used to identify the institution responsible for the payment of negotiable instruments.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21158.lob
