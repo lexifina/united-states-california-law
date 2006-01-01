@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 293 (AB 327)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2435.2 is added to the Business and Professions Code, to read:2435.2. (a) In addition to the fees charged for the initial issuance or biennial renewal of a physician and surgeon’s certificate pursuant to Section 2435, and at the time those fees are charged, the board shall charge each applicant or renewing licensee an additional fifty‑dollar ($50) fee for the purposes of this section. (b) Payment of this fifty‑dollar ($50) fee shall be voluntary, and shall be paid at the time of application for initial licensure or biennial renewal. The fifty‑dollar ($50) fee shall be due and payable along with the fee for the initial certificate or biennial renewal. (c) The board shall transfer all funds collected pursuant to this section, on a monthly basis, to the Medically Underserved Account created by Section 2154.4 for the Steven M. Thompson Physician Corps Loan Repayment Program.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21205.lob
