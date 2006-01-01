@@ -1,0 +1,5 @@
+# Stats. 2005, ch. 195 (AB 1155)
+
+The people of the State of California do enact as follows:SECTION 1.Section 32126.3 is added to the Health and Safety Code, to read:32126.3.Notwithstanding any provision of law to the contrary, the lease in existence immediately preceding January 1, 2006, between the Grossmont Healthcare District and the Grossmont Hospital Corporation that was entered into on May 29, 1991, may be renegotiated or extended for up to an additional 30‑year term. The renegotiations or extension shall be presented to, and approved by a majority of, the voters of the district.SEC. 2.Due to the unique circumstances concerning the Grossmont Healthcare District, it is necessary that authority be given for extension of the lease agreement, and the Legislature finds and declares that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_21302.lob
