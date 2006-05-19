@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 34 (AB 142)
+
+The people of the State of California do enact as follows:SECTION 1.(a) The sum of five hundred million dollars ($500,000,000) is hereby appropriated from the General Fund to the Department of Water Resources for levee evaluation and repair and related work, and flood control system improvements.(b) Notwithstanding any other provision of law, including Chapter 7 (commencing with Section 8550) of Division 1 of Title 2 of the Government Code, levee repairs for those critical levee erosion sites identified under Governor’s Executive Order S-01-06 shall be made with funds appropriated pursuant to this section.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to reduce the threat of potential flood damage and loss of life, it is necessary that this act take immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20601.lob
