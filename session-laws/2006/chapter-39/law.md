@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 39 (SB 75)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of two million six hundred ten thousand dollars ($2,610,000) is appropriated for expenditure in the 2005–06 fiscal year in augmentation of Item 9840-001-0001 of Section 2.00 of the Budget Act of 2005 (Chapters 38 and 39 of the Statutes of 2005) and, notwithstanding the provisions of Item 9840-001-0001, these funds shall be allocated by the Controller in accordance with the following schedules:(1) One million three hundred thousand dollars ($1,300,000) to Item 0820-001-0001, Schedule (9) 50−Law Enforcement.(2) One million three hundred ten thousand dollars ($1,310,000) to Item 8965-001-0001, Schedule (1) 30−Care of Sick and Disabled Veterans.SEC. 2.This act makes an appropriation for the usual current expenses of the state within the meaning of Article IV of the Constitution and shall go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20597.lob
