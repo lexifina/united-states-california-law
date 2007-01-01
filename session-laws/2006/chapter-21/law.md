@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 21 (SB 841)
+
+The people of the State of California do enact as follows:SECTION 1.Section 4291.3 is added to the Public Resources Code, to read:4291.3.Subject to any other applicable provision of law, a state or local fire official, at his or her discretion, may authorize an owner of property, or his or her agent, to construct a firebreak, or implement appropriate vegetation management techniques, to ensure that defensible space is adequate for the protection of a hospital, adult residential care facility, school, aboveground storage tank, hazardous materials facility, or similar facility on the property. The firebreak may be for a radius of up to 300 feet from the facility, or to the property line, whichever distance is shorter.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20613.lob
