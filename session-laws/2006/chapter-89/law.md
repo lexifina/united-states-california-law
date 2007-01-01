@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 89 (AB 2257)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2919 is added to the Business and Professions Code, to read:2919.A licensed psychologist shall retain a patient’s health service records for a minimum of seven years from the patient’s discharge date. If the patient is a minor, the patient’s health service records shall be retained for a minimum of seven years from the date the patient reaches 18 years of age.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20547.lob
