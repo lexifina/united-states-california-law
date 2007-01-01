@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 573 (AB 2515)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2714.5 is added to the Public Utilities Code, to read:2714.5.The commission shall, by June 30, 2008, prepare and submit to the Legislature, a report that describes the progress achieved toward implementing the policy objectives of the commission’s Water Action Plan, adopted December 15, 2005, which includes all of the following:(a) The progress achieved toward development and implementation of a ratemaking mechanism and rate design that will encourage water conservation and efficient water use.(b) The progress achieved toward development and implementation of rates that remove the financial disincentive for water corporations to conserve water that exists in the current rate structure, while preserving continued revenue stability for water corporations as new rate structures are implemented.(c) The impacts of water conservation and efficiency programs on future water, energy, and wastewater treatment costs to customers of water corporations.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20068.lob
