@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 197 (AB 2882)
+
+The people of the State of California do enact as follows:SECTION 1.Section 53395.85 is added to the Government Code, to read:53395.85.If a city that is a member of the Orangeline Development Authority establishes an infrastructure financing district pursuant to this chapter for the purpose of providing funding for public transit facilities, that city may provide some or all of this funding to the Orangeline Development Authority for the purposes of furthering public transit facilities within the jurisdiction of the authority, including facilities related to magnetic levitation.SEC. 2.Due to the unique circumstances concerning funding for the Orangeline Development Authority, the Legislature finds and declares that a general statute cannot be made applicable within the meaning of Section 16 of Article IV of the Constitution. Therefore, the special legislation contained within Section 1 of this act is necessarily applicable only to the Orangeline Development Authority.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20439.lob
