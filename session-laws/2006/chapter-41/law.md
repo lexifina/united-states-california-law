@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 41 (AB 385)
+
+The people of the State of California do enact as follows:SECTION 1.Section 50079 of the Government Code is amended to read:50079.(a) Subject to Section 4 of Article XIII A of the California Constitution, any school district may impose qualified special taxes within the district pursuant to the procedures established in Article 3.5 (commencing with Section 50075) and any other applicable procedures provided by law.(b) (1) As used in this section, “qualified special taxes” means special taxes that apply uniformly to all taxpayers or all real property within the school district, except that “qualified special taxes” may include taxes that provide for an exemption from those taxes for taxpayers 65 years of age or older or for persons receiving Supplemental Security Income for a disability, regardless of age.(2) “Qualified special taxes” do not include special taxes imposed on a particular class of property or taxpayers.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20595.lob
