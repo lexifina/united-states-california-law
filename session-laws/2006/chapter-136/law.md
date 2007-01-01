@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 136 (AB 733)
+
+The people of the State of California do enact as follows:SECTION 1.Section 43.92 of the Civil Code is amended to read:43.92.(a) There shall be no monetary liability on the part of, and no cause of action shall arise against, any person who is a psychotherapist as defined in Section 1010 of the Evidence Code in failing to warn of and protect from a patient’s threatened violent behavior or failing to predict and warn of and protect from a patient’s violent behavior except where the patient has communicated to the psychotherapist a serious threat of physical violence against a reasonably identifiable victim or victims.(b) There shall be no monetary liability on the part of, and no cause of action shall arise against, a psychotherapist who, under the limited circumstances specified above, discharges his or her duty to warn and protect by making reasonable efforts to communicate the threat to the victim or victims and to a law enforcement agency.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20500.lob
