@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 243 (SB 511)
+
+The people of the State of California do enact as follows:SECTION 1.Section 13.5 is added to the County Water Authority Act (Chapter 545 of the Statutes of 1943), to read:SEC. 13.5.An authority formed pursuant to this act shall prepare and submit, at its own expense, a report to the Legislature, not before January 1, 2008, and not later than January 1, 2009, regarding the implementation of the procedures governing the meetings and actions of the standing committees of the board of directors that were adopted by the board of directors in 2004 or 2005.SEC. 2.No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district are the result of a program for which legislative authority was requested by that local agency or school district, within the meaning of Section 17556 of the Government Code and Section 6 of Article XIII B of the California Constitution.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20394.lob
