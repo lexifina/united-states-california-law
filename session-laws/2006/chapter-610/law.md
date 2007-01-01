@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 610 (AB 2214)
+
+The people of the State of California do enact as follows:SECTION 1.This act shall be known and may be cited as the Asian Traditional Food Act.SEC. 2.(a) The Legislature finds and declares both of the following:(1) Given the rich heritage and traditions of Asian-Americans, a process must be considered to allow for foods tied to traditional Asian ceremonies to be sold and consumed according to those traditions.(2) Requiring food retailers to follow health and sanitation standards is necessary to preserve public health.(b) (1) The State Department of Health Services shall conduct a study of the sale and consumption of Banh Chung, Banh Tet, and moon cakes, as a means of finding methods that may permit the sale and consumption of these foods at traditional Asian ceremonies and cultural events while providing adequate health and sanitation standards that protect public health.(2) The department shall submit this study to the Legislature no later than January 1, 2008.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20034.lob
