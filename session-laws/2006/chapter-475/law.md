@@ -1,0 +1,5 @@
+# Stats. 2006, ch. 475 (AB 2169)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6211 of the Government Code is amended to read:6211.This chapter shall remain in effect only until January 1, 2013, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2013, deletes or extends that date.SEC. 2.Section 6217 of the Government Code is amended to read:6217.This chapter shall remain in effect only until January 1, 2013, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2013, deletes or extends that date.SEC. 3.If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those mandated costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2005.zip#BILL_VERSION_TBL_20163.lob
