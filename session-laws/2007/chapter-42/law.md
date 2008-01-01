@@ -1,0 +1,5 @@
+# Stats. 2007, ch. 42 (AB 1738)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12012.465 is added to the Government Code, to read:12012.465.The memorandum of agreement entered into between the State of California and the Agua Caliente Band of Cahuilla Indians, executed on June 27, 2007, is hereby approved.SEC. 2.Section 12012.485 is added to the Government Code, to read:12012.485.The memorandum of agreement entered into between the State of California and the Morongo Band of Mission Indians, executed on June 27, 2007, is hereby approved.SEC. 3.Section 12012.495 is added to the Government Code, to read:12012.495.The memorandum of agreement entered into between the State of California and the Pechanga Band of Luiseño Indians, executed on June 27, 2007, is hereby approved.SEC. 4.Section 12012.515 is added to the Government Code, to read:12012.515.The memorandum of agreement entered into between the State of California and the Sycuan Band of the Kumeyaay Nation, executed on June 27, 2007, is hereby approved.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_7753.lob
