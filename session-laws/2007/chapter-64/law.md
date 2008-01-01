@@ -1,0 +1,5 @@
+# Stats. 2007, ch. 64 (AB 1376)
+
+The people of the State of California do enact as follows:SECTION 1.Section 10621 of the Water Code is amended to read:10621.(a) Each urban water supplier shall update its plan at least once every five years on or before December 31, in years ending in five and zero.(b) Every urban water supplier required to prepare a plan pursuant to this part shall, at least 60 days prior to the public hearing on the plan required by Section 10642, notify any city or county within which the supplier provides water supplies that the urban water supplier will be reviewing the plan and considering amendments or changes to the plan. The urban water supplier may consult with, and obtain comments from, any city or county that receives notice pursuant to this subdivision.(c) The amendments to, or changes in, the plan shall be adopted and filed in the manner set forth in Article 3 (commencing with Section 10640).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_7775.lob
