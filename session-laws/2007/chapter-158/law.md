@@ -1,0 +1,5 @@
+# Stats. 2007, ch. 158 (AB 139)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12517.2 of the Vehicle Code is amended to read:12517.2.(a) Applicants for an original or renewal certificate to drive a schoolbus, school pupil activity bus, youth bus, general public paratransit vehicle, or farm labor vehicle shall submit a report of a medical examination of the applicant given not more than two years prior to the date of the application by a physician licensed to practice medicine, a licensed advanced practice registered nurse qualified to perform a medical examination, or a licensed physician assistant. The report shall be on a form approved by the department, the Federal Highway Administration, or the Federal Aviation Administration.(b) Schoolbus drivers, within the same month of reaching 65 years of age and each 12th month thereafter, shall undergo a medical examination, pursuant to Section 12804.9, and shall submit a report of that medical examination on a form as specified in subdivision (a).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_8264.lob
