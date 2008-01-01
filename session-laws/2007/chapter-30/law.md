@@ -1,0 +1,5 @@
+# Stats. 2007, ch. 30 (AB 1196)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12751 is added to the Health and Safety Code, to read:12751.This part shall not apply to the sale, purchase, possession, transportation, storage, or use of a flamethrowing device by a person if all of the following apply:(a) The person is regularly employed by or a paid officer, employee, or member of a fire department, fire protection district, or firefighting agency of the federal government, the state, a city, a county, a city and county, district, public or municipal corporation, or political subdivision of this state.(b) The person is on duty and acting within the course and scope of his or her employment.(c) The flamethrowing device is used by the fire department, fire protection district, or firefighting agency described in subdivision (a) in the course of fire suppression.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_7491.lob
