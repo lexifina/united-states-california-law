@@ -1,0 +1,5 @@
+# Stats. 2007, ch. 69 (AB 1698)
+
+The people of the State of California do enact as follows:SECTION 1.Notwithstanding any other provision of law, by January 31, 2008, the Commission on State Mandates shall amend the parameters and guidelines regarding the notification of truancy, test claim number SB-90-4133, and modify the definition of a truant and the required elements to be included in the initial truancy notifications to conform reimbursable activities to Chapter 1023 of the Statutes of 1994 and Chapter 19 of the Statutes of 1995. This act does not confer upon the commission the authority to amend the adopted uniform cost allowance. Upon revision of the parameters and guidelines, the Controller shall revise the appropriate claiming instructions to be consistent with the revised parameters and guidelines. Changes made by the commission to the parameters and guidelines shall be deemed effective on July 1, 2006.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_7782.lob
