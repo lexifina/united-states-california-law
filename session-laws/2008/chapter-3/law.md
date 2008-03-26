@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 3 (SB 344)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5925 is added to the Government Code, to read:5925.The purchase or other acquisition of bonds by or on behalf of the state or local government that issued the bonds does not cancel, extinguish, or otherwise affect the bonds and the bonds shall be treated as outstanding bonds for all purposes except to the extent otherwise determined by the issuer or otherwise provided in the constituent instruments defining the rights of the holders of the bonds.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:To support variable rate bonds and other instruments of debt issued by state and local governmental entities in the current financial markets, it is necessary that this bill go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_13870.lob
