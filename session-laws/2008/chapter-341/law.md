@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 341 (SB 593)
+
+The people of the State of California do enact as follows:SECTION 1.Section 7202 is added to the Public Contract Code, to read:7202.(a) The Department of Transportation is prohibited from withholding retention proceeds when making progress payments to a contractor for work performed on a transportation project.(b) Nothing in this section shall alter, amend, or impair the rights, duties, and obligations of an original contractor, its subcontractors, and all subcontractors thereunder, relating to the construction of any public work of improvement as set forth in Section 7200 of the Public Contract Code.(c) The department shall promptly notify the appropriate policy committees of the Legislature if the state’s best interests are compromised because retention was not withheld on a transportation project.(d) This section shall become inoperative and shall be repealed on January 1, 2014.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_20831.lob
