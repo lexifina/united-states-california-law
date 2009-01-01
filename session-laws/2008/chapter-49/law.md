@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 49 (SB 1356)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1219 of the Code of Civil Procedure is amended to read:1219.(a) Except as provided in subdivisions (b) and (c), when the contempt consists of the omission to perform an act which is yet in the power of the person to perform, he or she may be imprisoned until he or she has performed it, and in that case the act shall be specified in the warrant of commitment.(b) Notwithstanding any other law, no court may imprison or otherwise confine or place in custody the victim of a sexual assault or domestic violence crime for contempt when the contempt consists of refusing to testify concerning that sexual assault or domestic violence crime.(c) As used in this section, the following terms have the following meanings:(1) “Sexual assault” means any act made punishable by Section 261, 262, 264.1, 285, 286, 288, 288a, or 289 of the Penal Code.(2) “Domestic violence” means “domestic violence” as defined in Section 6211 of the Family Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_17925.lob
