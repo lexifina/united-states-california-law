@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 545 (SB 1135)
+
+The people of the State of California do enact as follows:SECTION 1.Section 8738 of the Health and Safety Code is amended to read:8738.An endowment care cemetery is one which has deposited in its endowment care fund the minimum amounts heretofore required by law and shall hereafter have deposited in its endowment care fund at the time of or not later than completion of the initial sale not less than the following amounts for plots sold or disposed of:(a) Four dollars and fifty cents ($4.50) a square foot for each grave.(b) Seventy dollars ($70) for each niche.(c) Two hundred twenty dollars ($220) for each crypt; provided, however, that for companion crypts, there shall be deposited two hundred twenty dollars ($220) for the first crypt and one hundred ten dollars ($110) for each additional crypt.(d) Seventy dollars ($70) for the cremated remains of each deceased person scattered in the cemetery at a garden or designated open area that is not an interment site subject to subdivision (a).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_21014.lob
