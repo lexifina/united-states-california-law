@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 242 (AB 2444)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2233 of the Business and Professions Code is amended to read:2233.The board may, by stipulation or settlement with the affected physician and surgeon, issue a public letter of reprimand after it has conducted an investigation or inspection as provided in this article, rather than filing or prosecuting a formal accusation. The public letter of reprimand may, at the discretion of the board, include a requirement for specified training or education. The affected physician and surgeon shall indicate agreement or nonagreement in writing within 30 days of formal notification by the board of its intention to issue the letter. The board, at its option, may extend the response time. Use of a public reprimand shall be limited to minor violations and shall be issued under guidelines established by regulations of the board. A public letter of reprimand issued pursuant to this section may be disclosed to an inquiring member of the public.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_18620.lob
