@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 355 (SB 1537)
+
+The people of the State of California do enact as follows:SECTION 1.Section 8686.6 is added to the Government Code, to read:8686.6.(a) Notwithstanding subdivision (a) of Section 8686, the state share shall be up to 100 percent of total state eligible costs connected with the wildfires that occurred in southern California commencing on or about October 20, 2007, as specified in agreements between the state and the United States for federal financial assistance. (b) For the disaster that the Legislature has designated in subdivision (a), the state shall assume the increased share specified in subdivision (a) if the Federal Emergency Management Agency or another applicable federal agency has approved the federal share of costs.(c) The state shall make no allocation for any project application resulting in a state share of less than two thousand five hundred dollars ($2,500) under this section. SEC. 2.This act shall only become effective if SB 1764 of the 2007–08 Regular Session is enacted.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_20840.lob
