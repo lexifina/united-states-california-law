@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 54 (AB 2960)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3064 of the Family Code is amended to read:3064.(a) The court shall refrain from making an order granting or modifying a custody order on an ex parte basis unless there has been a showing of immediate harm to the child or immediate risk that the child will be removed from the State of California.(b) “Immediate harm to the child” includes, but is not limited to, the following:(1) Having a parent who has committed acts of domestic violence, where the court determines that the acts of domestic violence are of recent origin or are a part of a demonstrated and continuing pattern of acts of domestic violence.(2) Sexual abuse of the child, where the court determines that the acts of sexual abuse are of recent origin or are a part of a demonstrated and continuing pattern of acts of sexual abuse.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_17929.lob
