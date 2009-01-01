@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 156 (SB 1448)
+
+The people of the State of California do enact as follows:SECTION 1.Section 10139 of the Business and Professions Code is amended to read:10139.Any person acting as a real estate broker or real estate salesperson without a license or who advertises using words indicating that he or she is a real estate broker without being so licensed shall be guilty of a public offense punishable by a fine not exceeding twenty thousand dollars ($20,000), or by imprisonment in the county jail for a term not to exceed six months, or by both fine and imprisonment; or if a corporation, be punished by a fine not exceeding sixty thousand dollars ($60,000). If a Real Estate Fraud Prosecution Trust Fund, as described in Section 27388 of the Government Code, exists in the county where a person or corporation is convicted, any fine collected from the person in excess of ten thousand dollars ($10,000) or any fine collected from the corporation in excess of fifty thousand dollars ($50,000) shall be deposited in that Real Estate Fraud Prosecution Trust Fund.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_18520.lob
