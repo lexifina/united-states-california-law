@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 251 (AB 2730)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14514.7 of the Public Resources Code is amended to read:14514.7.“Nonprofit convenience zone recycler” means a recycling center that meets the criteria described in subdivision (a) or (b):(a) The recycling center is all of the following:(1) Operated by an organization established under Section 501(c) or 501(d) of Title 26 of the United States Code.(2) Certified by the department pursuant to Section 14538.(3) Located within a convenience zone, but is not necessarily a supermarket site.(b) The recycling center is all of the following:(1) Operated by an organization established under Section 501(c) or 501(d) of Title 26 of the United States Code and has operated in the same location for a period of not less than five years.(2) Certified by the department pursuant to Section 14538.(3) Located within one mile of a supermarket that is in convenience zone that is exempt from the requirement of subdivision (a) of Section 14571.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_18628.lob
