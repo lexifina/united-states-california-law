@@ -1,0 +1,5 @@
+# Stats. 2008, ch. 555 (AB 2899)
+
+The people of the State of California do enact as follows:SECTION 1.Section 120846 is added to the Health and Safety Code, to read:120846.(a) It is the intent of the Legislature to increase the capacity of HIV test sites to screen more individuals by streamlining test site services.(b) Publicly funded HIV test sites shall be permitted to do all of the following:(1) Advise a person who has been tested before and is following appropriate public health risk reduction measures that the person does not need to receive further education services. This paragraph shall not apply to a person who engages in high-risk behaviors and is not following appropriate risk reduction measures.(2) Determine whether a person should be allowed to self-administer any data collection form required by the department.(3) As appropriate, provide prevention education through video, small group, individual interaction, or other methods and in small groups or couples.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2007.zip#BILL_VERSION_TBL_21024.lob
