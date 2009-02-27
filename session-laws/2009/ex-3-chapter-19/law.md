@@ -1,0 +1,5 @@
+# Stats. 2009, 3 Ex. Sess., ch. 19 (AB 18)
+
+The people of the State of California do enact as follows:SECTION 1.Notwithstanding Section 9040 of the Elections Code or any other provision of law, the Secretary of State shall submit Senate Constitutional Amendment 4 of the 2007–08 Regular Session to the voters at the June 8, 2010, statewide primary election.SEC. 2.This act addresses the fiscal emergency declared by the Governor by proclamation on December 19, 2008, pursuant to subdivision (f) of Section 10 of Article IV of the California Constitution.SEC. 3.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to ensure that the measure identified in this act be placed on the ballot at the appropriate election for the approval of the people, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_2856.lob
