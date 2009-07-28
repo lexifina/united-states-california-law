@@ -1,0 +1,5 @@
+# Stats. 2009, 4 Ex. Sess., ch. 13 (AB 14)
+
+The people of the State of California do enact as follows:SECTION 1.Section 100.05 is added to the Revenue and Taxation Code, to read:100.05.Subparagraph (A) of paragraph (1) of subdivision (a) of Section 25.5 of Article XIII of the California Constitution is hereby suspended for the 2009–10 fiscal year.SEC. 2.This act addresses the fiscal emergency declared by the Governor by proclamation on July 1, 2009, pursuant to subdivision (f) of Section 10 of Article IV of the California Constitution.SEC. 3.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to address the current severe state fiscal hardship, it is necessary that this act go into immediate effect.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7599.lob
