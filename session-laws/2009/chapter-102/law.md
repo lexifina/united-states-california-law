@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 102 (AB 392)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of one million six hundred thousand dollars ($1,600,000) is hereby appropriated from the Federal Health Facilities Citation Penalties Account to the California Department of Aging for use in funding local ombudsman programs pursuant to the distribution schedule in Section 9719.5 of the Welfare and Institutions Code. These funds may be used for this purpose through the end of the 2009–10 fiscal year, at which time remaining funds shall revert to the originating account.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to protect the safety of older Californians by funding vital services for the inspection of long-term care facilities, it is necessary that this bill take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7744.lob
