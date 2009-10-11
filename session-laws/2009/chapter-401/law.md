@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 401 (AB 11)
+
+The people of the State of California do enact as follows:SECTION 1.Section 24458 is added to the Revenue and Taxation Code, to read:24458.Internal Revenue Service Notice 2008-83, 2008-42 I.R.B. 905, issued on October 20, 2008, relating to the treatment of deductions under Section 382(h) of the Internal Revenue Code following an ownership change, shall not be applicable for purposes of taxes imposed under Part 11 (commencing with Section 23001) of Division 2, of this code with respect to any ownership change occurring at any time.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to timely clarify the estimated state tax revenues for purposes of the current budget crisis, it is necessary that this act go into effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7736.lob
