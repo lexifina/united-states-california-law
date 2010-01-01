@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 98 (AB 306)
+
+The people of the State of California do enact as follows:SECTION 1.Section 9094.5 is added to the Elections Code, to read:9094.5.(a) The Secretary of State shall establish a process to enable a voter to opt out of receiving by mail the state ballot pamphlet prepared pursuant to Section 9081. This process shall become effective only after the Secretary of State certifies that the state has a statewide voter registration database that complies with the federal Help America Vote Act of 2002 (42 U.S.C. Sec. 15301 et seq.).(b) The process described in subdivision (a) shall not apply where two or more registered voters have the same postal address unless each voter who shares the same postal address has chosen to discontinue receiving the ballot pamphlet by mail.(c) The Secretary of State shall also establish a procedure to permit a voter to begin receiving the ballot pamphlet by mail again after the voter has discontinued receiving it pursuant to subdivision (a).
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7665.lob
