@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 13 (SB 430)
+
+The people of the State of California do enact as follows:SECTION 1.Section 34004.1 is added to the Health and Safety Code, to read:34004.1.Notwithstanding subdivision (g) of Section 34004, the time limit on the effectiveness of the redevelopment plan for the County of San Bernardino Redevelopment Agency’s Cedar Glen Disaster Recovery Project Area shall not exceed 15 years from the adoption of the redevelopment plan.SEC. 2.The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of unique circumstances faced by the County of San Bernardino Redevelopment Agency. In that respect, a private water company’s financial problems after the Old Fire delayed the construction of public works projects in the Cedar Glen Disaster Recovery Project Area.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_9332.lob
