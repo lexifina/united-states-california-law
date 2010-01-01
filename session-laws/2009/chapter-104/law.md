@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 104 (AB 403)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1917 of the Business and Professions Code is amended to read:1917.The committee shall license as a registered dental hygienist a person who satisfies all of the following requirements:(a) Completion of an educational program for registered dental hygienists, approved by the committee, accredited by the Commission on Dental Accreditation, and conducted by a degree-granting, postsecondary institution.(b) Satisfactory performance on the state clinical examination, or satisfactory completion of the dental hygiene examination given by the Western Regional Examining Board or any other clinical dental hygiene examination approved by the committee.(c) Satisfactory completion of the National Dental Hygiene Board examination.(d) Satisfactory completion of the examination in California law and ethics as prescribed by the committee.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7675.lob
