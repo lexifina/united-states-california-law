@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 55 (SB 583)
+
+The people of the State of California do enact as follows:SECTION 1.Section 290.47 is added to the Penal Code, to read:290.47.The Department of Justice shall record the address at which a registered sex offender resides with a unique identifier for the address. The information for this identifier shall be captured pursuant to Section 290.015 and the identifier shall consist of a description of the nature of the dwelling, with the choices of a single family residence, an apartment/condominium, a motel/hotel, or a licensed facility. Each address and its association with any specific registered sex offender shall be stored by the department in the same database as the registration data recorded pursuant to Section 290.015. The department shall make that information available to the State Department of Social Services or any other state agency when the agency needs the information for law enforcement purposes relating to investigative responsibilities relative to sex offenders. This section shall become operative on January 1, 2012.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_9366.lob
