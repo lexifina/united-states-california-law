@@ -1,0 +1,5 @@
+# Stats. 2009, ch. 127 (AB 863)
+
+The people of the State of California do enact as follows:SEC. 1.Section 11887.1 of the Public Utilities Code is amended to read:11887.1.The board of a district which has owned and operated an electric distribution system for at least eight years and has a population of 250,000 or more may, notwithstanding Section 11887, determine that additional positions requiring peculiar and exceptional qualifications, including, but not limited to, those of a scientific, professional, or expert character or of special confidence, or positions with significant managerial responsibility, shall be exempt from the district civil service if the total number of these exempt positions, including the exempt positions filled pursuant to Section 11887, does not exceed 5 percent of the total civil service positions of the district. However, the board may not determine any position to be exempt as long as that position is filled by an employee appointed pursuant to the district civil service.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_7664.lob
