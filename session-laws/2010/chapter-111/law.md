@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 111 (SB 1342)
+
+The people of the State of California do enact as follows:SECTION 1.Section 12223 of the Elections Code is amended to read:12223.(a) Whenever a jurisdiction is divided into election precincts or whenever the boundary of an established precinct is changed or a new precinct is created, the precinct boundary shall be fixed in a manner so that the number of voters in the precinct does not exceed 1,000 on the 88th day prior to the day of election, unless otherwise provided by law.(b) An elections official may subtract the number of permanent vote by mail voters, pursuant to Chapter 3 (commencing with Section 3200) of Division 3, from the total number of voters for purposes of complying with subdivision (a) if after subtracting the number of permanent vote by mail voters, the number of voters in the precinct does not exceed the percentage of nonpermanent vote by mail voters in the jurisdiction on the 88th day prior to the election multiplied by 1,000, unless otherwise provided by law.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_16554.lob
