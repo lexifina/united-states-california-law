@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 530 (AB 441)
+
+The people of the State of California do enact as follows:SECTION 1.Section 19961.05 of the Business and Professions Code is repealed.SEC. 2.Section 19961.06 is added to the Business and Professions Code, to read:19961.06.Notwithstanding Sections 19961 and 19962, a city, county, or city and county may amend an ordinance to increase by two the number of gambling tables that may be operated in a gambling establishment in the city, county, or city and county, compared to the ordinance that was in effect on January 1, 2010. A city, county, or city and county may exercise the authority provided by this section only one time, but this authority shall be in addition to any authorization under any other law for a city, county, or city and county to increase the number of gambling tables that may be operated in a gambling establishment in the city, county, or city and county.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_19112.lob
