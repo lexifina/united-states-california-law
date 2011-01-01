@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 372 (AB 2101)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18112 is added to the Elections Code, to read:18112.Upon conviction of a violation of any provision of this chapter, the court may order as a condition of probation that the convicted person be prohibited from receiving money or other valuable consideration for assisting another person to register to vote by receiving the completed affidavit of registration.SEC. 2.Section 18604 is added to the Elections Code, to read:18604.Upon conviction of a violation of any provision of this article, Article 2 (commencing with Section 18610), Article 3 (commencing with Section 18620), Article 5 (commencing with Section 18640), Article 6 (commencing with Section 18650), or Article 7 (commencing with Section 18660), the court may order as a condition of probation that the convicted person be prohibited from receiving money or other valuable consideration for gathering signatures on an initiative, referendum, or recall petition.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_18883.lob
