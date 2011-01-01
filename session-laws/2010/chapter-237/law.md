@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 237 (AB 1729)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18974.5 of the Government Code is amended to read:18974.5.Any member of the Armed Forces who successfully passes any state civil service examination and whose name as a result is placed on an employment list and who within 12 months after the establishment of the employment list for which the examination was given qualifies for veterans’ preference as provided for in Sections 18973 and 18973.1 shall be allowed the appropriate veterans’ credit to the same effect as though he or she were entitled to that credit at the time of the establishing of the employment list. When and if that person is allowed veterans’ credit under this section his or her name shall be placed on the employment list in accordance with Section 18937 as the employment list stands at the time of qualifying for veterans’ credit.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_18852.lob
