@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 511 (SB 1057)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6703 of the Government Code is amended to read:6703.(a) Public offices of the state, state institutions, and the University of California shall be closed on Admission Day.(b) Public offices of the state and state institutions, including, but not limited to, all state agencies and the Legislature, shall be closed on November 11, Veterans Day. If, in a given year, November 11 falls on a Saturday, then public offices of the state and state institutions, including the Legislature, shall be closed on Friday, November 10. If, in a given year, November 11 falls on a Sunday, then public offices of the state and state institutions, including the Legislature, shall be closed on Monday, November 12. It is the intent of the Legislature that the University of California also be closed on the Veterans Day holiday.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_19093.lob
