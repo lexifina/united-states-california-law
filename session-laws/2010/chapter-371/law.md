@@ -1,0 +1,5 @@
+# Stats. 2010, ch. 371 (AB 2036)
+
+The people of the State of California do enact as follows:SECTION 1.Section 10111.2 is added to the Public Contract Code, to read:10111.2.A department shall, upon request from a contractor plan room service, provide an electronic copy of a project’s contract documents at no charge to the contractor plan room.SEC. 2.Section 20103.7 is added to the Public Contract Code, to read:20103.7.A local agency subject to this chapter taking bids for the construction of a public work or improvement shall, upon request from a contractor plan room service, provide an electronic copy of a project’s contract documents at no charge to the contractor plan room.SEC. 3.If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2009.zip#BILL_VERSION_TBL_18943.lob
