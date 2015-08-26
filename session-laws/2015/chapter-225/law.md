@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 225 (SB 725)
+
+The people of the State of California do enact as follows:SECTION 1.Section 60851.1 is added to the Education Code, to read:60851.1.Notwithstanding any other law, the high school exit examination shall not be required as a condition of receiving a diploma of graduation or a condition of graduation from high school for a pupil completing grade 12 in 2015 and who has met all other high school graduation requirements.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to ensure that pupils who have not passed the high school exit examination but have met all other high school graduation requirements receive a high school diploma as soon as possible, it is necessary that this act take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_7312.lob
