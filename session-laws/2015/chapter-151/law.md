@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 151 (AB 560)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3339.5 is added to the Civil Code, to read:3339.5.(a) The immigration status of a minor child seeking recovery under any applicable law is irrelevant to the issues of liability or remedy, except for employment-related prospective injunctive relief that would directly violate federal law. (b) Discovery or other inquiry in a civil action or proceeding relating to a minor child’s immigration status shall not be permitted except where the minor child’s claims place the minor child’s immigration status directly in contention or the person seeking to make this inquiry has shown by clear and convincing evidence that the inquiry is necessary in order to comply with federal immigration law. (c) The provisions of this section are declaratory of existing law.(d) The express application of this act to minors is not intended to imply that adults are not likewise protected by existing law in the same circumstances.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_7375.lob
