@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 40 (AB 992)
+
+The people of the State of California do enact as follows:SECTION 1.Section 31760 of the Government Code is amended to read:31760.(a) Except as provided in subdivision (b), until the first payment of any retirement allowance is made, a member or retired member, in lieu of the retirement allowance for the member’s life alone, may elect to have the actuarial equivalent of his or her retirement allowance as of the date of retirement applied to a lesser retirement allowance payable throughout life in accordance with one of the optional settlements specified in this article.(b) Notwithstanding subdivision (a), a member who applies for disability and is subsequently granted a service retirement pending a determination of entitlement to disability may change the type of optional or unmodified allowance that he or she elected at the time the service retirement was granted, subject to the provisions of Section 31725.7.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_6430.lob
