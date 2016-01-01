@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 196 (AB 380)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2251 of the Family Code is amended to read:2251.(a) If a determination is made that a marriage is void or voidable and the court finds that either party or both parties believed in good faith that the marriage was valid, the court shall:(1) Declare the party or parties, who believed in good faith that the marriage was valid, to have the status of a putative spouse.(2) If the division of property is in issue, divide, in accordance with Division 7 (commencing with Section 2500), that property acquired during the union that would have been community property or quasi-community property if the union had not been void or voidable, only upon request of a party who is declared a putative spouse under paragraph (1). This property is known as “quasi-marital property.”(b) If the court expressly reserves jurisdiction, it may make the property division at a time after the judgment.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_7495.lob
