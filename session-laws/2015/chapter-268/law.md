@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 268 (AB 1338)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5156.5 of the Vehicle Code is amended to read:5156.5.(a) The Office of Emergency Services shall apply to the department to sponsor a domestic violence and sexual assault awareness license plate program pursuant to this article.(b) The fees specified in Section 5157 shall be imposed for the issuance, renewal, or transfer of specialized license plates authorized by this section. Notwithstanding subdivision (c) of Section 5157, after deducting its administrative costs, the department shall deposit the revenue derived from the additional fees into the California Domestic Violence and Sexual Assault Prevention Fund, which is hereby established in the State Treasury. Upon appropriation by the Legislature, the moneys in that fund shall be allocated to the Office of Emergency Services for purposes of funding the Family Violence Prevention Program described in Section 13823.4 of, and the sexual assault services programs described in Section 13837 of, the Penal Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_8511.lob
