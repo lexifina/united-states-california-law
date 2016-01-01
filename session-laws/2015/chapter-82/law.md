@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 82 (AB 346)
+
+The people of the State of California do enact as follows:SECTION 1.Section 40302 of the Vehicle Code is amended to read:40302.Whenever any person is arrested for any violation of this code, not declared to be a felony, the arrested person shall be taken without unnecessary delay before a magistrate within the county in which the offense charged is alleged to have been committed and who has jurisdiction of the offense and is nearest or most accessible with reference to the place where the arrest is made in any of the following cases:(a) When the person arrested fails to present both his or her driver’s license or other satisfactory evidence of his or her identity and an unobstructed view of his or her full face for examination.(b) When the person arrested refuses to give his or her written promise to appear in court.(c) When the person arrested demands an immediate appearance before a magistrate.(d) When the person arrested is charged with violating Section 23152.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_6782.lob
