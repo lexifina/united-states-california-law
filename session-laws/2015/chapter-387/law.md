@@ -1,0 +1,5 @@
+# Stats. 2015, ch. 387 (SB 464)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2242.2 is added to the Business and Professions Code, to read:2242.2.Notwithstanding any other law, a physician and surgeon, a registered nurse acting in accordance with Section 2725.2, a certified nurse-midwife acting within the scope of Section 2746.51, a nurse practitioner acting within the scope of Section 2836.1, a physician assistant acting within the scope of Section 3502.1, and a pharmacist acting within the scope of Section 4052.3 may use a self-screening tool that will identify patient risk factors for the use of self-administered hormonal contraceptives by a patient, and, after an appropriate prior examination, prescribe, furnish, or dispense, as applicable, self-administered hormonal contraceptives to the patient. Blood pressure, weight, height, and patient health history may be self-reported using the self-screening tool that identifies patient risk factors.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_9429.lob
