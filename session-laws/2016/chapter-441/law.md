@@ -1,0 +1,5 @@
+# Stats. 2016, ch. 441 (AB 884)
+
+The people of the State of California do enact as follows:SECTION 1.Section 9026.5 of the Government Code is repealed.SEC. 2.Section 10248.5 is added to the Government Code, to read:10248.5.Notwithstanding subdivision (g) of Section 10248, the information that the Legislative Counsel makes available to the public pursuant to Section 10248 is within the public domain and the State of California retains no copyright or other proprietary interest in that information.SEC. 3.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:Because of the importance of ensuring, without unnecessary and undue delay, public access to and use of Assembly-generated television signals and legislative information that the Legislative Counsel makes available in electronic form, it is necessary that this bill take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2015.zip#BILL_VERSION_TBL_19362.lob
