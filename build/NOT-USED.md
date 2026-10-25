@@ -1,0 +1,425 @@
+# Alternative versions not used
+
+A statute that holds two or more versions of the same section (for example SEC. 1 and SEC. 1.5, the second operative only if another bill is also enacted) gives no way to tell from the bulk data which took effect, unless the database keeps it. These were left out:
+
+- Stats. 2016, ch. 432 (AB 801): California Education Code § 66025.9 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 849 (AB 873): California Business and Professions Code § 9880.1 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 851 (AB 1067): California Welfare and Institutions Code § 16501.1 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 832 (SB 450): California Elections Code § 3017 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 391 (SB 37): California Water Code § 10723 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 850 (AB 1001): California Penal Code § 11165.7 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 864 (SB 524): California Health and Safety Code § 1502 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 864 (SB 524): California Health and Safety Code § 1523.1 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 599 (AB 551): California Civil Code § 1942.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 558 (AB 1807): California Business and Professions Code § 10083.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 290 (AB 1747): California Welfare and Institutions Code § 18995 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 392 (SB 564): California Water Code § 10723 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 400 (AB 1577): California Welfare and Institutions Code § 18995 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 433 (AB 1449): California Education Code § 69436 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 820 (AB 1921): California Elections Code § 3017 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 387 (AB 2488): California Fish and Game Code § 5515 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 758 (AB 2501): California Government Code § 65915 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 654 (SB 1322): California Penal Code § 647 appears 8 times (alternative versions); not used
+- Stats. 2016, ch. 885 (AB 2503): California Labor Code § 4610 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 799 (SB 1039): California Business and Professions Code § 4400 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 748 (AB 1960): California Vehicle Code § 34501.12 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 720 (SB 1069): California Government Code § 65852.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 412 (AB 2212): California Education Code § 48900 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 211 (SB 875): California Family Code § 400 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 777 (SB 813): California Penal Code § 803 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 47 (AB 1695): California Penal Code § 29805 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 887 (SB 1016): California Penal Code § 186.22 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 887 (SB 1016): California Penal Code § 1170 appears 8 times (alternative versions); not used
+- Stats. 2016, ch. 887 (SB 1016): California Penal Code § 1170.3 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 664 (AB 1937): California Public Utilities Code § 454.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 858 (AB 1945): California Welfare and Institutions Code § 827 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 610 (AB 1863): California Welfare and Institutions Code § 14132.100 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 491 (SB 997): California Civil Code § 1185 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 587 (SB 1000): California Government Code § 65302 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 756 (AB 2442): California Government Code § 65915 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 542 (SB 1287): California Health and Safety Code § 131052 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 826 (AB 2454): California Public Utilities Code § 454.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 609 (AB 1849): California Welfare and Institutions Code § 16501.1 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 856 (AB 1676): California Labor Code § 1197.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 293 (AB 1845): California Fish and Game Code § 5515 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 703 (AB 2881): California Civil Code § 1942.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 842 (SB 1222): California Public Utilities Code § 454.55 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 429 (SB 1226): California Welfare and Institutions Code § 4652.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 262 (AB 2138): California Business and Professions Code § 17550.20 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 783 (SB 1046): California Vehicle Code § 13353.5 appears 3 times (alternative versions); not used
+- Stats. 2016, ch. 783 (SB 1046): California Vehicle Code § 23573 appears 3 times (alternative versions); not used
+- Stats. 2016, ch. 783 (SB 1046): California Vehicle Code § 23575 appears 3 times (alternative versions); not used
+- Stats. 2016, ch. 866 (SB 1063): California Labor Code § 1197.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Education Code § 48204 appears 3 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Family Code § 8712 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1502 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1522.44 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1523.1 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1538.8 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1538.9 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Health and Safety Code § 1548 appears 3 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Penal Code § 11165.7 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 291 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 293 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 294 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 295 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 361.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 361.3 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 361.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 727.1 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 727.4 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 11462.01 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 11462.06 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 11465 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 612 (AB 1997): California Welfare and Institutions Code § 16501.1 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 466 (AB 2396): California Public Resources Code § 42926 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 867 (SB 1084): California Penal Code § 1170 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 724 (SB 1129): California Penal Code § 647 appears 8 times (alternative versions); not used
+- Stats. 2016, ch. 460 (AB 2208): California Government Code § 65583.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 868 (SB 1160): California Labor Code § 4610 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 86 (SB 1171): California Public Utilities Code § 913.8 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 86 (SB 1171): California Welfare and Institutions Code § 290.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 413 (AB 2249): California Public Resources Code § 5080.18 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 484 (SB 1193): California Business and Professions Code § 4400 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 484 (SB 1193): California Business and Professions Code § 4830 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 800 (SB 1196): California Business and Professions Code § 7533.5 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 800 (SB 1196): California Business and Professions Code § 7570 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 735 (AB 2299): California Government Code § 65852.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 702 (AB 2872): California Welfare and Institutions Code § 827 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 276 (AB 2886): California Unemployment Insurance Code § 2737 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 546 (SB 1473): California Fish and Game Code § 7120 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 419 (AB 2536): California Education Code § 48900 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 489 (SB 1478): California Business and Professions Code § 1632 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 870 (SB 1442): California Government Code § 12930 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 830 (AB 2843): California Government Code § 6253.2 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 164 (AB 2613): California Government Code § 26909 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 527 (AB 2636): California Health and Safety Code § 103526 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 618 (AB 2693): California Government Code § 53328.1 appears 2 times (alternative versions); not used
+- Stats. 2016, ch. 696 (AB 2590): California Penal Code § 1170 appears 4 times (alternative versions); not used
+- Stats. 2016, ch. 272 (AB 2729): California Public Resources Code § 3206 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 366 (SB 35): California Government Code § 65400 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 366 (SB 35): California Government Code § 65582.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 835 (SB 46): California Health and Safety Code § 18502 appears 3 times (alternative versions); not used
+- Stats. 2017, ch. 3 (SB 48): California Government Code § 22871.3 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 3 (SB 48): California Government Code § 22879 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 728 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 2290.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4980.78 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4980.79 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4984.01 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4996.17 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4996.18 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4996.23 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4996.23.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4999.62 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 743 (AB 93): California Business and Professions Code § 4999.63 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 17 (AB 103): California Penal Code § 29805 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 21 (AB 119): California Government Code § 6253.2 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 722 (SB 12): California Welfare and Institutions Code § 16501.1 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 421 (SB 19): California Business and Professions Code § 205 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 547 (AB 260): California Civil Code § 52.6 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 257 (AB 261): California Education Code § 35012 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 594 (SB 229): California Government Code § 65852.2 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 623 (SB 351): California Business and Professions Code § 4400 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 501 (AB 607): California Welfare and Institutions Code § 11450 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 470 (AB 626): California Health and Safety Code § 113789 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 410 (AB 727): California Welfare and Institutions Code § 5892 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 691 (AB 557): California Welfare and Institutions Code § 11450 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 704 (AB 501): California Health and Safety Code § 1502 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 704 (AB 501): California Welfare and Institutions Code § 11462.01 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 343 (AB 563): California Welfare and Institutions Code § 18926.5 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 373 (AB 678): California Government Code § 65589.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 958 (AB 686): California Government Code § 65583 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 958 (AB 686): California Government Code § 65583.2 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 680 (SB 393): California Penal Code § 1000.4 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 951 (SB 224): California Government Code § 12930 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 489 (AB 291): California Civil Code § 1940.3 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 158 (AB 456): California Business and Professions Code § 4996.18 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 158 (AB 456): California Business and Professions Code § 4996.23 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 96 (SB 106): California Government Code § 65583.2 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 629 (AB 188): California Health and Safety Code § 44125 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 610 (AB 199): California Labor Code § 1720 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 368 (SB 167): California Government Code § 65589.5 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 545 (AB 236): California Welfare and Institutions Code § 11450 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 526 (AB 484): California Penal Code § 290 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 679 (SB 312): California Welfare and Institutions Code § 786 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 742 (AB 504): California Education Code § 78220 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 742 (AB 504): California Education Code § 78221 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 513 (SB 241): California Health and Safety Code § 123110 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 514 (SB 266): California Military and Veterans Code § 394 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 311 (AB 218): California Government Code § 50474.3 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 806 (SB 286): California Elections Code § 14105 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 806 (SB 286): California Elections Code § 14200 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 549 (AB 443): California Business and Professions Code § 3057 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 470 (AB 384): California Welfare and Institutions Code § 4880 appears 3 times (alternative versions); not used
+- Stats. 2017, ch. 548 (AB 401): California Business and Professions Code § 4059.5 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 307 (SB 438): California Welfare and Institutions Code § 366.26 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 803 (AB 1065): California Penal Code § 853.6 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 803 (AB 1065): California Penal Code § 978.5 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 558 (AB 1227): California Education Code § 51934 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 641 (AB 830): California Education Code § 47605 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 837 (SB 465): California Government Code § 53313.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 837 (SB 465): California Streets and Highways Code § 5898.16 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 837 (SB 465): California Streets and Highways Code § 5898.17 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 837 (SB 465): California Streets and Highways Code § 5913 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 661 (AB 957): California Unemployment Insurance Code § 14012 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 929 (SB 501): California Business and Professions Code § 1682 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 929 (SB 501): California Business and Professions Code § 1724 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 929 (SB 501): California Business and Professions Code § 1750.5 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 683 (SB 625): California Welfare and Institutions Code § 827 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 665 (AB 1332): California Welfare and Institutions Code § 361 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 486 (SB 664): California Business and Professions Code § 25503.6 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 287 (SB 670): California Penal Code § 1170 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 333 (SB 420): California Penal Code § 11105 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 299 (AB 1418): California Penal Code § 11105 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 710 (AB 766): California Welfare and Institutions Code § 11402 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 319 (AB 976): California Welfare and Institutions Code § 366.21 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 319 (AB 976): California Welfare and Institutions Code § 903.45 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 557 (SB 532): California Government Code § 8558 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 329 (SB 473): California Fish and Game Code § 2081 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 797 (AB 1403): California Elections Code § 3108 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 561 (AB 1516): California Penal Code § 1170 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 731 (SB 612): California Welfare and Institutions Code § 11400 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 731 (SB 612): California Welfare and Institutions Code § 11403.3 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 323 (AB 1119): California Welfare and Institutions Code § 5328 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 780 (SB 746): California Penal Code § 29182 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 780 (SB 746): California Penal Code § 29830 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 780 (SB 746): California Penal Code § 33850 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 780 (SB 746): California Penal Code § 33855 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 838 (SB 695): California Business and Professions Code § 30 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 478 (AB 1724): California Business and Professions Code § 25503.6 appears 4 times (alternative versions); not used
+- Stats. 2017, ch. 775 (SB 798): California Business and Professions Code § 2472 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 397 (SB 810): California Vehicle Code § 12810.2 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 556 (AB 1131): California Food and Agricultural Code § 4051 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 930 (SB 726): California Welfare and Institutions Code § 11004 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 374 (AB 879): California Government Code § 65583 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 454 (AB 1706): California Business and Professions Code § 146 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 598 (SB 752): California Business and Professions Code § 4400 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 714 (AB 1006): California Welfare and Institutions Code § 16119 appears 2 times (alternative versions); not used
+- Stats. 2017, ch. 714 (AB 1006): California Welfare and Institutions Code § 16501.1 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 730 (SB 880): California Labor Code § 4651 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 616 (SB 824): California Insurance Code § 675.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 989 (AB 1771): California Government Code § 65584 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 989 (AB 1771): California Government Code § 65584.01 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 989 (AB 1771): California Government Code § 65584.04 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 690 (SB 1041): California Health and Safety Code § 105295 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 486 (AB 2117): California Business and Professions Code § 4980.72 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 486 (AB 2117): California Business and Professions Code § 4984.01 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 486 (AB 2117): California Business and Professions Code § 4996.17 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 486 (AB 2117): California Business and Professions Code § 4999.60 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 486 (AB 2117): California Business and Professions Code § 4999.100 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 962 (AB 1746): California Penal Code § 784.7 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 974 (SB 828): California Government Code § 65584 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 974 (SB 828): California Government Code § 65584.01 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 974 (SB 828): California Government Code § 65584.04 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 428 (AB 1868): California Education Code § 51934 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 150 (SB 920): California Business and Professions Code § 6738 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 150 (SB 920): California Business and Professions Code § 8729 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 150 (SB 920): California Corporations Code § 16101 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 150 (SB 920): California Corporations Code § 16956 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 150 (SB 920): California Corporations Code § 16959 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 478 (AB 1751): California Health and Safety Code § 11165 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 479 (AB 1753): California Health and Safety Code § 11165 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 995 (AB 2138): California Business and Professions Code § 480 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 995 (AB 2138): California Business and Professions Code § 11345.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 672 (AB 2145): California Health and Safety Code § 39719.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 487 (AB 2146): California Business and Professions Code § 25503.6 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 861 (AB 1968): California Welfare and Institutions Code § 8103 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 507 (SB 816): California Education Code § 48205 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 507 (SB 816): California Education Code § 60119 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 733 (SB 1035): California Government Code § 65302 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 807 (AB 1861): California Education Code § 51934 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 273 (AB 1891): California Business and Professions Code § 25503.56 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 273 (AB 1891): California Business and Professions Code § 25503.57 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Health and Safety Code § 1517 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Health and Safety Code § 1517.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Health and Safety Code § 1522 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Welfare and Institutions Code § 361.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Welfare and Institutions Code § 16519.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 910 (AB 1930): California Welfare and Institutions Code § 18360 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 627 (AB 1772): California Insurance Code § 2051.5 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 618 (SB 894): California Insurance Code § 2051.5 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 619 (SB 896): California Penal Code § 451.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 626 (SB 901): California Public Resources Code § 4799.05 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 406 (SB 904): California Business and Professions Code § 7593.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 579 (AB 1986): California Business and Professions Code § 25503.9 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 963 (AB 1999): California Government Code § 53398.52 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 483 (AB 2000): California Business and Professions Code § 25503.6 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 689 (SB 973): California Business and Professions Code § 25600 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 295 (AB 2151): California Fish and Game Code § 3031 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 777 (AB 2155): California Government Code § 84504.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 777 (AB 2155): California Government Code § 84504.3 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 753 (AB 2162): California Government Code § 65583 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 489 (AB 2178): California Health and Safety Code § 113789 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 990 (AB 2238): California Government Code § 65584.01 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 990 (AB 2238): California Government Code § 65584.04 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 563 (SB 1145): California Government Code § 53398.52 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 705 (AB 2452): California Business and Professions Code § 25503.56 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 705 (AB 2452): California Business and Professions Code § 25503.57 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 937 (SB 1227): California Government Code § 65915 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 1011 (SB 1235): California Financial Code § 22802 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 1011 (SB 1235): California Financial Code § 22803 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 946 (AB 2698): California Education Code § 8265.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 131 (AB 2750): California Health and Safety Code § 103526 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 921 (AB 2753): California Government Code § 65915 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 945 (AB 2626): California Education Code § 8208 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 945 (AB 2626): California Education Code § 8236 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 945 (AB 2626): California Education Code § 8263 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 945 (AB 2626): California Education Code § 8263.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 945 (AB 2626): California Education Code § 8275.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 955 (SB 1300): California Government Code § 12940 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 971 (AB 2799): California Business and Professions Code § 26051.5 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 498 (AB 2822): California Government Code § 8546.10 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 550 (AB 2826): California Education Code § 46600 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 662 (SB 1239): California Government Code § 84504.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 392 (AB 2676): California Business and Professions Code § 12704 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 392 (AB 2676): California Business and Professions Code § 12709 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 876 (AB 2684): California Family Code § 7571 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 876 (AB 2684): California Family Code § 7572 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 876 (AB 2684): California Family Code § 7574 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 876 (AB 2684): California Family Code § 7577 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 466 (SB 1274): California Welfare and Institutions Code § 4514 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 849 (SB 1123): California Unemployment Insurance Code § 3301 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 849 (SB 1123): California Unemployment Insurance Code § 3302.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 849 (SB 1123): California Unemployment Insurance Code § 3303 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 849 (SB 1123): California Unemployment Insurance Code § 3303.1 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 695 (SB 1164): California Business and Professions Code § 25503.56 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 695 (SB 1164): California Business and Professions Code § 25503.9 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 790 (SB 1172): California Revenue and Taxation Code § 408 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 1008 (SB 1187): California Penal Code § 4019 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 957 (SB 1078): California Government Code § 53398.52 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 957 (SB 1078): California Government Code § 65583.2 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 957 (SB 1078): California Government Code § 65584.01 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 389 (AB 2296): California Business and Professions Code § 4999.32 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 389 (AB 2296): California Business and Professions Code § 4999.62 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 389 (AB 2296): California Business and Professions Code § 4999.63 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 863 (AB 2179): California Public Utilities Code § 10061 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 693 (SB 1109): California Business and Professions Code § 1645 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 935 (SB 1083): California Health and Safety Code § 1517 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 935 (SB 1083): California Welfare and Institutions Code § 16519.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 865 (AB 2319): California Education Code § 51225.3 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 865 (AB 2319): California Education Code § 60119 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 894 (SB 1100): California Penal Code § 29182 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 583 (AB 2402): California Civil Code § 56.06 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 968 (AB 2425): California Revenue and Taxation Code § 408 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 762 (AB 2428): California Welfare and Institutions Code § 14132.100 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 826 (AB 2878): California Education Code § 52060 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 826 (AB 2878): California Education Code § 52066 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 774 (AB 3066): California Health and Safety Code § 18502 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 904 (AB 2797): California Government Code § 65915 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 659 (AB 3249): California Business and Professions Code § 30 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 791 (SB 1217): California Business and Professions Code § 7570 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 793 (SB 1281): California Welfare and Institutions Code § 786 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 27 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 1645 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 1680 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 2290.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4980.72 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4980.78 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4980.79 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4996.17 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4999.32 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4999.60 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4999.62 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4999.63 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 703 (SB 1491): California Business and Professions Code § 4999.100 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 423 (SB 1494): California Penal Code § 290 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 423 (SB 1494): California Penal Code § 290.008 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 423 (SB 1494): California Penal Code § 290.46 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 1001 (AB 2942): California Penal Code § 1170 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 1002 (AB 2952): California Welfare and Institutions Code § 786 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 305 (AB 2954): California Government Code § 50079 appears 3 times (alternative versions); not used
+- Stats. 2018, ch. 370 (SB 1403): California Health and Safety Code § 39719.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 399 (AB 3047): California Government Code § 70617 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 666 (SB 1447): California Business and Professions Code § 4008 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 666 (SB 1447): California Health and Safety Code § 1261.6 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 555 (AB 3212): California Military and Veterans Code § 800 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 27 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 101 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9849 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9851 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9853 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9855 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9860 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 578 (SB 1483): California Business and Professions Code § 9863 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 833 (AB 3176): California Welfare and Institutions Code § 212.5 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 833 (AB 3176): California Welfare and Institutions Code § 361.2 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 858 (SB 1482): California Business and Professions Code § 101 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 858 (SB 1482): California Business and Professions Code § 1680 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 505 (AB 3255): California Education Code § 76140 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 589 (AB 2783): California Health and Safety Code § 11056 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 599 (AB 3261): California Business and Professions Code § 27 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 599 (AB 3261): California Business and Professions Code § 26051.5 appears 4 times (alternative versions); not used
+- Stats. 2018, ch. 727 (AB 3264): California Business and Professions Code § 25600 appears 2 times (alternative versions); not used
+- Stats. 2018, ch. 942 (AB 2289): California Education Code § 48205 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 245 (SB 42): California Government Code § 85320 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 679 (AB 82): California Health and Safety Code § 11165 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 21 (AB 116): California Welfare and Institutions Code § 14005.62 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 21 (AB 116): California Welfare and Institutions Code § 14132.100 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 307 (SB 3): California Elections Code § 15104 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 678 (AB 70): California Public Resources Code § 42652.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 140 (AB 16): California Elections Code § 15104 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 248 (AB 8): California Business and Professions Code § 26051.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 248 (AB 8): California Business and Professions Code § 26067 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 208 (SB 39): California Health and Safety Code § 108980 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 485 (AB 36): California Government Code § 65589.9 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 648 (SB 67): California Education Code § 70022 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 530 (AB 245): California Revenue and Taxation Code § 70.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 136 (AB 260): California Business and Professions Code § 4076 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 124 (SB 98): California Education Code § 32282 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 7 (AB 118): California Welfare and Institutions Code § 16121.5 appears 2 times (alternative versions); not used
+- Stats. 2026, ch. 25 (AB 150): California Education Code § 8205 appears 2 times (alternative versions); not used
+- Stats. 2026, ch. 25 (AB 150): California Education Code § 8208 appears 2 times (alternative versions); not used
+- Stats. 2026, ch. 25 (AB 150): California Education Code § 8210 appears 2 times (alternative versions); not used
+- Stats. 2026, ch. 25 (AB 150): California Education Code § 8211 appears 2 times (alternative versions); not used
+- Stats. 2026, ch. 25 (AB 150): California Education Code § 8217 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 684 (AB 289): California Government Code § 70615 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 16 (SB 128): California Vehicle Code § 13352 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 107 (SB 146): California Welfare and Institutions Code § 16121.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 745 (SB 148): California Education Code § 70022 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 26 (SB 140): California Government Code § 19829.9854 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 26 (SB 140): California Government Code § 19829.9855 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 26 (SB 140): California Government Code § 19851 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 26 (SB 140): California Government Code § 22944.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 258 (AB 378): California Education Code § 45500 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 600 (SB 271): California Education Code § 66023.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 663 (AB 419): California Education Code § 234.7 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 25 (SB 139): California Government Code § 19829.9853 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 25 (SB 139): California Government Code § 19829.9854 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 25 (SB 139): California Government Code § 19829.9855 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 25 (SB 139): California Government Code § 19851 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 25 (SB 139): California Government Code § 22944.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 577 (SB 233): California Government Code § 65584.01 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 8 (AB 121): California Education Code § 51225.3 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 494 (AB 610): California Government Code § 65583 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 379 (AB 653): California Penal Code § 11165.7 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 721 (AB 1071): California Penal Code § 745 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 721 (AB 1071): California Penal Code § 1473 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 721 (AB 1071): California Penal Code § 1473.7 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 572 (AB 1127): California Civil Code § 3273.50 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 413 (SB 402): California Penal Code § 11165.7 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 67 (AB 1170): California Civil Code § 2924f appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 67 (AB 1170): California Government Code § 66499.41 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 88 (AB 1216): California Education Code § 8208 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 278 (AB 808): California Government Code § 84224 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 278 (AB 808): California Government Code § 89517.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 279 (AB 827): California Elections Code § 2194 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 279 (AB 827): California Elections Code § 3019 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 275 (AB 679): California Government Code § 15853 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 275 (AB 679): California Public Resources Code § 5006.1 appears 3 times (alternative versions); not used
+- Stats. 2025, ch. 635 (AB 1178): California Penal Code § 832.7 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 383 (AB 847): California Penal Code § 832.7 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 171 (AB 959): California Education Code § 44270 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 701 (AB 670): California Government Code § 65400 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 704 (AB 726): California Government Code § 65400 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 517 (SB 486): California Government Code § 65584.01 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 517 (SB 486): California Government Code § 65584.04 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 192 (AB 1423): California Health and Safety Code § 44268.2 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 239 (SB 853): California Government Code § 7522.02 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 592 (SB 861): California Business and Professions Code § 27 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 195 (AB 1502): California Business and Professions Code § 4827 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 195 (AB 1502): California Business and Professions Code § 4883 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 282 (AB 930): California Elections Code § 15621 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 233 (SB 779): California Business and Professions Code § 7099.2 appears 4 times (alternative versions); not used
+- Stats. 2025, ch. 509 (AB 1308): California Government Code § 65589.5 appears 2 times (alternative versions); not used
+- Stats. 2025, ch. 348 (AB 1327): California Business and Professions Code § 7159 appears 2 times (alternative versions); not used

@@ -1,0 +1,24 @@
+{
+  "corpus": "us/california/statutes",
+  "code": "CA",
+  "name": "California Codes",
+  "label": "California law",
+  "language": "en",
+  "history_from": "2016",
+  "record_to": "2026-10-25",
+  "record_note": "The 29 California Codes and the Constitution from the Legislative Counsel's database of 2016-11-27 to that of 2026-10-25, via its session archives; built 2026-10-28.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": false,
+  "author": "the chaptered statute (Stats. YEAR, ch. N) or ballot measure that made the change (Law trailer)",
+  "granularity": "exact operative or effective date of each section version; versions between two archives from the chaptered bills",
+  "scope": {
+    "when_absent": "the codes record no case-by-case scope; a statute's application is in its own text and uncodified sections",
+    "default_reach": {
+      "rule": "presumption against retroactivity",
+      "authority": "Cal. Civ. Code \u00a7 3 (\"No part of it is retroactive, unless expressly so declared.\")",
+      "decided_here": false
+    }
+  },
+  "tool": "tools/ca.py"
+}
