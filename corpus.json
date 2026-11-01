@@ -5,8 +5,8 @@
   "label": "California law",
   "language": "en",
   "history_from": "2016",
-  "record_to": "2026-10-25",
-  "record_note": "The 29 California Codes and the Constitution from the Legislative Counsel's database of 2016-11-27 to that of 2026-10-25, via its session archives; built 2026-10-28.",
+  "record_to": "2026-11-01",
+  "record_note": "The 29 California Codes and the Constitution from the Legislative Counsel's database of 2016-11-27 to that of 2026-11-01, via its session archives; built 2026-10-28, extended and corrected by pubinfo-runner on 2026-11-05.",
   "in_force_trailer": "In-force",
   "baseline_trailer": "Consolidated",
   "has_future_branch": false,
@@ -20,5 +20,6 @@
       "decided_here": false
     }
   },
-  "tool": "tools/ca.py"
+  "tool": "tools/ca.py",
+  "checked_on": "2026-11-05"
 }
