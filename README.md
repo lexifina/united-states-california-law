@@ -1,5 +1,7 @@
 # Git for California law
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of California, United States, which global-law reads at `united-states/california/statutes/`.
+
 The text of the 29 California Codes and the California Constitution, section by section, with a commit for each
 statute on each day its changes took effect, from 2016-11-27 to 2026-10-25. **Each commit is a statute taking
 effect.** Its author is the statute that made the change (for example `Stats. 2019, ch. 115 (AB 1817)`), and its date is
