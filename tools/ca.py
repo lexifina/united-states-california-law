@@ -20,12 +20,14 @@ def git(*args):
 
 
 def history():
-    fmt = "%H%x1f%ad%x1f%an%x1f%s%x1f%(trailers:key=In-force,valueonly,separator=%x2c)%x1e"
+    fmt = "%H%x1f%ad%x1f%an%x1f%s%x1f%(trailers:key=In-force,valueonly,separator=%x2c)%x1f%(trailers:key=Scope,valueonly)%x1e"
     out = []
     for rec in git("log", "--reverse", "--date=short", "--format=" + fmt, "HEAD").split("\x1e"):
         rec = rec.strip("\n")
         if rec:
-            commit, authored, author, subject, in_force = rec.split("\x1f")
+            commit, authored, author, subject, in_force, scope = rec.split("\x1f")
+            if scope.strip() == "session-law-as-enacted":
+                continue
             out.append(((in_force.strip().split(",")[0] or authored), commit, author, subject))
     return out
 

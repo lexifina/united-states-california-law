@@ -29,7 +29,7 @@ depend on your time zone or the time of day.
 ## What is here
 
 165,451 section files in 30 folders (one per code, `cons/` for the Constitution), to 2026-10-25.
-There are 8,127 commits: 8,102 credited to a chaptered statute and 21 to a
+The original consolidated build contains 8,127 commits: 8,102 credited to a chaptered statute and 21 to a
 ballot measure; the rest are the starting point, sections that ended by their own terms ("Repealed as of", "Inoperative"),
 and differences between two of the Legislative Counsel's databases that no statute found explains.
 
@@ -72,13 +72,9 @@ Commits are dated at noon UTC.
 - **Official status.** The Legislative Counsel's database is not the official publication of the statutes. For anything
   that matters, read the chaptered statute.
 
-## How it is built
+## Sources and reproducibility
 
-From the Legislative Counsel's bulk data at https://downloads.leginfo.legislature.ca.gov/, which has no robots.txt. The browsing site
-leginfo.legislature.ca.gov disallows every agent and was not used. The build script is in [`build/`](build/), with the
-checksums of every file it read; it makes no network requests when it writes the history, and the same files give the
-same commits. [REPRODUCE.md](REPRODUCE.md) records the sources, the commands, the software and what AI models did and did
-not do; [CHANGES.md](CHANGES.md) records how the history changes.
+The Legislative Counsel’s bulk database at https://downloads.leginfo.legislature.ca.gov/ supplies the code sections and chaptered statutes. The source archive checksums are in `build/DATA-SHA256SUMS`. [REPRODUCE.md](REPRODUCE.md) identifies the original editions and [CHANGES.md](CHANGES.md) records updates to the consolidated history.
 
 Lexifina keeps a history of the US Code in the same form, [lexifina/united-states-law](https://github.com/lexifina/united-states-law),
 and both are part of [lexifina/global-law](https://github.com/lexifina/global-law).
@@ -91,3 +87,29 @@ The California Codes and Constitution are in the public domain: Government Code 
 Legislative Counsel makes available under § 10248 "is within the public domain and the State of California retains no
 copyright or other proprietary interest in that information." The history, commit messages, tools and documentation are
 released under [CC BY 4.0](LICENSE.md).
+
+## Earlier session laws, as enacted
+
+17,777 historical chaptered statutes from the 1989–1990, 1991–1992, 1993–1994, 1995–1996, 1997–1998, 1999–2000, 2001–2002, 2003–2004, 2005–2006, 2007–2008, 2009–2010 sessions are preserved under `session-laws/<year>/chapter-<number>/law.md` (extraordinary sessions use `ex-<session>-chapter-<number>`). These are the complete normative bodies of the chaptered statutes, as enacted, from the Legislative Counsel’s prior-session archives. They are separate from the consolidated code history, which still begins on 2016-11-27. They do not establish every code section’s text on an earlier day.
+
+Each added statute has a labelled correction commit with its effective date and source. Immediate-effect statutes use their official filing date; eligible regular-session statutes use Government Code § 9600(a), whose source history records its last amendment as Stats. 1973, ch. 7. Special-session statutes without an explicit immediate-effect clause, possible commencement exceptions, late enactments, missing text and normative images remain held. The published history is preserved.
+
+| Session | Chaptered statutes listed | Added | Held |
+| --- | ---: | ---: | ---: |
+| 1989–1990 | 3207 | 2882 | 325 |
+| 1991–1992 | 2621 | 1878 | 743 |
+| 1993–1994 | 2652 | 1965 | 687 |
+| 1995–1996 | 2167 | 1664 | 503 |
+| 1997–1998 | 2037 | 1626 | 411 |
+| 1999–2000 | 2112 | 1575 | 537 |
+| 2001–2002 | 2149 | 1541 | 608 |
+| 2003–2004 | 1874 | 1502 | 372 |
+| 2005–2006 | 1638 | 1262 | 376 |
+| 2007–2008 | 1524 | 978 | 546 |
+| 2009–2010 | 1472 | 904 | 568 |
+
+5,676 statutes remain held across these sessions. Their exclusion means this historical addition is partial. No earlier consolidated edition is claimed. The 2011–2012, 2013–2014 and pre-baseline portion of 2015–2016 sessions remain outside this addition.
+
+To read an enacted statute, open its `law.md` file or use `git show HEAD:session-laws/1989/chapter-1/law.md` with the appropriate year and chapter. `tools/ca.py` continues to read the consolidated code history.
+
+AI assistance for this addition: GPT-6 wrote the deterministic collection and validation code. Every law word is copied from official XML; no model edited law text.
