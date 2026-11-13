@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 499 (AB 1662)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1006 of the Education Code is amended to read:1006. (a) Any registered voter is eligible to be a member of the county board of education except the county superintendent of schools or any member of his or her staff, or any employee of a school district that is within the jurisdiction of the county board of education.  (b) Notwithstanding any other law, the county board of education may adopt or the residents of the county may propose, by initiative, a proposal to limit or repeal a limit on the number of terms a member of the county board of education may serve on the county board of education. Any proposal to limit the number of terms a member of the county board of education may serve on the county board of education shall apply
+				  prospectively only and shall not become operative unless it is submitted to the electors of the county at a regularly scheduled election and a majority of the votes cast on the question favor the adoption of the proposal.  (c) An initiative measure proposed pursuant to subdivision (b) shall be subject to the procedures set forth in Chapter 2 (commencing with Section 9100) of Division 9 of the Elections Code. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18190.lob
