@@ -1,0 +1,6 @@
+# Stats. 2013, ch. 84 (AB 1160)
+
+The people of the State of California do enact as follows:SECTION 1.Section 11704 of the Probate Code is amended to read:11704. (a) The court shall consider as evidence in the proceeding any statement made in a petition filed under Section 11700 and any statement of interest filed under Section 11702. The court shall not hear or consider a petition filed after the time prescribed in Section 11700.   (b) (1) The personal representative may petition the court for authorization to participate, as necessary to assist the court, in the proceeding. Notice of the hearing on the petition shall be given to the persons identified in Section 11701 in the manner provided in Section 1220.  (2) The court may grant or deny this petition, in whole or in part, on the pleadings, without an evidentiary hearing or further discovery. A petition filed pursuant to this subdivision may be granted only upon a showing of good cause. The court shall
+						determine the manner and capacity in which the personal representative may provide assistance in the proceeding. The court may direct the personal representative to file papers as a party to the proceeding, or to take other specified action, if deemed by the court to be necessary to assist the court. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_6880.lob
