@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 160 (AB 2410)
+
+The people of the State of California do enact as follows:SECTION 1.Section 20 is added to the Elections Code, to read:20. (a) A person shall not be considered a candidate for, and is not eligible to be elected to, any state or local elective office if the person has been convicted of a felony involving accepting or giving, or offering to give, any bribe, the embezzlement of
+						public money, extortion or theft of public money, perjury, or conspiracy to commit any of those crimes.  (b) For purposes of this section, “conviction of a felony” includes a conviction of a felony in this state and a conviction under the laws of any other state, the United States, or any foreign government or country of a crime that, if committed in this state, would be a felony, and for which the person has not received a pardon from the Governor of this state, the governor or other officer authorized to grant pardons in another state, the President of the United States, or the officer of the foreign government or country authorized to grant pardons in that foreign jurisdiction. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_16041.lob
