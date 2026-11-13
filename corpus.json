@@ -16,7 +16,7 @@
     "when_absent": "the codes record no case-by-case scope; a statute's application is in its own text and uncodified sections",
     "default_reach": {
       "rule": "presumption against retroactivity",
-      "authority": "Cal. Civ. Code \u00a7 3 (\"No part of it is retroactive, unless expressly so declared.\")",
+      "authority": "Cal. Civ. Code § 3 (\"No part of it is retroactive, unless expressly so declared.\")",
       "decided_here": false
     }
   },
@@ -35,17 +35,18 @@
       "2005",
       "2007",
       "2009",
-      "2011 (partial)"
+      "2011 (partial)",
+      "2012 (partial)"
     ],
-    "statutes": 18193,
-    "held": 6021,
+    "statutes": 19063,
+    "held": 6027,
     "text_status": "as enacted",
     "path": "session-laws",
     "consolidated_history_unchanged": true,
     "pending_sessions": [
-      "2011\u20132012 remainder",
-      "2013\u20132014",
-      "2015\u20132016 before 2016-11-27"
+      "held 2011–2012 statutes",
+      "2013–2014",
+      "2015–2016 before 2016-11-27"
     ]
   }
 }
