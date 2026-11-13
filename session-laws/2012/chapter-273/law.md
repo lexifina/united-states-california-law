@@ -1,0 +1,7 @@
+# Stats. 2012, ch. 273 (SB 1103)
+
+The people of the State of California do enact as follows:SECTION 1.Section 69433.2 of the Education Code is amended to read:69433.2. (a) As a condition for its voluntary participation in the Cal Grant Program, each Cal Grant participating institution shall, beginning in 2012, annually report to the commission, and as further specified in the institutional participation agreement, both of the following for its undergraduate programs:  (1) Enrollment, persistence, and graduation data for all students, including aggregate information on Cal Grant recipients.  (2) The job placement rate and salary and wage information for each program that is either designed or advertised to lead to a particular type of job or advertised or promoted with a claim regarding job
+						placement.  (b) Commencing the year after the commission begins to receive reports pursuant to subdivision (a), the commission shall provide both of the following on its Internet Web site:  (1) The information submitted by a Cal Grant participating institution pursuant to subdivision (a), which shall be made available in a searchable database.  (2) Other information and links that are useful to students and parents who are in the process of selecting a college or university.
+						This information may include, but not be limited to, local occupational profiles available through the Employment Development Department’s Labor Market Information Data Library. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17431.lob
