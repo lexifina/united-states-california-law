@@ -1,0 +1,5 @@
+# Stats. 2012, ch. 138 (AB 1458)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14534.1 is added to the Government Code, to read:14534.1. Notwithstanding Section 12850.6 or subdivision (b) of Section 12800, as added to this code by the Governor’s Reorganization Plan No. 2 of 2012 during the 2011–12 Regular Session, the commission shall retain independent authority to perform those duties and functions prescribed to it under this part. SEC. 2. (a) Section 1 of this act shall become operative only if the Governor’s Reorganization Plan No. 2 of 2012 becomes effective.   (b) Except as otherwise provided in subdivision (a), Section 1 of this act shall become operative on July 1, 2013.   (c) Section 1 of this act shall prevail over any provision of the Governor’s Reorganization Plan No. 2 of 2012, regardless of the dates on which this act and that plan take effect. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_16023.lob
