@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 573 (SB 754)
+
+The people of the State of California do enact as follows:SECTION 1.Section 54029 is added to the Education Code, to read:54029. As a condition of the receipt of economic impact aid funds, a school district shall post in an easily accessible location on its Internet Web site data related to economic impact aid funding, for purposes of budget transparency, including all of the following:  (a) The amount of economic impact aid allocated to the school district in that fiscal year.  (b) The amount of economic impact aid used by the school district for administrative costs in that fiscal year.  (c) The amount of economic impact aid expended for limited-English-proficient pupils in that fiscal year and the prior fiscal year by the school district and by each school within
+						the district.  (d) The amount of economic impact aid expended for state compensatory education in that fiscal year and the prior fiscal year by the school district and by each school within the district.  (e) The amount of unexpended economic impact aid and an explanation of why these funds have not been expended. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18420.lob
