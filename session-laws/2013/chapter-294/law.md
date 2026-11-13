@@ -1,0 +1,6 @@
+# Stats. 2013, ch. 294 (AB 545)
+
+The people of the State of California do enact as follows:SECTION 1.Section 362.7 of the Welfare and Institutions Code is amended to read:362.7. When the home of a nonrelative extended family member is being considered for placement of a child, the home shall be evaluated, and approval of that home shall be granted or denied, pursuant to the same standards set forth in the regulations for the licensing of foster family homes that prescribe standards of safety and sanitation for the physical plant and standards for basic personal care, supervision, and services provided by the caregiver.  A “nonrelative extended family member” is defined as an adult caregiver who has an established familial relationship with a relative of the child, as
+						defined in paragraph (2) of subdivision (c) of Section 361.3, or a familial or mentoring relationship with the child. The county welfare department shall verify the existence of a relationship through interviews with the parent and child or with one or more third parties. The parties may include relatives of the child, teachers, medical professionals, clergy, neighbors, and family friends. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_8284.lob
