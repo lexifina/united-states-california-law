@@ -1,0 +1,22 @@
+# Stats. 2012, ch. 586 (AB 2307)
+
+The people of the State of California do enact as follows:SECTION 1.Section 45298 of the Education
+		  Code is amended to read:45298. (a) A person laid off because of lack of work or lack of funds shall be eligible
+				  for reemployment for a period of 39 months
+				  as follows:  (1) The person’s reemployment shall take preference over new applicants.  (2) The person shall have the right to participate in promotional examinations within the district during the period of 39 months.  (3) If the person is reemployed in a new position and fails to complete the probationary period in the new position, he or she shall be returned to the reemployment list for the remainder of the 39-month period. The remaining time period shall be calculated as the time remaining in the 39-month period as of the date of reemployment.  (b) An employee who takes a
+				  voluntary
+				  demotion or a voluntary reduction in assigned time in lieu of layoff or to remain in his or her
+				  present position rather than be reclassified or reassigned, shall be granted the same rights as persons laid off and shall retain eligibility to be considered for reemployment for an additional period of up to 24 months, provided that the same tests of fitness under which the employee qualified for appointment to the class
+				  still apply. The personnel commission shall make the determination of the specific period eligibility for reemployment on a class-by-class basis.  (c) An employee who takes a voluntary
+				  demotion or a voluntary reduction in assigned time in lieu of layoff shall be, at the option of the employee, returned to a position in his or her former class or to a position with increased assigned time as vacancies become available, and without limitation of time, but
+				  if there is a valid reemployment list the employee shall be ranked on that list in accordance with his or her proper seniority. SEC. 2.Section 88117 of the Education
+		  Code is amended to read:88117. (a) A person laid off because of lack of work or lack of funds shall be eligible
+				  for reemployment for a period of 39 months
+				  as follows:  (1) The person’s reemployment shall take preference over new applicants.  (2) The person shall have the right to participate in promotional examinations within the district during the period of 39 months.  (3) If the person is reemployed in a new position and fails to complete the probationary period in the new position, he or she shall be returned to the reemployment list for the remainder of the 39-month period. The remaining time period shall be calculated as the time remaining in the 39-month period as of the date of reemployment.  (b) An employee who
+				  takes a voluntary demotion or a voluntary reduction in assigned time in lieu of layoff or to remain in his or her
+				  present position rather than be reclassified or reassigned, shall be granted the same rights as persons laid off and shall retain eligibility to be considered for reemployment for an additional period of up to 24 months, provided that the same tests of fitness under which the employee qualified for appointment to the class
+				  still apply. The personnel commission shall make the determination of the specific period of eligibility for reemployment on a class-by-class basis.  (c) An employee who takes a voluntary
+				  demotion or a voluntary reduction in assigned time in lieu of layoff shall be, at the option of the employee, returned to a position in his or her former class or to a position with increased assigned time as vacancies become available, and without limitation of time, but
+				  if there is a valid reemployment list the employee shall be ranked on that list in accordance with his or her proper seniority. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18433.lob
