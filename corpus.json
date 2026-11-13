@@ -34,15 +34,16 @@
       "2003",
       "2005",
       "2007",
-      "2009"
+      "2009",
+      "2011 (partial)"
     ],
-    "statutes": 17777,
-    "held": 5676,
+    "statutes": 18193,
+    "held": 6021,
     "text_status": "as enacted",
     "path": "session-laws",
     "consolidated_history_unchanged": true,
     "pending_sessions": [
-      "2011\u20132012",
+      "2011\u20132012 remainder",
       "2013\u20132014",
       "2015\u20132016 before 2016-11-27"
     ]
