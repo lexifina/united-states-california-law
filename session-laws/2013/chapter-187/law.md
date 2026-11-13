@@ -1,0 +1,5 @@
+# Stats. 2013, ch. 187 (AB 918)
+
+The people of the State of California do enact as follows:SECTION 1. The Legislature finds and declares all of the following:  (a) Too little of the State Emergency Plan is dedicated to senior citizens and the functional needs of disabled persons.  (b) The State Emergency Plan was updated in 2009 and is planned to be updated again in 2014.  (c) The California Senior Legislature memorialized its request to the Legislature and the Governor to enact legislation to ensure that senior citizens and disabled persons are prepared to be mobilized and evacuated in the event of an emergency or natural disaster. SEC. 2.Section 8570.3 is added to the Government Code, to read:8570.3. On or before July 31, 2015, the Office of Emergency Services shall update the State Emergency Plan to include proposed best practices for local governments and nongovernmental entities to use to mobilize and evacuate people with disabilities and others with access and functional needs during an emergency or natural disaster. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_7678.lob
