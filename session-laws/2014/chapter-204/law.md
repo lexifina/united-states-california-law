@@ -1,0 +1,7 @@
+# Stats. 2014, ch. 204 (AB 675)
+
+The people of the State of California do enact as follows:SECTION 1.Section 87606 of the Education Code is amended to read:87606. (a) An employment contract shall contain the terms and conditions that the governing board of the district and the proposed employee agree to and that are consistent with the law.  (b) A faculty member may be deemed to have completed the second, third, or fourth contract year, as appropriate, if the faculty member provides service for a percentage of the academic year as is required in an agreement between the governing board of the district and the exclusive bargaining representative
+						of the faculty member. Time spent on paid or unpaid leave of absence may be included in computing service if the faculty member serves sufficient time during the year to allow for the evaluation of the faculty member as required by any negotiated evaluation procedure. For purposes of this subdivision, the paid or unpaid leave of absence may include, but is not limited to, any of the following:  (1) Leave for reason of the birth of and bonding with a child or
+						bonding with an adopted or foster child.  (2) Leave to care for a parent, spouse, or child with a serious health condition.   (3) Leave because of an employee’s own serious health condition. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_16910.lob
