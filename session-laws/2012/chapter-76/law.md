@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 76 (AB 1621)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2248 of the Business and Professions Code is amended to read:2248. This section shall be known as, and may be cited as, the Grant H. Kenyon Prostate Cancer Detection Act.  (a) If a physician and surgeon, during a physical examination, examines a patient’s prostate gland, the physician and surgeon shall provide information to the patient about the availability of appropriate diagnostic procedures, including, but not limited to, the prostate antigen (PSA) test, if any of the following conditions are present:  (1) The patient is over 50 years of age.  (2) The patient manifests clinical symptomatology.  (3) The patient is at an
+				  increased risk of prostate cancer.  (4) The provision of the information to the patient is medically necessary, in the opinion of the physician and surgeon.  (b) Violation of subdivision (a) constitutes unprofessional conduct and is not subject to Section 2314.  (c) This section shall not apply to a physician and surgeon working on a trauma case as defined in Section 1798.160 of the Health and Safety Code. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_15741.lob
