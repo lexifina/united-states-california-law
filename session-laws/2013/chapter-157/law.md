@@ -1,0 +1,5 @@
+# Stats. 2013, ch. 157 (AB 133)
+
+The people of the State of California do enact as follows:SECTION 1.Section 60063 is added to the Education Code, to read:60063. (a) A publisher or manufacturer that submits a printed instructional material for adoption by the state board pursuant to Section 60200 or the governing board of a school district pursuant to Section 60400, or for use by the governing board of a school district pursuant to Section 60210, on or after January 1, 2014, shall ensure that the printed instructional material is also available in an equivalent digital format during the entire term of the adoption.  (b) The equivalent digital format of a printed instructional material shall conform to the most current, ratified standards under Section 508 of the federal Rehabilitation Act of 1973 (29 U.S.C. Sec. 794d), as amended, and the Web Content Accessibility Guidelines adopted by the World Wide Web Consortium for accessibility. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_7381.lob
