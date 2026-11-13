@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 574 (SB 960)
+
+The people of the State of California do enact as follows:SECTION 1.Section 89711 is added to the Education Code, to read:89711. (a) Except as provided for in subdivision (b), a California State University campus-based mandatory fee established through an affirmative vote of the majority of the student body voting on the fee, but not specifically authorized by statute, shall not be reallocated without an affirmative vote of a majority of the members of either the student body or a campus fee advisory committee established under the policies of the California State University voting on the fee reallocation.  (b) A California State University campus-based mandatory fee established through an
+						affirmative vote of the majority of the student body voting on the fee, but not specifically authorized by statute, may be reallocated without an affirmative vote of a majority of the members of either the student body or a campus fee advisory committee voting on the fee if the vote that established the fee authorized an alternative or automatic reallocation mechanism for that fee.  (c) This section shall not apply to campus-based fees approved prior to the enactment of this section. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18421.lob
