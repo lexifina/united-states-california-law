@@ -1,0 +1,7 @@
+# Stats. 2013, ch. 120 (AB 11)
+
+The people of the State of California do enact as follows:SECTION 1.Section 230.4 of the Labor Code is amended to read:230.4. (a) An employee who performs duty as a volunteer firefighter, a reserve peace officer, or as emergency rescue personnel, as defined in Section 230.3, and who works for an
+						employer employing 50 or more employees, shall be permitted to take temporary leaves of absence, not to exceed an aggregate of 14 days per calendar year, for the purpose of engaging in fire,  law enforcement, or emergency rescue training.  (b) An employee who works for an employer employing 50 or more employees who is discharged, threatened with discharge, demoted, suspended, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because the employee has taken time off to engage in fire,
+						law enforcement, or emergency rescue training as provided in subdivision (a), is entitled to reinstatement and reimbursement for lost wages and work benefits caused by the acts of the employer.  (c) An employee seeking reinstatement and reimbursement pursuant to this section may file a complaint with the Division of Labor Standards Enforcement in accordance with Section 98.7, and upon receipt of this type of complaint, the Labor Commissioner shall proceed as provided in that section.  
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_7344.lob
