@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 378 (SB 736)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2006.2 is added to the Streets and Highways Code, to read:2006.2. (a) Notwithstanding any other provision of law, the Board of Supervisors of Merced County may abolish the office of road commissioner if the board transfers all duties of the road commissioner to the county director of the department of public works. The director of that department shall not be required to have any special permit, registration, or license. Any civil engineering functions that are required to be performed by the road commissioner shall be performed by a registered civil engineer acting under the authority of the director of that
+						department.  (b) This section shall remain in effect only until January 1, 2018, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2018, deletes or extends that date. SEC. 2. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the particular needs of Merced County. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17384.lob
