@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 326 (SB 628)
+
+The people of the State of California do enact as follows:SECTION 1.Section 4936 is added to the Business and Professions Code, to read:4936. (a) It is unprofessional conduct for an acupuncturist to use the title “Doctor” or the abbreviation “Dr.” in connection with the practice of acupuncture unless he or she possesses a license that authorizes the use or possesses an earned doctorate degree from an accredited, approved, or authorized educational institution as set forth under Chapter 8 (commencing with Section 94800) of Part 59 of Division 10 of Title 3 of the Education Code, which is in acupuncture, oriental medicine, a biological science, or is otherwise related to the authorized practice of an acupuncturist as set forth in Sections 4927 and 4937.  (b) The use of the title “Doctor” or the abbreviation
+						“Dr.” by an acupuncturist as authorized in subdivision (a) without further indicating the type of license or degree which authorizes that use shall constitute unprofessional conduct. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17899.lob
