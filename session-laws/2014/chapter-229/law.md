@@ -1,0 +1,6 @@
+# Stats. 2014, ch. 229 (AB 1455)
+
+The people of the State of California do enact as follows:SECTION 1.Section 48900.9 is added to the Education Code, to read:48900.9. (a) The superintendent of a school district, the principal of a school, or the principal’s designee may refer a victim of, witness to, or other pupil affected by, an act of bullying, as defined in paragraph (1) of subdivision (r) of Section 48900, committed on or after January 1, 2015, to the school counselor, school psychologist, social worker, child welfare attendance personnel, school nurse, or other school support service personnel for case management, counseling, and participation in a restorative justice program, as appropriate.   (b) A student who has engaged in an act of bullying, as defined in paragraph (1) of subdivision (r) of Section 48900, may also be referred to the
+				  school counselor, school psychologist, social worker, child welfare attendance personnel, or other school support service personnel for case management and counseling, or for participation in a restorative justice program, pursuant to Section 48900.5. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_17395.lob
