@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 238 (AB 1724)
+
+The people of the State of California do enact as follows:SECTION 1.Section 14224 of the Elections Code is amended to read:14224. (a) Except as provided in Section 14222, a voting booth or compartment shall not be occupied by more than one person at a time, unless the voter is eligible under the assisted-voter provisions.  (b) (1) Except as provided in paragraph (2), a voter shall not remain in or occupy a voting booth or compartment longer than is necessary to mark his or her ballot, which shall not exceed 10 minutes.  (2) If a voter informs a precinct board member that the voter requires additional time to mark his or her ballot, a longer period shall be allowed. However, if the precinct board member determines that the voter
+				  is attempting to interfere with the conduct of the election and does not require additional time to mark his or her ballot, the precinct board member may contact the elections official, who may order that the voter not be provided with additional time to mark his or her ballot. SEC. 2.Section 19363 of the Elections Code is repealed.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17593.lob
