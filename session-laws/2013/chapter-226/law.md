@@ -1,0 +1,6 @@
+# Stats. 2013, ch. 226 (AB 165)
+
+The people of the State of California do enact as follows:SECTION 1.Section 8490 of the Fish and Game Code is repealed.SEC. 2.Section 8491 of the Fish and Game Code is amended and renumbered to read:8490. The taking of crayfish shall be subject to regulations as prescribed by the commission. SEC. 3.Section 8491 is added to the Fish and Game Code, to read:8491. (a) Any allowance for the commercial taking of crayfish in Lake Tahoe or in the Lake Tahoe Basin shall be for the primary purpose of population reduction and control of the signal crayfish, an invasive species. The commercial taking of crayfish may be allowed only to the extent that it is consistent with state goals for management of invasive species and other environmental standards, including an environmental analysis conducted by the  Tahoe Regional Planning Agency or another appropriate lead agency for each proposed individual harvest operation.  (b) The commission
+						shall ensure that, with respect to the taking of crayfish for commercial purposes in Lake Tahoe or in the Lake Tahoe Basin, the commission’s regulations are consistent with the Lake Tahoe Region Aquatic Invasive Species Management Plan, as amended. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_8259.lob
