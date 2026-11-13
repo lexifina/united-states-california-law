@@ -1,0 +1,5 @@
+# Stats. 2011, ch. 125 (SB 206)
+
+The people of the State of California do enact as follows:SECTION 1.The sum of six hundred thousand dollars ($600,000) is hereby appropriated from the State Board of Chiropractic Examiners’ Fund to the State Board of Chiropractic Examiners to pay for the settlement in the case of Catherine Hayes v. Board of Chiropractic Examiners (Sacramento County Superior Court, Case No. 34-2008-0000647). Any funds appropriated in excess of the amounts required for the payment of this claim shall revert to the State Board of Chiropractic Examiners’ Fund on June 30 of the fiscal year in which the final payment is made.SEC. 2.This act is an urgency statute necessary for the immediate preservation of the public peace, health, or safety within the meaning of Article IV of the Constitution and shall go into immediate effect. The facts constituting the necessity are:In order to pay judgment and settlement claims against the state and end hardship to claimants as quickly as possible, it is necessary for this act to take effect immediately.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_6621.lob
