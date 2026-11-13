@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">California law as a git history</text>
+<rect x="306.6" y="24.5" width="61" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="337.0" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">1e4f3f8</text>
+<rect x="375.4" y="24.5" width="157" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="453.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">record to Oct 25, 2026</text>
+<rect x="540.2" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="615.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">freshness: unverified</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">30</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">acts</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">8,126</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">changes, as commits</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">165,451</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">provision files</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">7,507</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">laws and publishers credited</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2016–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">years of history</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Changes by the year they took effect</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">1,000</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">2,000</text>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2006</text>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2008</text>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2012</text>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2014</text>
+<rect x="442.53" y="329.0" width="34.94" height="1.5" rx="1.5" fill="#1f883d"><title>2016: 2 changes took effect</title></rect>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2016</text>
+<rect x="478.67" y="256.2" width="34.94" height="74.3" rx="1.5" fill="#1f883d"><title>2017: 991 changes took effect</title></rect>
+<rect x="514.81" y="256.7" width="34.94" height="73.8" rx="1.5" fill="#1f883d"><title>2018: 984 changes took effect</title></rect>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2018</text>
+<rect x="550.96" y="250.5" width="34.94" height="80.0" rx="1.5" fill="#1f883d"><title>2019: 1,067 changes took effect</title></rect>
+<text x="568.4" y="244.5" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">1,067 in 2019</text>
+<rect x="587.10" y="276.3" width="34.94" height="54.2" rx="1.5" fill="#1f883d"><title>2020: 723 changes took effect</title></rect>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<rect x="623.24" y="301.4" width="34.94" height="29.1" rx="1.5" fill="#1f883d"><title>2021: 388 changes took effect</title></rect>
+<rect x="659.39" y="284.2" width="34.94" height="46.3" rx="1.5" fill="#1f883d"><title>2022: 617 changes took effect</title></rect>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2022</text>
+<rect x="695.53" y="270.9" width="34.94" height="59.6" rx="1.5" fill="#1f883d"><title>2023: 795 changes took effect</title></rect>
+<rect x="731.67" y="273.8" width="34.94" height="56.7" rx="1.5" fill="#1f883d"><title>2024: 756 changes took effect</title></rect>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2024</text>
+<rect x="767.81" y="260.9" width="34.94" height="69.6" rx="1.5" fill="#1f883d"><title>2025: 928 changes took effect</title></rect>
+<rect x="803.96" y="264.9" width="34.94" height="65.5" rx="1.5" fill="#1f883d"><title>2026: 874 changes took effect</title></rect>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">8,125 changes dated by their in-force day; 1 carry no in-force date. History type: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completeness, checked against the official sources on Nov 13, 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constitution</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">held in the repository</text>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">held</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">State code</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">29 of 29 codes</text>
+<g><title>State code: 100%</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Amendment history</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">8,128 commits, each dated by In-force…</text>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">in-force history</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Case law</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">144,126 of the 144,162 published decisions in CAP (to 2018)</text>
+<g><title>Case law: 100%</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Local law</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">county and city ordinances</text>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e">none held</text>
+<text x="456.0" y="518.5" font-size="13" fill="#1f2328">Verdict</text>
+<text x="456.0" y="534.5" font-size="11.5" fill="#59636e">Holds all 29 California Codes (165,080 section files) and the…</text>
+<text x="839.5" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#59636e"></text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Correctness of what is held</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Changes with an in-force date</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">share of changes</text>
+<g><title>Changes with an in-force date: 100%</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Changes citing their official source</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">a Source line or link in the commit</text>
+<g><title>Changes citing their official source: 100%</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100%</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Checked against the official source</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">California Legislative Counsel</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">unknown</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">global-law's checks</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">0 problems, 1 warning</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f883d">passes</text>
+<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Corpora for this state in global-law</text>
+<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">state acts: 1, case law: 3</text>
+<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">4</text>
+<text x="456.0" y="684.5" font-size="13" fill="#1f2328">Record runs to</text>
+<text x="456.0" y="700.5" font-size="11.5" fill="#59636e">freshness status: unverified</text>
+<text x="839.5" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">Oct 25, 2026</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/united-states-california-law at 1e4f3f8, built 2026-11-13. Changes exclude documentation commits. Scope: from 2016</text>
+</svg>
