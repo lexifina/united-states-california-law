@@ -1,0 +1,7 @@
+# Stats. 2012, ch. 97 (AB 1854)
+
+The people of the State of California do enact as follows:SECTION 1.Section 27317 of the Vehicle Code is amended to read:27317. A person who installs, reinstalls, rewires, tampers with, alters, or modifies for compensation, a vehicle’s computer system or supplemental restraint system, including, but not limited to, the supplemental restraint system’s on-board
+						system performance indicators, so that it falsely indicates the supplemental restraint system is in proper working order, or who knowingly distributes or sells a previously deployed air bag or previously deployed air bag component that will no longer meet the original equipment manufacturing form or function for proper operation, is guilty of a misdemeanor punishable by a fine of up to five thousand dollars ($5,000) or by imprisonment in a county jail for up to one year, or by both the fine and
+						imprisonment. SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_15775.lob
