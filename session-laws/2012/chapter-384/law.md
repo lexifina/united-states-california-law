@@ -1,0 +1,5 @@
+# Stats. 2012, ch. 384 (SB 1219)
+
+The people of the State of California do enact as follows:SECTION 1.Section 42254 of the Public Resources Code is amended to read:42254. (a) This chapter does not prohibit the adoption, implementation, or enforcement of any local ordinance, resolution, regulation, or rule governing curbside or drop off recycling programs operated by, or pursuant to a contract with, a city, county, or other public agency, including any action relating to fees for these programs.  (b) This chapter does not affect any contract, franchise, permit, license, or other arrangement regarding the collection or recycling of solid waste or household hazardous waste. SEC. 2.Section 42257 of the Public Resources Code is amended to read:42257. This chapter shall remain in effect only until January 1, 2020, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2020, deletes or extends that date. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17391.lob
