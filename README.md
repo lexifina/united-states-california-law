@@ -90,7 +90,7 @@ released under [CC BY 4.0](LICENSE.md).
 
 ## Earlier session laws, as enacted
 
-20,456 historical chaptered statutes from the 1989–1990 through 2013–2014 sessions are preserved under `session-laws/<year>/chapter-<number>/law.md` (extraordinary sessions use `ex-<session>-chapter-<number>`). These are the complete normative bodies of the chaptered statutes, as enacted, from the Legislative Counsel’s prior-session archives. They are separate from the consolidated code history, which still begins on 2016-11-27. They do not establish every code section’s text on an earlier day.
+20,922 historical chaptered statutes from the 1989–1990 through the pre-baseline portion of the 2015–2016 session are preserved under `session-laws/<year>/chapter-<number>/law.md` (extraordinary sessions use `ex-<session>-chapter-<number>`). These are the complete normative bodies of the chaptered statutes, as enacted, from the Legislative Counsel’s prior-session archives. They are separate from the consolidated code history, which still begins on 2016-11-27. They do not establish every code section’s text on an earlier day.
 
 Each added statute has a labelled correction commit with its effective date and source. Immediate-effect statutes use their official filing date; eligible regular-session statutes use Government Code § 9600(a), whose source history records its last amendment as Stats. 1973, ch. 7. Special-session statutes without an explicit immediate-effect clause, possible commencement exceptions, late enactments, missing text and normative images remain held. The published history is preserved.
 
@@ -112,8 +112,19 @@ Each added statute has a labelled correction commit with its effective date and 
 | 2013 (from the 2013–2014 archive) | 804 | 465 | 339 |
 | 2014 (from the 2013–2014 archive) | 931 | 928 | 3 |
 
-6,369 statutes remain held across these sessions. Their exclusion means this historical addition is partial. No earlier consolidated edition is claimed. Held earlier statutes and the pre-baseline portion of 2015–2016 remain outside this addition. The 2011 additions use the Legislative Counsel’s `pubinfo_2011.zip` archive: 117 immediate-effect statutes use their official filing dates, and 299 regular-session statutes use the January 1 commencement rule in Government Code § 9600(a). Special-session statutes, late or specific commencement cases, missing text and normative images remain held. The 2012 additions comprise 114 immediate-effect statutes dated by their official filing dates and 756 regular-session statutes dated January 1, 2013 under Government Code § 9600(a). Six 2012 image-bearing statutes remain held. The 2013 additions comprise 108 immediate-effect statutes dated by official filing dates and 357 regular statutes dated January 1, 2014. The 2014 additions comprise 118 immediate-effect statutes dated by official filing dates and 810 regular statutes dated January 1, 2015. Of the 2013 holds, 330 require specific commencement review, five are special-session statutes, and four contain normative images; three 2014 statutes contain normative images. These images have not been added to law text pending live asset support.
+6,853 statutes remain held across these sessions. Their exclusion means this historical addition is partial. No earlier consolidated edition is claimed. Held earlier statutes remain outside this addition; the pre-baseline portion of 2015–2016 is now partially included. The 2011 additions use the Legislative Counsel’s `pubinfo_2011.zip` archive: 117 immediate-effect statutes use their official filing dates, and 299 regular-session statutes use the January 1 commencement rule in Government Code § 9600(a). Special-session statutes, late or specific commencement cases, missing text and normative images remain held. The 2012 additions comprise 114 immediate-effect statutes dated by their official filing dates and 756 regular-session statutes dated January 1, 2013 under Government Code § 9600(a). Six 2012 image-bearing statutes remain held. The 2013 additions comprise 108 immediate-effect statutes dated by official filing dates and 357 regular statutes dated January 1, 2014. The 2014 additions comprise 118 immediate-effect statutes dated by official filing dates and 810 regular statutes dated January 1, 2015. Of the 2013 holds, 330 require specific commencement review, five are special-session statutes, and four contain normative images; three 2014 statutes contain normative images. These images have not been added to law text pending live asset support.
 
 To read an enacted statute, open its `law.md` file or use `git show HEAD:session-laws/1989/chapter-1/law.md` with the appropriate year and chapter. `tools/ca.py` continues to read the consolidated code history.
 
 AI assistance for this addition: GPT-6 wrote the deterministic collection and validation code. Every law word is copied from official XML; no model edited law text.
+
+## 2015–2016 session laws before the consolidated baseline
+
+This addition preserves 466 further as-enacted chaptered statutes effective before November 27, 2016. Each law is dated by its own immediate-effect clause and official filing date, or by Government Code § 9600(a) for eligible regular-session laws. The consolidated code history remains separate. Laws with uncertain commencement, incomplete normative source text or normative images are held.
+
+| Enactment year | Official chaptered records | Added here | Held | Outside pre-baseline range |
+| --- | ---: | ---: | ---: | ---: |
+| 2015 | 808 | 381 | 427 | 0 |
+| 2016 | 900 | 85 | 57 | 758 |
+
+These are enacted session laws, including uncodified provisions. They do not establish a pre-2016 consolidated edition. No law wording was written or corrected by a model.
