@@ -1,0 +1,9 @@
+# Stats. 2014, ch. 814 (AB 2295)
+
+The people of the State of California do enact as follows:SECTION 1.Section 87782 of the Education Code is amended to read:87782. (a) An academic employee of a community college district who has been an employee of that district for a period of one school year or more shall have transferred with him or her to a second district the total amount of leave of absence for illness or injury to which he or she is entitled under
+						Section 87781 in any of the following circumstances:  (1) The person accepts an academic position in a school district or community college district at any time during the second or any succeeding school year of his or her employment with the first
+						district.  (2) The person, within the three school years succeeding the school year in which the employment in the first district is terminated, signifies acceptance of his or her election or employment in an academic position in another
+						district.  (3) The person, prior to the expiration of a period greater than three years during which the employee’s reemployment rights are in effect under a local bargaining agreement in the first district, signifies acceptance of his or her election or employment in an academic position in another district.  (b) The board of governors shall adopt rules and regulations
+						prescribing the manner in which the first district shall certify to the second district the total amount of leave of absence for illness or injury to be transferred. No governing board shall adopt any policy or rule, written or unwritten, which requires any employee transferring to its district to waive any part or all of the leave of absence which he or she may be entitled to have transferred in accordance with this section. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18865.lob
