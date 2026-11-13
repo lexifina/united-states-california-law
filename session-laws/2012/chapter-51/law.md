@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 51 (AB 482)
+
+The people of the State of California do enact as follows:SECTION 1.Section 20751.2 is added to the Public Contract Code, to read:20751.2. Notwithstanding Section 20751, the board of the Ventura Port District may award a contract for the performance of dredging work within the district’s boundaries without competitive bidding, provided that both of the following apply:  (a) The dredging contractor was selected through a federal competitive bidding process for a federal dredging project then underway in the County of Ventura.  (b) The board makes written findings, based on substantial evidence in the record, that the contract awarded pursuant to this section is likely to cost less than a contract awarded pursuant to Section
+						20751. SEC. 2. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique existence of an existing federal competitive bidding process for federal dredging projects in the County of Ventura, which may be utilized for preselecting dredging contractors for dredging work within the Ventura Port District. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_15723.lob
