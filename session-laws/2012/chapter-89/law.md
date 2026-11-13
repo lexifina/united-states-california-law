@@ -1,0 +1,7 @@
+# Stats. 2012, ch. 89 (AB 1047)
+
+The people of the State of California do enact as follows:SECTION 1. The Legislature finds and declares all of the following:  (a) Other states have established motorcycle only checkpoints to address the growing problem of increased motorcycle fatalities.  (b) It is the intent of the Legislature to prohibit the establishment of motorcycle only checkpoints in California and that this prohibition is in no way intended to affect
+				the establishment or conduct of other enforcement programs conducted by state or local law enforcement agencies. SEC. 2.Section 2814.1 of the Vehicle Code is amended to read:2814.1. (a) A board of supervisors of a county may, by ordinance, establish, on highways under its jurisdiction, a vehicle inspection checkpoint program to check for violations of Sections 27153 and 27153.5. The program shall be conducted by the local agency or department with the primary responsibility for traffic law enforcement.  (b) A driver of a motor vehicle shall stop and submit to an inspection conducted under subdivision (a) when signs and displays are posted requiring that stop.  (c) A county that elects to conduct the program described under subdivision (a) may fund that program through fine proceeds deposited with
+						the county under Section 1463.15 of the Penal Code.  (d) State and local law enforcement agencies shall not conduct motorcycle only checkpoints. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_15767.lob
