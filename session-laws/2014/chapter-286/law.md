@@ -1,0 +1,10 @@
+# Stats. 2014, ch. 286 (AB 1912)
+
+The people of the State of California do enact as follows:SECTION 1. The Legislature finds and declares all of the following:  (a) The election of Barack Hussein Obama to the office of President of the United States was a historic step in the effort towards equality in the United States.  (b) Before the Civil Rights Movement, intimidation and physical violence prevented millions of African Americans from voting and alienated them from the electoral process.  (c) The Voting Rights Act of 1965 was a civil rights victory that inspired more ethnic minorities to register to vote and pursue elected
+				office.  (d) Barack Obama attended Harvard Law School where he became the first African American president of the Harvard Law Review.  (e) After law school, Barack Obama worked to fulfill the spirit of the Voting Rights Act of 1965 by encouraging people to register to vote.  (f) Barack Obama was first elected to the Illinois State Senate in 1996 and to the United States Senate in 2004.  (g) Senator Barack Obama was elected the 44th President of the United States and first African American President on November 4, 2008, and was sworn in on January 20, 2009.  (h) In honor of his extraordinary efforts
+				to strengthen international diplomacy and cooperation between peoples, President Obama was awarded the Nobel Peace Prize.  (i) President Obama was reelected on November 6, 2012, and
+				was sworn in for his second term on January 20, 2013. SEC. 2.Section 33543 is added to the Education Code, to read:33543. (a) During the next revision of the history-social science curriculum framework, the commission shall consider including, and recommending for adoption by
+						the state board,
+						instruction on the election of President Barack Obama and the significance of the United States electing its first African American President, as appropriate.  (b) The state board shall adopt, modify, or reject the curriculum framework recommended by the commission pursuant to subdivision (a). 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_17790.lob
