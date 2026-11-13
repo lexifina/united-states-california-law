@@ -1,0 +1,8 @@
+# Stats. 2014, ch. 344 (AB 2741)
+
+The people of the State of California do enact as follows:SECTION 1.Section 6510 of the Business and Professions Code is amended to read:6510. (a) There is within the jurisdiction of the department the Professional Fiduciaries Bureau. The bureau is under the supervision and control of the director. The duty of enforcing and administering this chapter is vested in the chief of the bureau, who is responsible to the director. Every power granted or duty imposed upon the director under this chapter may be exercised or performed in the name of the director by a deputy director or by the chief, subject to conditions and limitations as the director may prescribe.  (b) The Governor shall appoint, subject to confirmation by the Senate, the chief of the bureau, at a salary to be fixed and determined by the director with the approval of the
+						Director of Finance. The chief shall serve under the direction and supervision
+						of the director and at the pleasure of the Governor.  (c) (1) This section shall remain in effect only until January 1, 2019, and as of that date is repealed, unless a later enacted statute, that is enacted before January 1, 2019, deletes or extends that date.  (2) Notwithstanding any other provision of law, the repeal of this section renders the bureau subject to review by the appropriate policy committees of the Legislature.  (3) Notwithstanding any other law, upon the repeal of this section, the responsibilities and jurisdiction of the bureau shall be transferred to the
+						Professional Fiduciaries Advisory Committee, as provided by Section 6511. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18483.lob
