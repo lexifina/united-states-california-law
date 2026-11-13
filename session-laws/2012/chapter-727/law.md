@@ -1,0 +1,5 @@
+# Stats. 2012, ch. 727 (SB 12)
+
+The people of the State of California do enact as follows:SECTION 1.Section 35110 of the Vehicle Code is amended to read:35110. (a) Door handles, hinges, cable cinchers, chain binders, aerodynamic devices, and holders for the display of placards warning of hazardous materials may extend three inches on each side of the vehicle.  (b) For purposes of this section, “aerodynamic devices” means devices using technologies that minimize drag and improve airflow over an entire tractor-trailer vehicle. These include gap fairings that reduce turbulence between the tractor and trailer, side skirts that minimize wind under the trailer, and rear fairings that reduce turbulence and pressure drop at the rear of the trailer, provided that these devices shall not adversely impact the vehicle’s swept width and turning characteristics and that the primary purpose of the device is not for advertising. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18094.lob
