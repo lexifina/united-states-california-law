@@ -1,0 +1,6 @@
+# Stats. 2014, ch. 588 (AB 1175)
+
+The people of the State of California do enact as follows:SECTION 1.Section 486 of the Food and Agricultural Code is amended to read:486. Notwithstanding Section 482, the secretary may not enter into a cooperative agreement with a county of the first class, as defined in Section 28022 of the Government Code, for agricultural inspector services, if the cooperative agreement requires that the county provide year-round services, unless not less than 66 percent of the agricultural inspector aides and
+						not less than 75 percent of the agricultural inspector associates not afforded protections as permanent employees employed under the cooperative agreement are afforded protections as permanent employees under the county’s civil service or other personnel system. SEC. 2. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances of agricultural inspector associates in a county of the first class. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18664.lob
