@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 423 (AB 1521)
+
+The people of the State of California do enact as follows:SECTION 1.Section 60640.2 is added to the Education Code, to read:60640.2. (a) Subject to the approval of the state board, the department may make available to school districts and charter schools a primary language assessment developed pursuant to subparagraph (A) of paragraph (3) of subdivision (f) of Section 60640 for assessing pupils who are enrolled in a dual language immersion program that includes the primary language of the assessment and who are either nonlimited English proficient or redesignated fluent English proficient. The cost for the assessment shall be the same for all school districts and charter schools, and shall not exceed the marginal cost of the assessment, including any cost the department incurs to implement this section.  (b) A school district or
+				  charter school that chooses to administer a primary language assessment pursuant to this section shall do so at its own expense, and shall enter into an agreement for that purpose with the state testing contractor, as described in subparagraph (C) of paragraph (3) of subdivision (f) of Section 60640, subject to the approval of the department. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18336.lob
