@@ -1,0 +1,13 @@
+# Stats. 2014, ch. 616 (AB 2672)
+
+The people of the State of California do enact as follows:SECTION 1. The Legislature finds and declares the following:  (a) Many low-income communities throughout California’s San Joaquin Valley lack access to natural gas lines.  (b) Increasing access to affordable energy can improve the health, safety, and air quality of these communities. SEC. 2.Section 783.5 is added to the Public Utilities Code, to read:783.5. (a) For purposes of this section, the following terms have the following meanings:   (1) “Disadvantaged community” means a San Joaquin Valley
+						community that meets all of the following criteria:  (A) At least 25 percent of residential households with electrical service are enrolled in the CARE program pursuant to Section 739.1.  (B) Has a population greater than 100 persons within its geographic boundaries as identified by the most recent United States Census or a community survey.  (C) Has geographic boundaries no farther than seven miles from the nearest natural gas pipeline operated by a gas corporation.  (2) “San Joaquin Valley”
+						means the counties of Fresno,
+						Kern, Kings, Madera, Merced, San Joaquin, Stanislaus,
+						and Tulare.  (b) No later than March 31, 2015, the
+						commission shall initiate a new proceeding to
+						do all of the following:  (1) Identify disadvantaged communities based on the criteria specified in subdivision (a).  (2) Analyze the economic feasibility of the following options:  (A) Extending natural gas pipelines to those disadvantaged communities.  (B) Increasing subsidies for electricity for residential customers in
+						those disadvantaged communities.  (C) Other alternatives that would increase access to affordable energy in those disadvantaged communities that the commission deems appropriate.  (c) The commission shall determine whether any of the options analyzed in the
+						proceeding would increase access to affordable energy in a cost-effective manner. For these options, the commission shall take appropriate action and determine appropriate funding sources. SEC. 3. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstance that the San Joaquin Valley is home to many communities that lack access to natural gas service and it is necessary to ensure more affordable and cleaner alternatives are available. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18647.lob
