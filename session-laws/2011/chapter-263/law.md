@@ -1,0 +1,7 @@
+# Stats. 2011, ch. 263 (SB 374)
+
+The people of the State of California do enact as follows:SECTION 1.Section 19854 of the Business and Professions Code is amended to read:19854.(a)Every key employee shall apply for and obtain a key employee license.(b)No person may be issued a key employee license unless the person would qualify for a state gambling license.(c)(1)Except as provided in paragraph (2), a key employee license shall entitle the holder to work as a key employee in any key employee position at any gambling establishment, provided that the key employee terminates employment with one gambling establishment
+				  before commencing work for another.(2)Notwithstanding paragraph (1), a key employee with a valid personal portable license may work as a key employee in any key employee position in more than one gambling establishment.(d)The commission shall establish a program for portable personal licenses for key employees, as well as a process by which valid key employee licenses then in effect shall be converted to personal portable licenses. The commission may, as part of that process, establish a fee to be paid by a key employee when seeking a personal portable license. The commission shall seek to implement the requirements imposed by this subdivision on or before July 1,
+				  2008.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_7865.lob
