@@ -1,0 +1,5 @@
+# Stats. 2011, ch. 111 (AB 966)
+
+The people of the State of California do enact as follows:SECTION 1.Section 9063.7 is added to the Health and Safety Code, to read:9063.7.Notwithstanding Section 9060, the Davis Cemetery District may use its cemetery at 820 Pole Line Road, Davis, for up to a total of 500 interments, for interment in the ground of any person who is not a resident or a property taxpayer of the district if all of the following apply:(a)The board of trustees determines that the cemetery has adequate space for the foreseeable future.(b)The district has an endowment care fund that requires at least the minimum payment set pursuant to Section 9065.(c)The district requires the payment of a nonresident fee set pursuant to Section 9068.SEC. 2.The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique disparity between the population of the Davis Cemetery District and the availability of cemetery plots.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_6608.lob
