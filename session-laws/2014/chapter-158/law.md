@@ -1,0 +1,6 @@
+# Stats. 2014, ch. 158 (AB 1832)
+
+The people of the State of California do enact as follows:SECTION 1.Section 22505.5 of the Business and Professions Code is amended to read:22505.5. Notwithstanding Section 22503.5, 22503.6, 22504, or 22511, it shall be unlawful for a person to intentionally use or sell software to circumvent a
+						security measure, access control system, or other control or measure that is used to ensure an equitable ticket buying process. SEC. 2. No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_16164.lob
