@@ -1,0 +1,5 @@
+# Stats. 2014, ch. 62 (AB 2379)
+
+The people of the State of California do enact as follows:SECTION 1.Section 15610.55 of the Welfare and Institutions Code is amended to read:15610.55. (a) “Multidisciplinary personnel team” means any team of two or more persons who are trained in the prevention, identification, management, or treatment of abuse of elderly or dependent adults and who are qualified to provide a broad range of services related to abuse of elderly or dependent adults.  (b) A multidisciplinary personnel team may include, but need not be limited to, any of the following:  (1) Psychiatrists, psychologists, or other trained counseling personnel.  (2) Police officers or other law enforcement agents.  (3) Medical personnel with sufficient training to provide health services.  (4) Social workers with experience or training in prevention of abuse of elderly or dependent adults.  (5) Public guardians.  (6) The local long-term care ombudsman.  (7) Child welfare services personnel. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_15481.lob
