@@ -1,0 +1,6 @@
+# Stats. 2014, ch. 914 (AB 2755)
+
+The people of the State of California do enact as follows:SECTION 1.Section 5047 of the Corporations Code is amended to read:5047. Except where otherwise expressly provided, “directors” means natural persons, designated in the articles or bylaws or elected by the incorporators, and their successors and natural persons designated, elected or appointed by any other name or title to act as members of the governing body of the corporation. If the articles or bylaws designate that a natural person is a director or a member of the governing body of the corporation by reason of occupying a specified position within the corporation or outside the corporation, without limiting that person’s right to vote as a member of the governing body, that person shall be a director for all purposes and shall have the
+						same rights and obligations, including voting rights, as the other directors. A person who does not have authority to vote as a member of the governing body of the corporation, is not a director as that term is used in this division regardless of title. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18968.lob
