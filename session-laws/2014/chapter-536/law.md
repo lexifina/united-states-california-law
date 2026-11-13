@@ -1,0 +1,8 @@
+# Stats. 2014, ch. 536 (AB 1767)
+
+The people of the State of California do enact as follows:SECTION 1.Section 33211.6 of the Public Resources Code is amended to read:33211.6. (a) Dumping any refuse matter, except by permit signed by the executive director or the executive director’s authorized representative, on property owned or managed by the conservancy, and posted against that dumping, shall be a misdemeanor punishable by a fine of not more than one thousand five hundred dollars ($1,500), or imprisonment in the county jail for not more than six months, or both that fine and imprisonment.  (b) Injuring, defacing, or destroying any property owned or managed by the conservancy or any of the natural features thereof, shall be a misdemeanor punishable by a fine of not more than one thousand five hundred dollars ($1,500), or
+						imprisonment in the county jail for not more than six months, or both that fine and imprisonment.  (c) Violation of the posted conditions of use on any property owned or managed by the conservancy is a misdemeanor punishable by imprisonment in the county jail not exceeding 90 days, or by a fine not exceeding one thousand dollars ($1,000), or by both that fine and
+						imprisonment, except that at the time a particular action pursuant to this section is commenced, the judge may, considering the recommendation of the prosecuting attorney, reduce the charged offense from a misdemeanor to an infraction. A person convicted of the offense after a reduction shall be punished by a fine of not less than one hundred dollars ($100), nor more than
+						five hundred dollars ($500). 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18752.lob
