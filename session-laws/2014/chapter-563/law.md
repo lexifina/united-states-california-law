@@ -1,0 +1,6 @@
+# Stats. 2014, ch. 563 (SB 1409)
+
+The people of the State of California do enact as follows:SECTION 1.Section 915 is added to the Public Utilities Code, to read:915. (a) Beginning February 1, 2016, the commission shall annually publish a report that includes all investigations into gas or electric service safety incidents reported, pursuant to commission requirements, by any gas corporation or electrical corporation. The report shall succinctly describe each safety investigation concluded during the prior calendar year and each investigation that remains open. The categories within the description shall include the month of the safety incident, the reason for the investigation, the facility type involved, and the owner of the facility.  (b) The commission shall include in its work plan required pursuant Section 321.6, a summary of the staff safety investigations concluded during the prior calendar year and
+						the staff safety investigations that remain open for any gas corporation or electrical corporation, with a link to the Internet Web site with the report that contains the information required pursuant to subdivision (a). 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18544.lob
