@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 381 (SB 1088)
+
+The people of the State of California do enact as follows:SECTION 1.Section 48645.5 of the Education Code is amended to read:48645.5. (a) Each public school district and county office of education shall accept for credit full or partial coursework satisfactorily completed by a pupil while attending a public school, juvenile court school, or nonpublic, nonsectarian school or agency. The coursework shall be transferred by means of the standard state transcript. If a pupil completes the graduation requirements of his or her school district of residence while being detained, the school district of residence shall issue to the pupil a diploma from the school the pupil last attended before detention or, in the alternative, the county superintendent of schools may issue the diploma.  (b) A
+						pupil shall not be denied enrollment or readmission to a public school solely on the basis that he or she has had contact with the juvenile justice system, including, but not limited to:  (1) Arrest.  (2) Adjudication by a juvenile court.  (3) Formal or informal supervision by a probation officer.  (4) Detention for any length of time in a juvenile facility or enrollment in a juvenile court school. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17389.lob
