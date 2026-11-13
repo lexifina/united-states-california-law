@@ -1,0 +1,5 @@
+# Stats. 2012, ch. 142 (AB 1930)
+
+The people of the State of California do enact as follows:SECTION 1.Section 18933 of the Government Code is amended to read:18933. (a) Within a reasonable time before the scheduled date, the board or a designated appointing power shall announce or advertise examinations for the establishment of eligible lists. The announcement shall contain information concerning the following:  (1) The date and place of the examination.  (2) The nature of the minimum qualifications.  (3) The general scope of the examination.  (4) The relative weight of its several parts if more than one type of test is to be utilized.  (5) Any other information the board deems proper.  (b) The board shall notify the Department of Veterans Affairs when any promotional examination for the establishment of an eligible list is announced or advertised to eligible candidates. The notification shall state the job position and include all of the information listed in paragraphs (1) to (5), inclusive, of subdivision (a). 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_16027.lob
