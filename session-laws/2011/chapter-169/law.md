@@ -1,0 +1,5 @@
+# Stats. 2011, ch. 169 (AB 1267)
+
+The people of the State of California do enact as follows:SECTION 1.Section 2236.2 is added to the Business and Professions Code, to read:2236.2.(a)Notwithstanding Article 9 (commencing with Section 700) of Chapter 1 of Division 2 or any other provision of law, a physician and surgeon’s certificate shall be automatically placed on inactive status during any period of time that the holder of the certificate is incarcerated after conviction of a misdemeanor.(b)A physician and surgeon’s certificate placed on inactive status pursuant to subdivision (a) shall be returned by the board to its prior or appropriate status within five business days of receiving notice that the physician and surgeon is no longer incarcerated. The board shall adopt regulations that specify the type of notice required to be submitted to the board.(c)The reason for the inactive status described in subdivision (a) shall be disclosed on the board’s Internet Web site.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_6675.lob
