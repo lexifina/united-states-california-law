@@ -1,0 +1,9 @@
+# Stats. 2013, ch. 81 (AB 824)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1856 of the Code of Civil Procedure is amended to read:1856. (a) Terms set forth in a writing intended by the parties as a final expression of their agreement with respect to the terms included therein may not be contradicted by evidence of a prior agreement or of a contemporaneous oral agreement.  (b) The terms
+				  set forth in a writing described in subdivision (a) may be explained or supplemented by evidence of consistent additional terms unless the writing is intended also as a complete and exclusive statement of the terms of the agreement.  (c) The terms set forth in a writing described in subdivision (a) may be explained or supplemented by course of dealing or usage of trade or by course of performance.  (d) The court shall determine whether the writing is intended by the parties as a final expression of their agreement with respect to the terms included therein and whether the writing is intended also as
+				  a complete and exclusive statement of the terms of the agreement.  (e) Where a mistake or imperfection of the writing is put in issue by the pleadings, this section does not exclude evidence relevant to that issue.  (f) Where the validity of the agreement is the fact in dispute, this section does not exclude evidence relevant to that issue.  (g) This section does not exclude other evidence of the circumstances under which the agreement was made or to which it relates, as defined in Section 1860, or to explain an extrinsic ambiguity or otherwise interpret the terms of the agreement, or to establish illegality or fraud.  (h) As used in this section,
+				  “agreement” includes trust instruments, deeds, wills,
+				  and contracts between parties. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_6877.lob
