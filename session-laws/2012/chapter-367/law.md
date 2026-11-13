@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 367 (AB 573)
+
+The people of the State of California do enact as follows:SECTION 1.Section 25504.5 of the Business and Professions Code is amended to read:25504.5. The provisions of Sections 25500 to 25503, inclusive, and of Section 25600 do not apply to the occasional inspection and cleaning by manufacturers and wholesalers of taps and tapping equipment installed in retail on-sale premises. SEC. 2.Section 25511 of the Business and Professions Code is amended to read:25511. Notwithstanding any other provision of this division, a manufacturer or wholesaler, or any officer, director, or agent of any of those persons may furnish, give, rent, lend, or sell, directly or indirectly, any equipment, fixtures, or supplies, other than alcoholic beverages, to a retailer whose equipment, fixtures, or supplies were lost or damaged as a result of a natural disaster and whose premises are located in an area proclaimed to be in a state of disaster by the Governor.  This section does not apply to transactions that occur three months or more after the Governor proclaims an area
+						to be in a state of disaster.  Nothing in this section is intended to affect or otherwise limit Section 23104.1, 23104.2, or 23104.3. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17982.lob
