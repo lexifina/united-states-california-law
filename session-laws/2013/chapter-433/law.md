@@ -1,0 +1,6 @@
+# Stats. 2013, ch. 433 (AB 1220)
+
+The people of the State of California do enact as follows:SECTION 1.Section 1785.10.1 is added to the Civil Code, to read:1785.10.1. (a) It is unlawful for a consumer credit reporting agency to prohibit in any manner, including, but not limited to, in the terms of a contract enforceable in the state, or to dissuade or attempt to dissuade, a user of a consumer credit report furnished by the credit reporting agency from providing a copy of the consumer’s credit report to the consumer, upon the consumer’s request, if the user has taken adverse action against the consumer based in whole or in part upon information in the report.  (b) The Attorney General, any district attorney or city attorney, or a city prosecutor in any city or city and county having a full-time city prosecutor, may bring a civil action in any court of competent jurisdiction against any credit reporting agency violating this section for a civil penalty not to exceed five thousand dollars ($5,000) which may be assessed and recovered in a civil action brought in the name of the people of the
+						State of California. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_17341.lob
