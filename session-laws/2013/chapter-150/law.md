@@ -1,0 +1,7 @@
+# Stats. 2013, ch. 150 (SB 378)
+
+The people of the State of California do enact as follows:SECTION 1.Section 452.5 of the Evidence Code is amended to read:452.5. (a) The official acts and records specified in subdivisions (c) and (d) of Section 452 include any computer-generated official court records, as specified by the Judicial Council which relate to criminal convictions, when the record is certified by a clerk of the superior court pursuant to Section 69844.5 of the Government Code at the time of computer entry.  (b) (1) An official record of conviction certified in accordance with subdivision
+						(a) of Section 1530, or an electronically digitized copy thereof, is admissible under Section 1280 to prove the commission, attempted commission, or solicitation of a criminal
+						offense, prior conviction, service of a prison term, or other act, condition, or event recorded by the record.  (2) For purposes of this subdivision, “electronically digitized copy” means a copy that is made by scanning, photographing, or otherwise exactly reproducing a document, is stored or maintained in a digitized format, and bears an electronic signature or watermark unique to the entity responsible for certifying the document. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_7533.lob
