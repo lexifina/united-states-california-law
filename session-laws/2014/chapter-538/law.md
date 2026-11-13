@@ -1,0 +1,5 @@
+# Stats. 2014, ch. 538 (AB 2444)
+
+The people of the State of California do enact as follows:SECTION 1.Chapter 2.9 (commencing with Section 8195) is added to Division 1 of Title 2 of the Government Code, to read:2.9.Confederate Flag8195. (a) The State of California may not sell or display the Battle Flag of the Confederacy, also referred to as the Stars and Bars, or any similar image, or tangible personal property, inscribed with such an image unless the image appears in a  book, digital medium, or state museum that serves an educational or historical purpose.  (b) For purposes of this section, “sell” means to transfer title or possession, exchange, or barter, conditional or otherwise, in any manner or by any means whatsoever, for consideration. “Transfer possession” includes only transactions that would be found by the State Board of Equalization, for purposes of the Sales and Use Tax Law, to be in lieu of a transfer of title, exchange, or barter. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18759.lob
