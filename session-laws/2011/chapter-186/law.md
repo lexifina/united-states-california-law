@@ -1,0 +1,5 @@
+# Stats. 2011, ch. 186 (AB 84)
+
+The people of the State of California do enact as follows:SECTION 1.Section 331 of the Elections Code is amended to read:331.“New citizen” means any person who meets all requirements of an elector of, and has established residency in, the state, except that he or she will become a United States citizen after the 15th day prior to an election.SEC. 2.Section 3500 of the Elections Code is amended to read:3500.A new citizen is eligible to register and vote at the office of, or at another location designated by, the county elections official at any time beginning on the 14th day before an election and ending at the close of polls on the election day following the date on which that person became a citizen.SEC. 3.If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_6691.lob
