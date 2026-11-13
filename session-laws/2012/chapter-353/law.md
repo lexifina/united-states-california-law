@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 353 (SB 415)
+
+The people of the State of California do enact as follows:SECTION 1.Section 73.01 is added to the Streets and Highways Code, to read:73.01. The commission may relinquish to a county transportation commission created pursuant to Chapter 1 (commencing with Section 130000) of Division 12 of the Public Utilities Code, or regional transportation planning agency, a park-and-ride lot within their respective jurisdictions, on terms and conditions that the commission finds to be within the best interests of the state, if the department enters into an agreement with the county transportation commission or regional transportation planning agency providing for that relinquishment. The county transportation commission or regional transportation planning agency requesting the relinquishment shall agree to maintain, at a minimum, the number of parking spaces provided by the department in the lot at the time of relinquishment. Any such
+				  relinquishment shall become effective on the date following the county recorder’s recordation of the relinquishment resolution containing the commission’s approval of the terms and conditions of the relinquishment. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17949.lob
