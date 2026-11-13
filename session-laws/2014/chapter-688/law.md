@@ -1,0 +1,5 @@
+# Stats. 2014, ch. 688 (SB 877)
+
+The people of the State of California do enact as follows:SECTION 1.Chapter 3.131 (commencing with Section 15820.93) of Part 10b of Division 3 of Title 2 of the Government Code, as added by Section 6 of Chapter 26 of the Statutes of 2014, is repealed.SEC. 2. The sum of five thousand dollars ($5,000) is hereby appropriated from the General Fund to the Board of State and Community Corrections for purposes of administering the bond financing program established pursuant to Chapter 3.131 (commencing with Section 15820.93) of Part 10b of Division 3 of Title 2 of the Government Code, as added by Section 4 of Chapter 37 of the Statutes of 2014. SEC. 3. This act is a bill providing for appropriations related to the Budget Bill within the meaning of subdivision (e) of Section 12 of Article IV of the California Constitution, has been identified as related to the budget in the Budget Bill, and shall take effect immediately. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18609.lob
