@@ -36,16 +36,17 @@
       "2007",
       "2009",
       "2011 (partial)",
-      "2012 (partial)"
+      "2012 (partial)",
+      "2013 (partial)",
+      "2014 (partial)"
     ],
-    "statutes": 19063,
-    "held": 6027,
+    "statutes": 20456,
+    "held": 6369,
     "text_status": "as enacted",
     "path": "session-laws",
     "consolidated_history_unchanged": true,
     "pending_sessions": [
-      "held 2011–2012 statutes",
-      "2013–2014",
+      "held historical statutes",
       "2015–2016 before 2016-11-27"
     ]
   }
