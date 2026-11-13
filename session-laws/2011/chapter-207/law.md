@@ -1,0 +1,6 @@
+# Stats. 2011, ch. 207 (AB 820)
+
+The people of the State of California do enact as follows:SECTION 1.Section 162 of the Revenue and Taxation Code is amended to read:162.The assessor, tax collector, and auditor shall, except where specifically prohibited by law, charge and collect a fee of one dollar ($1) for preparing each of the following documents:(a)A certified copy of a redemption certificate.(b)A certified copy of an installment redemption receipt.(c)A certified copy of an assessment as entered on the assessment roll.The fee for providing a copy of a record or document by photographic process shall be the actual cost thereof plus the sum of one dollar ($1). The fee shall be placed in the
+				  county general fund.SEC. 2.Section 162.1 is added to the Revenue and Taxation Code, to read:162.1.(a)The assessor, tax collector, or auditor shall charge and collect a fee to cover the actual and reasonable costs incurred by the assessor, tax collector, or auditor to prepare a certificate of payment showing taxes paid.(b)The amount of the fee shall be established by the board of supervisors of the county and shall be subject to the requirements of Chapter 12.5 (commencing with Section 54985) of Part 1 of Division 2 of Title 5 of the Government Code.
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_8150.lob
