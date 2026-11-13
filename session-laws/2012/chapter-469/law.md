@@ -1,0 +1,10 @@
+# Stats. 2012, ch. 469 (AB 1456)
+
+The people of the State of California do enact as follows:SECTION 1. The Legislature finds and declares all of the following:  (a) On September 9, 2010, a 30-inch natural gas transmission pipeline ruptured in San Bruno, California, killing eight people, hospitalizing more than 50 people, and destroying 38 homes.  (b) On September 23, 2010, the Public Utilities Commission created an independent review panel of experts to investigate both the practices of the pipeline operator and of the commission to ensure that such an accident would not be repeated elsewhere in the state.  (c) On June 9,
+				2011, the panel presented its findings and found that the financial focus of the pipeline operator’s management had been detrimental to system safety.  (d) The panel suggested that, upon thorough analysis of benchmark data, rate incentives and penalties be applied to gas corporations based on the achievement of specified levels of performance. SEC. 2.Section 970 is added to the Public Utilities Code, to read:970. (a) The commission shall perform an analysis of benchmark data and adopt safety performance metrics for pipeline safety.  (b) The commission shall consider the
+						following principles when adopting safety performance metrics:  (1) Each safety performance metric shall be designed to be an indicator of safety performance.  (2) Each safety performance metric shall be designed so that it may be reevaluated within a useful timeframe.  (3) Each safety performance metric shall be designed so that the data inputs to the metric are verifiable.  (4) The adopted set of safety performance metrics shall be robust enough to serve as a useful indicator of pipeline safety.  (c) The commission shall evaluate a gas corporation’s safety performance
+						using the safety performance
+						metrics
+						adopted pursuant to subdivision (a) and may implement a rate incentive program. The rate incentive program may contain penalties based on safety performance. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18160.lob
