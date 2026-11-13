@@ -1,0 +1,8 @@
+# Stats. 2012, ch. 538 (AB 1801)
+
+The people of the State of California do enact as follows:SECTION 1.Section 65850.55 is added to the Government Code, to read:65850.55. (a) (1) The Legislature finds and declares that oversight of permitting fees for solar energy systems is a matter of statewide concern and not a municipal affair, as that term is used in Section 5 of Article XI of the California Constitution. Therefore this act shall apply to all cities, including charter cities. The Legislature further finds and declares that nothing in this bill is intended to imply approval of any other local fees for solar systems not specifically covered by this bill.  (2) For purposes of this section, the term “solar energy system” shall have the same meaning as set forth by subdivision (a) of Section 801.5 of the Civil
+						Code.  (b) A city, county, or city and county,
+						in determining fees charged for the installation of a solar energy system, shall not do either of the following:  (1) Base the calculation of the fee on the valuation of the solar energy system, or any other factor not directly associated with the cost to issue the permit.  (2) Base the calculation of the fee on the valuation of the property on which the improvement is planned, or the
+						improvement, materials, or labor costs associated with the improvement.  (c) A city, county, or city and county shall separately identify each fee assessed on an applicant for the installation of a solar energy system on the invoice provided to the applicant. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18229.lob
