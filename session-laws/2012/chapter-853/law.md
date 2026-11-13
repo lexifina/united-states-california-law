@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 853 (AB 1248)
+
+The people of the State of California do enact as follows:SECTION 1.Section 7500.5 is added to the Government Code, to read:7500.5. (a) This section shall only apply to the City of San Diego.  (b) For the purposes of this section, the following definitions shall apply:  (1) “Federal system” means the old age, survivors, disability, and health insurance provisions of the federal Social Security Act (42 U.S.C. Sec. 301 et seq.).   (2) “Local public employer” means the City of San Diego.  (c) A local public employer shall provide coverage under the federal system to all employees who are not covered under a
+						defined benefit plan.  (d) The requirements of this section shall not apply with regard to replacing or changing an employer’s defined contribution plan that was in place on July 1, 2012, unless the defined contribution plan will replace or change the employer’s existing defined benefit plan. SEC. 2. The Legislature finds and declares that a special law is necessary and that a general law cannot be made applicable within the meaning of Section 16 of Article IV of the California Constitution because of the unique circumstances in the City of San Diego with respect to retirement benefits. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18063.lob
