@@ -1,0 +1,5 @@
+# Stats. 2014, ch. 649 (AB 1589)
+
+The people of the State of California do enact as follows:SECTION 1.Section 3120 of the Elections Code is amended to read:3120. The elections official shall request an electronic mail address from each military or overseas voter who registers to vote. A military or overseas voter who provides an electronic mail address may request that his or her application for a ballot be considered a standing request for electronic delivery of a ballot for all elections conducted in the jurisdiction in which he or she is eligible to vote. An elections official shall provide for electronic delivery of a ballot to a military or overseas voter who makes a standing request for all elections conducted in the jurisdiction in which he or she is eligible to vote. SEC. 2. If the Commission on State Mandates determines that this act contains costs mandated by the state, reimbursement to local agencies and school districts for those costs shall be made pursuant to Part 7 (commencing with Section 17500) of Division 4 of Title 2 of the Government Code. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18706.lob
