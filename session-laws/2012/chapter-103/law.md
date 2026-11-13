@@ -1,0 +1,7 @@
+# Stats. 2012, ch. 103 (AB 2567)
+
+The people of the State of California do enact as follows:SECTION 1.Section 53756 of the Government Code is amended to read:53756. An agency providing water, wastewater, sewer, or refuse collection service may adopt a schedule of fees or charges authorizing automatic adjustments that pass through increases in wholesale charges for water, sewage treatment, or wastewater treatment or adjustments for inflation, if it complies with all of the following:  (a) It adopts the schedule of fees or charges for a property-related service for a period not to exceed five years pursuant to Section 53755.  (b) The schedule of fees or charges may include a schedule of adjustments,
+						including a clearly defined formula for adjusting for inflation. Any inflation adjustment to a fee or charge for a property-related service shall not exceed the cost of providing that service.  (c) The schedule of fees or charges for an agency that purchases wholesale water, sewage treatment, or wastewater treatment from a public agency may provide for automatic adjustments that pass through the adopted increases or decreases in the wholesale charges for water, sewage treatment, or wastewater treatment established by the other agency.  (d) Notice of any adjustment pursuant to the schedule shall be given
+						pursuant to subdivision (a) of Section 53755, not less than 30 days before the effective date of the adjustment. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_15780.lob
