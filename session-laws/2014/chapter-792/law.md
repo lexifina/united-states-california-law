@@ -1,0 +1,5 @@
+# Stats. 2014, ch. 792 (AB 877)
+
+The people of the State of California do enact as follows:SECTION 1.Section 17228 is added to the Revenue and Taxation Code, to read:17228. For taxable years beginning on or after January 1, 2014, a deduction shall not be allowed for the amount of any fine or penalty paid or incurred by an owner of all or part of a professional sports franchise, where that fine or penalty is assessed or imposed by the professional sports league that includes that franchise. SEC. 2.Section 24343.8 is added to the Revenue and Taxation Code, to read:24343.8. For taxable years beginning on or after January 1, 2014, a deduction shall not be allowed for the amount of any fine or penalty paid or incurred by an owner of all or part of a professional sports franchise, where that fine or penalty is assessed or imposed by the professional sports league that includes that franchise. SEC. 3.  This act provides for a tax levy within the meaning of Article IV of the Constitution and shall go into immediate effect. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2013.zip#BILL_VERSION_TBL_18818.lob
