@@ -1,0 +1,10 @@
+# Stats. 2012, ch. 809 (AB 1593)
+
+The people of the State of California do enact as follows:SECTION 1.Section 4801 of the Penal Code is amended to read:4801. (a) The Board of Parole Hearings may report to the Governor, from time to time, the names of any and all persons imprisoned in any state prison who, in its judgment, ought to have a commutation of sentence or be pardoned and set at liberty on account of good conduct, or unusual term of sentence, or any other cause, including evidence of intimate partner battering and its effects. For purposes of this section, “intimate partner battering and its effects” may include evidence of the nature and effects of physical, emotional, or mental abuse upon the beliefs, perceptions, or behavior of victims of domestic violence where it appears the criminal behavior was the result of that victimization.  (b) (1) The Board of Parole Hearings, in reviewing a
+						prisoner’s suitability for parole pursuant to Section 3041.5, shall
+						give great weight to any information or evidence that, at the time of the commission of the crime, the prisoner had experienced intimate partner battering, but was convicted of an offense that occurred prior to August 29, 1996. The board shall state on the record the information or evidence that it considered pursuant to this subdivision, and the reasons for the parole decision. The board
+						shall annually report to the Legislature and the Governor on the cases the board considered pursuant to this subdivision during the previous year, including the board’s
+						decisions and the specific and detailed
+						findings of its investigations of these cases.  (2) The report for the Legislature to be submitted pursuant to paragraph (1) shall be submitted pursuant to Section 9795 of the Government Code.  (3) The fact that a prisoner has presented evidence of intimate partner battering cannot be used to support a finding that the prisoner lacks insight into his or her crime and its causes. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_18115.lob
