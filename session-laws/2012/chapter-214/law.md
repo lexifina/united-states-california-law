@@ -1,0 +1,7 @@
+# Stats. 2012, ch. 214 (SB 1315)
+
+The people of the State of California do enact as follows:SECTION 1.Section 53071.5 of the Government Code is amended to read:53071.5. (a) By the enactment of this section, the Legislature occupies the whole field of regulation of the manufacture, sale, or possession of imitation firearms, as defined in subdivision (a) of Section 16700 of the Penal Code, and that subdivision shall preempt and be exclusive of all regulations relating to the manufacture, sale, or possession of imitation firearms, including regulations governing the manufacture, sale,
+						or possession of BB devices and air rifles described in Section 16250 of the Penal Code.  (b) Notwithstanding subdivision (a), the County of Los Angeles, and any city within the County of Los Angeles, may enact and enforce an ordinance or resolution that is more restrictive than state law regulating the manufacture, sale, possession, or use of any BB device, toy gun, replica of a firearm, or other device that meets both of the following requirements:  (1) The
+						device is so substantially similar in coloration and overall appearance to an existing firearm as to lead a reasonable person to perceive that the device is a firearm.  (2) The device expels a projectile that is no more than 16 millimeters in diameter. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17676.lob
