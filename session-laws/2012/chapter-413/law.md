@@ -1,0 +1,6 @@
+# Stats. 2012, ch. 413 (AB 16)
+
+The people of the State of California do enact as follows:SECTION 1.Section 185036.1 is added to the Public Utilities Code, to read:185036.1. (a) The authority shall make every effort to purchase high-speed train rolling stock and related equipment that are manufactured in California, as defined in subdivision (b), consistent with federal law and any other applicable provision of state law.  (b) For purposes of this section, the following terms have the following meanings:  (1) “Manufactured in California” means that the rolling stock and related equipment are manufactured in whole or in substantial part within California or that the majority of the component parts of the rolling stock and
+						related equipment were manufactured in whole or in substantial part in California.  (2) “Manufactured” means an activity of converting or conditioning property by changing the form, composition, quality, or character of the property for ultimate sale at retail or use in the manufacturing of a product to be ultimately sold at retail.  (c) Nothing in this section creates a private right of action in any civil litigation. 
+
+Source: https://downloads.leginfo.legislature.ca.gov/pubinfo_2011.zip#BILL_VERSION_TBL_17415.lob
